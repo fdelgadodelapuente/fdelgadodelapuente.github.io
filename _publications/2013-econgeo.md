@@ -1,6 +1,6 @@
 title: "Using iodine isotopes to constrain supergene fluid sources in arid regions: insights from the Chuquicamata oxide blanket"
 collection: publications
-permalink: /publication/2013-econgeo.md
+permalink: /publication/2013-econgeo
 date: 2013
 venue: 'Economic Geology'
 paperurl: 'https://pubs.geoscienceworld.org/segweb/economicgeology/article/108/1/163/128448/using-iodine-isotopes-to-constrain-supergene-fluid'
