@@ -8,7 +8,7 @@ permalink: /contact/
 ---
 Email: ap868 [at] cornell [dot] edu
 
-<h1 style="font-size:70%;">
+<h1 style="font-size:50%;">
     <p style="text-align:left;">
     Institut de Physique du Globe de Paris 
     <span style="float:right;">
