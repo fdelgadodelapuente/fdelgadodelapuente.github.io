@@ -7,7 +7,7 @@ permalink: /contact/
 
 ---
 Email: ap868 [at] cornell [dot] edu
-<p style="font-size:300%;">
+<p style="font-size:50%;">
 	<p style="text-align:left;">
 	    Institut de Physique du Globe de Paris  
 	    Géochimie des enveloppes externes  
