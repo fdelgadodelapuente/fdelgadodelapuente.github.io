@@ -8,7 +8,7 @@ permalink: /contact/
 ---
 Email: ap868 [at] cornell [dot] edu
 
-<p style="font-size:60%;">
+<p1 style="font-size:60%;">
     <p style="text-align:left;">
     Institut de Physique du Globe de Paris 
     <span style="float:right;">
@@ -27,5 +27,5 @@ Email: ap868 [at] cornell [dot] edu
     4144 Snee Hall, Ithaca NY, 14853
   </span>
 </p>
-</p>    
+</p1>    
     
