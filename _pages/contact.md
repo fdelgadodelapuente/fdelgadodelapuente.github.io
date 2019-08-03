@@ -9,4 +9,5 @@ permalink: /contact/
 **Email: ap868 [at] cornell [dot] edu**
 
 Géochimie des enveloppes externes, Institut de Physique du Globe de Paris<br>
-Department of Earth and Atmospheric Sciences, Cornell University.
+<br>
+Department of Earth and Atmospheric Sciences, Cornell University
