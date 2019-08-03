@@ -8,7 +8,7 @@ permalink: /contact/
 ---
 Email: ap868 [at] cornell [dot] edu
 
-<h1 style="font-size:50%;">
+<p style="font-size:60%;">
     <p style="text-align:left;">
     Institut de Physique du Globe de Paris 
     <span style="float:right;">
@@ -18,7 +18,7 @@ Email: ap868 [at] cornell [dot] edu
 <p style="text-align:left;">
     Équipe de Géochimie des enveloppes externes
         <span style="float:right;">
-          Department of Earth and Atmospheric Sciences, Cornell Univeristy
+          Department of Earth and Atmospheric Sciences
     </span>
  </p>
 <p style="text-align:left;">
@@ -27,5 +27,5 @@ Email: ap868 [at] cornell [dot] edu
     4144 Snee Hall, Ithaca NY, 14853
   </span>
 </p>
-</h1>    
+</p>    
     
