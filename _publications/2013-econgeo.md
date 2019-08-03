@@ -1,6 +1,6 @@
 title: "Using iodine isotopes to constrain supergene fluid sources in arid regions: insights from the Chuquicamata oxide blanket"
 collection: publications
-permalink: /publication/2013-econgeo
+permalink: /publication/2013-econgeo.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2013
 venue: 'Journal 1'
