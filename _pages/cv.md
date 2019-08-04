@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Detailed  CV](https://www.dropbox.com/s/pml7g5uqyx9em21/FranciscoDelgadoCV_tex.pdf?dl=0).
+
+
 Education
 ======
 
@@ -48,3 +51,4 @@ Geophysicist
 
 2011/03 - 2011/09 DIFROL. (State boundaries and limits bureau, Chile):
 Geophysicist
+
