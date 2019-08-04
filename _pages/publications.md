@@ -17,16 +17,14 @@ Delgado, F., Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. 2018. Foreca
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., Delgado, F., 2019. Viscoelastic relaxation: a key factor promoting large surface displacements at Laguna del Maule. Earth and Planetary Science Letters, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
 
 
+Pritchard, M.E., Mather, T.A., McNutt, S., Delgado, F., Reath, K., 2019. Some thoughts on the criteria to determine the origin of volcanic unrest as magmatic, hydrothermal, both, or other. Philosophical Transactions of the Royal Society, accepted, doi:10.1098/rsta.2018.0008.
+
+
 Reath, K., Pritchard  M., Poland, M., Delgado, F., Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M., 2018. Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems. Journal of Geophysical Research, in press. doi:10.1029/2018JB016199
 
 
-, 2018. . , doi:10.1029/2018JB016240.
-
 [Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
 **Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**
-
-
-Pritchard, M.E., Mather, T.A., McNutt, S., Delgado, F., Reath, K., 2018. Some thoughts on the criteria to determine the origin of volcanic unrest as magmatic, hydrothermal, both, or other. Philosophical Transactions of the Royal Society, accepted, doi:10.1098/rsta.2018.0008.
 
 
 Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., Delgado, F., Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S., 2018. Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project. Journal of Applied Volcanology, 7:5, doi.org/10.1186/s13617-018-0074-0.
