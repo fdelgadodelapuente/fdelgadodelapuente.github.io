@@ -8,48 +8,43 @@ Additional instructions for Linux machines with little to none sudo permissions 
 
 Other instructions (Scott Henderson, University of Washington)
 
-STEP 1: update Python2.7 
 
-ISCE is compiled with scons, a Python2.7 application. You have scons installed if you type
-which scons
-scons -h
+ISCE is compiled with scons, a Python application. You have scons installed if you type
+**which scons
+scons -h**
 and the outputs do not display errors
-If you do not have scons, download miniconda2, update the libraries and install scons 
+If you do not have scons, go to the next step, 
  
-/home/francisco/miniconda2/bin/conda update --all
-/home/francisco/miniconda2/bin/conda install scons
- 
-Now type again the scons commands. If it doesn't work, close the terminal, open another window and try again. As far as I understand, the last version of ISCE supports scons for python3.
- 
-STEP 2: update Python3
+## **STEP 2: update Python3**
 
 ISCE is written in Python3 and uses a lot of its libraries. To install them all you need to install anaconda3 and then type
  
-/home/francisco/anaconda3/bin/conda config --add channels conda-forge
+**/home/francisco/anaconda3/bin/conda config --add channels conda-forge
 /home/francisco/anaconda3/bin/conda update --all
+/home/francisco/anaconda3/bin/conda install scons
 /home/francisco/anaconda3/bin/conda install gdal
 /home/francisco/anaconda3/bin/conda install libgdal
-/home/francisco/anaconda3/bin/conda install -c omnia fftw3f=3.3.4
+/home/francisco/anaconda3/bin/conda install -c omnia fftw3f=3.3.4**
  
 Now open a python3 window and type
  
-import scipy
+**import scipy
 import numpy
 import matplotlib.pyplot as plt
 import h5py
-from osgeo import gdal
+from osgeo import gdal**
  
 If they are correctly installed, you should see no errors.
  
 The steps in https://github.com/piyushrpt/oldLinuxSetup/blob/master/anaconda.md for installing anaconda are slightly different because they state that you should update the libraries before installing gdal. I've noticed that sometimes the installation is just fine if you do it the way I posted above. If anaconda failed to install the libraries, delete the folder and reinstall from scratch
 
 The range split spectrum method for ionospheric correction uses cython
-conda install cython
-ln -sf /home/fjd49/anaconda3/bin/cython /home/fjd49/anaconda3/bin/cython3
+**conda install cython
+ln -sf /home/fjd49/anaconda3/bin/cython /home/fjd49/anaconda3/bin/cython3**
 
 If you don't have the cython3 soft link, the split spectrum module will not be installed
 
-STEP 3: create the SConfigISCE file
+## **STEP 3: create the SConfigISCE file**
  
 This is the tricky part, that ISCE can actually find all the installed libraries. You need to create a file called SConfigISCE in the folder above ISCE which specifies the libraries paths. 
  
