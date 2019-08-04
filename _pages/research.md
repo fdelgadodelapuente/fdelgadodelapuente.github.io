@@ -126,12 +126,11 @@ I am also interested in the use of InSAR to study active crustal deformation pro
 
 
 <img style="float: center;" src="/images/sabancaya_eq.png">
+<img style="float: center;" src="/images/sabancaya_creep.png">
  
-TerraSAR-X interferogram of the July 17 2013 Mw 5.8 earthquake NW of Sabancaya volcano (black triangle) in Southern Peru. InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. The geodetic focal mechanism is in agreement with the seismic moment tensor for both the geometry and the seismic moment, and shows that there is no evidence for either volcano-induced deformation or magma injection. The interferogram also shows triggered slip on smaller faults N of Sabancaya, as well as residual atmospheric noise.
+Left. TerraSAR-X interferogram of the July 17 2013 Mw 5.8 earthquake NW of Sabancaya volcano (black triangle) in Southern Peru. InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. The geodetic focal mechanism is in agreement with the seismic moment tensor for both the geometry and the seismic moment, and shows that there is no evidence for either volcano-induced deformation or magma injection. The interferogram also shows triggered slip on smaller faults N of Sabancaya, as well as residual atmospheric noise.
 
- <img style="float: center;" src="/images/sabancaya_creep.png">
- 
-Unwrapped (left) and wrapped (right) 2013/11 - 2016/12 TerraSAR-X mean velocity calculated from InSAR time series that show ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the fault responsible for the July 2013 Mw 5.9 earthquake, which is better observed in the wrapped interferogram.
+Unwrapped (middle) and wrapped (right) 2013/11 - 2016/12 TerraSAR-X mean velocity calculated from InSAR time series that show ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the fault responsible for the July 2013 Mw 5.9 earthquake, which is better observed in the wrapped interferogram.
 
  <img style="float: center;" src="/images/aysen1.png">
  <img style="float: center;" src="/images/aysen2.png">
