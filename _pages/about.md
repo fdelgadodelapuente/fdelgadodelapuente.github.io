@@ -9,8 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **low-temperature geochemist** from Chile, working towards my Ph.D. Cornell University working with Prof. Louis Derry. <br>
+<p align="left">I am a **low-temperature geochemist** from Chile, working towards my Ph.D. Cornell University working with Prof. Louis Derry. <br>
 Currently I am a visiting student at the Institut de Physique du Globe de Paris under the ‘Make Our Planet Great Again’ program. 
 <br><br>
-Before my time at Cornell, I got M.Sc. and B.Sc. degrees in Geology from the University of Chile.
+Before my time at Cornell, I got M.Sc. and B.Sc. degrees in Geology from the University of Chile.</p>
+
+<img style="float: right;" src="/images/aboutme1.jpg">
+
 
