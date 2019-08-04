@@ -8,14 +8,11 @@ author_profile: true
 [From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://eartharxiv.org/c8d5v/)<br>
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review, available at EarthXiv.
 
-
 [Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)<br>
 **Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, in press
 
-
-[Viscoelastic relaxation: a key factor promoting large surface displacements at Laguna del Maule](https://www.sciencedirect.com/science/article/pii/S0012821X19303383)<br>
+[Viscoelastic relaxation: A mechanism to explain the decennial large surface displacements at the Laguna del Maule silicic volcanic complex](https://www.sciencedirect.com/science/article/pii/S0012821X19303383)<br>
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., **Delgado, F.**  <i>Earth and Planetary Science Letters</i>. **2019**, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
-
 
 [Thoughts on the criteria to determine the origin of volcanic unrest as magmatic or non-magmatic](https://royalsocietypublishing.org/doi/10.1098/rsta.2018.0008)<br>
 Pritchard, M.E., Mather, T.A., McNutt, S., **Delgado, F.**, Reath, K. <i>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. **2019**, 377, 2139, doi:10.1098/rsta.2018.0008.
