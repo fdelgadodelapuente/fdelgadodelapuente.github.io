@@ -34,7 +34,7 @@ Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Dece
 
 
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
-**Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of "Volcano Geodesy: Recent developments and future challenges".
+**Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
 
 
 [Rapid uplift after the 2011-2012 Cordón Caulle (Southern Andes, Chile) rhyodacitic eruption: evidence for magma chamber refill](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL070066)<br>
@@ -42,7 +42,9 @@ Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Dece
 
 
 
-Delgado, F., Pavez, A. 2015. New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile). Andean Geology, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
+
+[New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile)](http://www.andeangeology.cl/index.php/revista1/article/view/V42n3-a02/html)<br>
+**Delgado, F.**, Pavez, A. <i>Andean Geology</i>. **2015**, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
 
 
 
