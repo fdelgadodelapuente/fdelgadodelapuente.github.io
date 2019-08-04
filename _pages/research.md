@@ -102,12 +102,12 @@ On the other hand, volcano deformation is recorded over spatial scales that vary
 
 Examples of 1-day CSK (COSMO-SkyMED) and 2-days UAVSAR interferograms at Villarrica volcano. The labels show the season, repeat period and acquisition dates. All the interferograms are wrapped and only a and b are filtered. Dashed black lines are the swaths of TerraSAR-X spotlight data. The figure shows that with the current SAR platforms it is not possile to sustain coherence in the summit of heavily glaciated but restless volcanoes. Only UAVSAR data is coherent but this platform is not used for permanent overflights. This currently hampers the use of InSAR to study of conduit pressurization produced by either stick-slip of solid plugs of andesitic magma or by gas slugs during strombolian eruptions because these signals are likely to be detected only with measurement acquired less than a few hundred meters from the eruptive vents.
 
-<img style="float: center;" src="/images/villarrica_erai.png">
+<img style="float: center;" src="/images/villarrica_eraI.png">
 
 
 Comparison of methods to correct atmospheric phase delays in ALOS-1 and CSK interferograms at Llaima (a-b only) and Villarrica volcanoes for ALOS-1 (a-b) and COSMO-SkyMED (c). The analysis shows that low-resolution global atmospheric models such as ERA-I do not significantly reduce the atmospheric noise variance compared with simple empirical techniques like a ramp with an elevation dependent term. This significantly hampers the detection of small-amplitude, transient signals in stratovolcanoes that are correlated with the spatial wavelengths of topography correlated atmospheric noise.
 
-<img style="float: center;" src="/images/caulle_cor.png">
+<img style="float: center;" src="/images/caulle_cor.jpg">
 
 
 Coherence comparison for interferograms with 24 and 48 day repeat periods at Cordon Caulle volcano. The data sets are a low resolution wide swath mode (Sentinel-1 Terrain Observation by Progressive Scans, 20 m/pixel) with VV polarization and a high resolution strip map beam (RADARSAT-2 Wide Ultra Fine 12, 2 m/pixel) with HH polarization. The RADARSAT-2 coherence ​is much higher than the Sentinel-1 coherence due to a combination of the higher resolution and the HH polarization. 
