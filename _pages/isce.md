@@ -38,67 +38,68 @@ If they are correctly installed, you should see no errors.
  
 The steps in https://github.com/piyushrpt/oldLinuxSetup/blob/master/anaconda.md for installing anaconda are slightly different because they state that you should update the libraries before installing gdal. I've noticed that sometimes the installation is just fine if you do it the way I posted above. If anaconda failed to install the libraries, delete the folder and reinstall from scratch
 
-The range split spectrum method for ionospheric correction uses cython
+The range split spectrum method for ionospheric correction uses **cython**
+
 **conda install cython
 ln -sf /home/fjd49/anaconda3/bin/cython /home/fjd49/anaconda3/bin/cython3**
 
-If you don't have the cython3 soft link, the split spectrum module will not be installed
+If you don't have the **cython3** soft link, the split spectrum module will not be installed
 
 ## **STEP 3: create the SConfigISCE file**
  
 This is the tricky part, that ISCE can actually find all the installed libraries. You need to create a file called SConfigISCE in the folder above ISCE which specifies the libraries paths. 
  
 If you are starting from a raw ubuntu installation, you will need to install a few extra libraries, including the OpenMotif library for the MDX interferogram viewer. To do so, just type in the terminal
-sudo apt-get install libx11-dev libxm4 libmotif-dev libfftw3f-dev gfortran
+**sudo apt-get install libx11-dev libxm4 libmotif-dev libfftw3f-dev gfortran**
 If your system doesn't find the the fftw3 library, get it from this link
  
-For the 2.2 version you also need openCV2 for stripmapApp.py
-conda install opencv
-However, this will downgrade gdal, which you must then update with
-conda update gdal
+For the 2.2 version you also need **openCV2** for **stripmapApp.py**
+**conda install opencv**
+However, this will downgrade **gdal**, which you must then update with
+**conda update gdal**
 
-STEP 4: Install ISCE
+## **STEP 4: Install ISCE**
 
 cd to the ISCE folder and then type in the terminal
-SCONS_CONFIG_DIR=/home/francisco scons install
-with /home/francisco the path of the SCONS_CONFIG file
+**SCONS_CONFIG_DIR=/home/francisco scons install**
+with **/home/francisco** the path of the **SCONS_CONFIG** file
 The ISCE compilation will output thousands of warnings, they are ok, so don't be scared. Once you've succeed to compile the software, you need to add ISCE to your bash profile. If the installation fails due to missing libraries, type
 
-rm -rf config.log .sconfig.dblite .sconf_temp
+**rm -rf config.log .sconfig.dblite .sconf_temp**
 
 and then restart
 
-STEP 5: source ISCE
+## **STEP 5: source ISCE**
  
-Create and modify a bash file with the name isce1807.sh. Then type 
+Create and modify a bash file with the name **isce.sh**. Then type 
  
-chmod 777 isce1708.sh
-source isce1708.sh
+****chmod 777 isce.sh
+source isce.sh**
  
 This ends the ISCE installation
  
-STEP 6: run ISCE
+## **STEP 6: run ISCE**
  
 You should see a bunch of outputs with no error messages when you type 
 
-insarApp.py --steps --help (stripmap processor with motion compensated geometry, works for all raw data, doesn't work well for zero Doppler data)
-topsApp.py --steps --help (Sentinel-1 IW TOPS processor)
-stripmapApp.py --steps --help (stripmap processor with geometry based coregistration, handles both raw and zero Doppler data)
+**insarApp.py --steps --help** (stripmap processor with motion compensated geometry, works for all raw data, doesn't work well for zero Doppler data)
+**topsApp.py --steps --help** (Sentinel-1 IW TOPS processor)
+**stripmapApp.py --steps --help** (stripmap processor with geometry based coregistration, handles both raw and zero Doppler data)
 
-STEP 7: get SRTM access
+## **STEP 7: get SRTM access**
  
 ISCE uses the SRTM DEM (the best free DEM available for InSAR processing, much better than the ASTER GDEM). You need to get a NASA account at urs.earthdata.nasa.gov (free).
 
-First, cd $HOME
-Then, create a file named .netrc with the following 3 lines 
+First, **cd $HOME**
+Then, create a file named **.netrc** with the following 3 lines 
  
-machine urs.earthdata.nasa.gov
+**machine urs.earthdata.nasa.gov
 login your_earthdata_login_name
-password your_earthdata_password 
+password your_earthdata_password **
 
-Change .netrc permissions with chmod 600 ~/.netrc 
+Change .netrc permissions with **chmod 600 ~/.netrc **
 
-OSX Installation
+# OSX Installation
 
 For installing ISCE on OSX I suggest strongly suggest you to stick to a single package manager (either macports, brew or conda). Otherwise you might find conflicting issues due to the different versions of the installed libraries.
 
@@ -106,18 +107,18 @@ Instructions for MacPorts (Piyush Agram, JPL)
 Instructions for OSX 10.14 Mojave (adapted by me from those by Piyush Agram)
 Instructions for Homebrew (Jose Uribe, CECS, Chile). 
 Instructions for Homebrew and Docker (Scott Henderson, U of Washington)
-SCONS_CONFIG file (tested with High Sierra and Mojave)
+**SCONS_CONFIG** file (tested with High Sierra and Mojave)
 Troubleshooting (a common issue with OSX): isce 2.2 on OSX High Sierra
 
-Issues with unbinded Python libraries: If the Python libraries are correctly installed with macports, but Python cannot import them because you mixed package managers, just run the following line
+**Issues with unbinded Python libraries**: If the Python libraries are correctly installed with macports, but Python cannot import them because you mixed package managers, just run the following line
 
-export PYTHONPATH=/opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages:$PYTHONPATH
+**export PYTHONPATH=/opt/local/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages:$PYTHONPATH**
 
 This issue might happen if you installed libraries with both conda and macports, but then you removed conda like I did once, resulting in a complete mess.
 
-STEP 8: process interferograms! 
+## **STEP 8: process interferograms! **
 
-Software manual by me and with of references to online resources
+ **Software manual by me and with of references to online resources**
 
 Sentinel-1 C band ascending interferogram of the VEI 4 2015 Calbuco volcano eruption (topsApp.py control file, orbits and Sentinel-1 calibration files)
 
@@ -198,11 +199,11 @@ https://datapool.asf.alaska.edu/SLC/SB/S1B_IW_SLC__1SDV_20170110T095740_20170110
 
 https://datapool.asf.alaska.edu/SLC/SB/S1B_IW_SLC__1SDV_20170110T095805_20170110T095832_003784_00681B_59B8.zip
 
-stripmapApp.py zero doppler SLC data control files for RADARSAT-2, TerraSAR-X (stripmap and spotlight), ALOS-2 stripmap and COSMO-SkyMED (stripmap and spotlight) 
+**stripmapApp.py** zero doppler SLC data control files for RADARSAT-2, TerraSAR-X (stripmap and spotlight), ALOS-2 stripmap and COSMO-SkyMED (stripmap and spotlight) 
 
-insarApp.py: stripmap processor with motion compensated geometry for raw data (ENVISAT, ALOS-1, COSMO-SkyMED)
-topsApp.py: TOPS processor with geometric coregistration for Sentinel-1 data
-stripmapApp.py: processor with geometric coregistration for raw (ENVISAT, ALOS-1, COSMO-SkyMED) and zero doppler data (COSMO-SkyMED SLC stripmap and spotlight, RADARSAT-2, TerraSAR-X stripmap and spotlight, ALOS-2 stripmap)
+**insarApp.py**: stripmap processor with motion compensated geometry for raw data (ENVISAT, ALOS-1, COSMO-SkyMED)
+**topsApp.py**: TOPS processor with geometric coregistration for Sentinel-1 data
+**stripmapApp.py**: processor with geometric coregistration for raw (ENVISAT, ALOS-1, COSMO-SkyMED) and zero doppler data (COSMO-SkyMED SLC stripmap and spotlight, RADARSAT-2, TerraSAR-X stripmap and spotlight, ALOS-2 stripmap)
 
 Files for processing the Sentinel-1 Calbuco, ENVISAT KIlauea, ALOS-1 Kilauea, CSK Kilauea, ALOS-1 Pichilemu, Sentinel-1 Chiloe and ALOS-1 Laguna del Maule data sets. This files include orbits  (ENVISAT and Sentinel), instrument files (ENVISAT), calibration files (Sentinel) and ISCE control files
 
@@ -211,7 +212,7 @@ CSK Kilauea 2018
 InSAR time series Matlab example
 
 
-SNAP Instructions
+## **SNAP Instructions**
  
 SNAP is the Sentinel Toolbox software from ESA. SNAP biggest advantage with respect to the Linux based software like ISCE is that it has a GUI, so it is very easy to get acquainted with the InSAR processing, particularly for InSAR newbies. The Sentinel-1 TOPS processing is very straightforward with SNAP. However, it doesn't replace a terminal-based software like ISCE for serious scientific applications.
 
