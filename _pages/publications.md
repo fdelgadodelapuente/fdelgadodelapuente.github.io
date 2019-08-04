@@ -3,9 +3,11 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-#####<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl)</p>
+#####<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=)</p>
 
-Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., Delgado, F., Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B.. 2019. Episodic caldera subsidence enhanced by regional tectonics., Under review.
+[From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics]
+##(https://)<br>
+Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review
 
 
 [Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption]
