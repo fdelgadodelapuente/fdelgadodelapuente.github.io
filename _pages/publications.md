@@ -16,7 +16,6 @@ Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona
 [Thoughts on the criteria to determine the origin of volcanic unrest as magmatic or non-magmatic](https://royalsocietypublishing.org/doi/10.1098/rsta.2018.0008)<br>
 Pritchard, M.E., Mather, T.A., McNutt, S., **Delgado, F.**, Reath, K. <i>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. **2019**, 377, 2139, doi:10.1098/rsta.2018.0008.
 
-
 [Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016199)<br>
 Reath, K., Pritchard  M., Poland, M., **Delgado, F.**, Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M. <i>Journal of Geophysical Research</i>. **2019**, doi:10.1029/2018JB016199
 This aerticle has been highlighted in the Research Spotlight section of the AGU EOS journal 
@@ -24,7 +23,7 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 [Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
 **Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**. doi:10.1029/2018JB016240
 
-[Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://appliedvolc.springeropen.com/articles/10.1186/s13617-018-0074-0)<br>
+[Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://link.springer.com/article/10.1186/s13617-018-0074-0)<br>
 Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgado, F.**, Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S. <i>Journal of Applied Volcanology</i>. **2018**, 7:5, doi.org/10.1186/s13617-018-0074-0
 
 [Decelerating uplift at Lazufre volcanic center, Central Andes, from A.D. 2010 to 2016, and implications for geodetic models](https://pubs.geoscienceworld.org/gsa/geosphere/article/13/5/1489/353561/decelerating-uplift-at-lazufre-volcanic-center)<br>
