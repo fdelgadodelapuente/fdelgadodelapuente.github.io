@@ -25,11 +25,11 @@ Mt St Helens, IAVCEI Scientific Assembly field trip, July 2017
 
 Cordon Caulle 2011-2012 rhyolitic lava flow, five years later and still releasing lots of gas, January 2017
 
-<img style="float: center;" src="/images/yellowstone2016.jpg">
+<img style="float: center;" src="/images/yellowstone2016b.jpg">
 
 Excelsior geyser, Yellowstone, June 2016
 
-<img style="float: center;" src="/images/yellowstone2016b.jpg">
+<img style="float: center;" src="/images/yellowstone2016.jpg">
 
 Grand Prismatic Spring, Yellowstone, June 2016
 
