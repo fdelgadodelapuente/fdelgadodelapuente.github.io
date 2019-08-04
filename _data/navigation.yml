@@ -6,23 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Contact"
-    url: /contact/
-
   - title: "CV"
     url: /cv/    
+    
+  - title: "ISCE and SNAP"
+    url: /isce/    
 
   - title: "Photos"
     url: /photos/    
     
-  - title: "ISCE and SNAP"
-    url: /isce/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Contact"
+    url: /contact/
