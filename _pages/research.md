@@ -15,7 +15,7 @@ How is magma stored and transported is a key volcanological question that help u
 Mean surface velocities at Cordón Caulle volcano during 2012-2013 (a) and 2013-2015 (b). The ground displacement is most likely by magma intrusion following the VEI4 2011-2012 rhyodacitic eruption and decreased exponentially as predicted by simple models of magma recharge immediately after an eruption.
 
 
-<img style="float: center;" src="/images/caulle_sills.png">
+<img style="float: center;" src="../images/caulle_sills.png">
 
 Distributed sill opening models for 2012-2013 (a) and 2013-2015 (b) at Cordon Caulle. The total volume change is 0.125 km3 in 3.25 years.  
 
