@@ -15,8 +15,8 @@ main:
   - title: "Photos"
     url: /photos/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "ISCE and SNAP"
+    url: /isce/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
