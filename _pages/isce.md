@@ -1,6 +1,6 @@
 Here I have compiled a set of Linux and OSX installations instructions for ISCE and some data sets of earthquakes and volcanoes from the Alaska Satellite Facility .
  
-Ubuntu Installation
+# **Ubuntu Installation**
 
 The notes in this website are from instructions by Piyush Agram (JPL), one of the developers of the ISCE software: Installation of ISCE and https://github.com/piyushrpt/oldLinuxSetup. The instructions presented below were tested for the isce_201609 version, but have been used with the most recent versions of the software in an Ubuntu machine. If you use other Linux distributions like RedHat or openSUSE, it's likely that you will have to modify these instructions. 
 
