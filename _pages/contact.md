@@ -6,7 +6,7 @@ author_profile: true
 permalink: /contact/
 
 ---
-Email: **ap868 [at] cornell [dot] edu**
+Email: **delgado [at] ipgp [dot] fr**
 
-Géochimie des enveloppes externes, Institut de Physique du Globe de Paris<br>
-Department of Earth and Atmospheric Sciences, Cornell University
+Tectnique et Mecanique de la Litosphere, Institut de Physique du Globe de Paris<br>
+Universite de Paris
