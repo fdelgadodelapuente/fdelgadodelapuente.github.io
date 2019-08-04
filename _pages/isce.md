@@ -1,13 +1,11 @@
 ---
 layout: archive
 title: "ISCE"
-permalink: /isce/
+excerpt: "ISCE"
 author_profile: true
-redirect_from:
-  - /resume
----
+permalink: /isce/
 
-{% include base_path %}
+---
 
 Here I have compiled a set of Linux and OSX installations instructions for ISCE and some data sets of earthquakes and volcanoes from the Alaska Satellite Facility .
  
