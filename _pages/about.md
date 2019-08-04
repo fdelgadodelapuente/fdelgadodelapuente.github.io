@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,14 @@ redirect_from:
   - /about.md
   - /about.html
 ---
+About me
+======
 
 I am a **low-temperature geochemist** from Chile, working towards my Ph.D. Cornell University working with Prof. Louis Derry. <br>
 Currently I am a visiting student at the Institut de Physique du Globe de Paris under the ‘Make Our Planet Great Again’ program.   
-<br><br>
-title: "Research"
+
+Research
+======
 
 I am interested in the (bio)geochemical reactions occurring at the Earth’s surface and how these reactions shape the evolution of the Critical Zone—the thin layer from the top of the canopy down to the water table that sustains life. <br>
 To answer these questions I use geochemical data and models that help me understand the relationship between biota, water—i.e. rainfall, stream discharge, groundwater—and secondary minerals and salts that precipitate in the open landscape. <br>
