@@ -25,7 +25,7 @@ Reath, K., Pritchard  M., Poland, M., **Delgado, F.**, Carn, S., Coppola, D., An
 
 
 [Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
-**Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**
+**Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**. doi:10.1029/2018JB016240
 
 
 Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., Delgado, F., Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S., 2018. Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project. Journal of Applied Volcanology, 7:5, doi.org/10.1186/s13617-018-0074-0.
