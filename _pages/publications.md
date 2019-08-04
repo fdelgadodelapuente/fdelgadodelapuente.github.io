@@ -28,11 +28,11 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 [Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
 **Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**. doi:10.1029/2018JB016240
 
+[Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://appliedvolc.springeropen.com/articles/10.1186/s13617-018-0074-0)<br>
+Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgado, F.**, Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S. <i>Journal of Applied Volcanology</i>. **2018**, 7:5, doi.org/10.1186/s13617-018-0074-0
 
-Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., Delgado, F., Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S., 2018. Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project. Journal of Applied Volcanology, 7:5, doi.org/10.1186/s13617-018-0074-0.
-
-
-Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Decelerating uplift at Lazufre volcanic center, Central Andes, from A.D. 2010 to 2016, and implications for geodetic models. Geosphere. doi.org/10.1130/GES01441.1
+[Decelerating uplift at Lazufre volcanic center, Central Andes, from A.D. 2010 to 2016, and implications for geodetic models](https://pubs.geoscienceworld.org/gsa/geosphere/article/13/5/1489/353561/decelerating-uplift-at-lazufre-volcanic-center)<br>
+Henderson, S., **Delgado, F.**, Pritchard, M., Elliott, J., Lundgren, P. <i>Geosphere</i>. **2017**, doi.org/10.1130/GES01441.1
 
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
