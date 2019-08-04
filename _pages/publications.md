@@ -5,8 +5,8 @@ author_profile: true
 ---
 #####<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=)</p>
 
-[From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://www.nature.com/srep/)<br>
-Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review
+[From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://eartharxiv.org/c8d5v/)<br>
+Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review, available at EarthXiv.
 
 
 [Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)<br>
@@ -34,27 +34,20 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., Delgado,
 
 Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Decelerating uplift at Lazufre volcanic center, Central Andes, from A.D. 2010 to 2016, and implications for geodetic models. Geosphere. doi.org/10.1130/GES01441.1
 
-
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
-
 
 [Rapid uplift after the 2011-2012 Cordón Caulle (Southern Andes, Chile) rhyodacitic eruption: evidence for magma chamber refill](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL070066)<br>
 **Delgado, F.**, Pritchard, M., Basualto, D., Lazo, J., Córdova, L., Lara, L. <i>Geophys. Res. Lett.</i>. **2016**, doi:10.1002/2016GL070066.
 
-
-
-
 [New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile)](http://www.andeangeology.cl/index.php/revista1/article/view/V42n3-a02/html)<br>
 **Delgado, F.**, Pavez, A. <i>Andean Geology</i>. **2015**, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
-
-
 
 [Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
 Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
 
-
-Delgado F, Pritchard  M, Lohman  R, Naranjo,  J.A., 2014.  The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery. Bull Volcanol, 76:815. doi:10.1007/s00445-014-0815-9.
+[The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery](https://link.springer.com/article/10.1007/s00445-014-0815-9)<br>
+**Delgado, F.**, Pritchard  M, Lohman  R, Naranjo,  J.A. <i>Bull. Volcanol.</i>. **2014**, Bull Volcanol, 76:815. doi:10.1007/s00445-014-0815-9.
 
 
 If you need a copy of any of these papers, send me an email to delgado at ipgp dot fr
