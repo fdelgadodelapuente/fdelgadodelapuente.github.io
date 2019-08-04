@@ -6,9 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
+
+theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast"
 
 locale                   : "en-US"
