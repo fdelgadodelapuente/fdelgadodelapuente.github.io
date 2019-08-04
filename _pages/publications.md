@@ -16,12 +16,14 @@ Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., *
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., Delgado, F., 2019. Viscoelastic relaxation: a key factor promoting large surface displacements at Laguna del Maule. Earth and Planetary Science Letters, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
 
 
-Pritchard, M.E., Mather, T.A., McNutt, S., Delgado, F., Reath, K., 2019. Some thoughts on the criteria to determine the origin of volcanic unrest as magmatic, hydrothermal, both, or other. Philosophical Transactions of the Royal Society, accepted, doi:10.1098/rsta.2018.0008.
+
+[Thoughts on the criteria to determine the origin of volcanic unrest as magmatic or non-magmatic](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
+Pritchard, M.E., Mather, T.A., McNutt, S., **Delgado, F.**, Reath, K. <i>Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences</i>. **2019**, 377, 2139, doi:10.1098/rsta.2018.0008.
 
 
 [Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016199)<br>
 Reath, K., Pritchard  M., Poland, M., **Delgado, F.**, Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M. <i>Journal of Geophysical Research</i>. **2019**, doi:10.1029/2018JB016199
-
+This aerticle has been highlighted in the Research Spotlight section of the AGU EOS journal 
 
 [Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
 **Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**. doi:10.1029/2018JB016240
