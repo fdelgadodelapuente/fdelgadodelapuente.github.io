@@ -3,7 +3,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<p align="right";style="font-size:70%;>[Google Scholar profile](https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl)</p>
+<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl)</p>
 
 [A model for germanium-silicon equilibrium fractionation in kaolinite]()<br>
 <b>A. Perez-Fodich</b>, L. A. Derry. <i>Submitted to Earth and Planetary Science Letters</i>.
