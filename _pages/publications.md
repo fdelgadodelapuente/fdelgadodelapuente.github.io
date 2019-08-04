@@ -19,8 +19,7 @@ Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona
 Pritchard, M.E., Mather, T.A., McNutt, S., Delgado, F., Reath, K., 2019. Some thoughts on the criteria to determine the origin of volcanic unrest as magmatic, hydrothermal, both, or other. Philosophical Transactions of the Royal Society, accepted, doi:10.1098/rsta.2018.0008.
 
 
-[Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems]
-(https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016199)<br>
+[Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016199)<br>
 Reath, K., Pritchard  M., Poland, M., **Delgado, F.**, Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M. <i>Journal of Geophysical Research</i>. **2019**, doi:10.1029/2018JB016199
 
 
@@ -46,7 +45,9 @@ Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Dece
 Delgado, F., Pavez, A. 2015. New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile). Andean Geology, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
 
 
-Jay, J.A., Delgado, F.J., Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. 2015. Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015. Geophys. Res. Lett., 42, 2780–2788. doi: 10.1002/2015GL063589.
+
+[Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
+Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
 
 
 Delgado F, Pritchard  M, Lohman  R, Naranjo,  J.A., 2014.  The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery. Bull Volcanol, 76:815. doi:10.1007/s00445-014-0815-9.
