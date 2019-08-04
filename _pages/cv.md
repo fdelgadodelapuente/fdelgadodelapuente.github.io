@@ -13,8 +13,11 @@ Education
 ======
 
 2012 - 2018. PhD Geological Sciences, Cornell University
+
 2008 - 2011. Professional qualification in Geology, Universidad de Chile
+
 2008 - 2011. MSc Geophysics, Universidad de Chile​
+
 2003 - 2008. BSc Geology, Universidad de Chile
  
  
