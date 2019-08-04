@@ -14,6 +14,6 @@ Currently I am a visiting student at the Institut de Physique du Globe de Paris 
 <br><br>
 Before my time at Cornell, I got M.Sc. and B.Sc. degrees in Geology from the University of Chile.
 
-<img style="float: right;" src="/images/aboutme1.jpg">
+<img style="float: center;" src="/images/research1.jpg">
 
 
