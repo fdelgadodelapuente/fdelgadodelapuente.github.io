@@ -9,11 +9,11 @@ author_profile: true
 **A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2019**, 161, 50-70. 
 
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., Delgado, F., Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B.. 2019. Episodic caldera subsidence enhanced by regional tectonics., Under review.
-​
+
 Delgado, F., Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. 2018. Forecasting effusive eruptions: a physicochemical model for the effusive phase of the 2011-2012 rhyolitic eruption of Cordón Caulle volcano constrained with InSAR and TanDEM-X DEMs. Earth and Planetary Science Letters, under review.
-​
+
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., Delgado, F., 2019. Viscoelastic relaxation: a key factor promoting large surface displacements at Laguna del Maule. Earth and Planetary Science Letters, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
-​
+
 Reath, K., Pritchard  M., Poland, M., Delgado, F., Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M., 2018. Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems. Journal of Geophysical Research, in press. doi:10.1029/2018JB016199
 ​
 Delgado, F., Pritchard, M., Samsonov, S., Córdova, L., 2018. Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018. Journal of Geophysical Research, doi:10.1029/2018JB016240.
