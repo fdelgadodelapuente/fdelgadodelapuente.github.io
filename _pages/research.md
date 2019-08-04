@@ -125,8 +125,8 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgad
 I am also interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by  point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. 
 
 
-<img style="float: center;" src="/images/sabancaya_eq.png" | width=80>
-<img style="float: center;" src="/images/sabancaya_creep.png"| width=80>
+<img style="float: left;" src="/images/sabancaya_eq.png">
+<img style="float: right;" src="/images/sabancaya_creep.png">
  
 Left. TerraSAR-X interferogram of the July 17 2013 Mw 5.8 earthquake NW of Sabancaya volcano (black triangle) in Southern Peru. InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. The geodetic focal mechanism is in agreement with the seismic moment tensor for both the geometry and the seismic moment, and shows that there is no evidence for either volcano-induced deformation or magma injection. The interferogram also shows triggered slip on smaller faults N of Sabancaya, as well as residual atmospheric noise.
 
