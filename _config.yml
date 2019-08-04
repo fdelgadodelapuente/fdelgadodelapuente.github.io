@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alida Perez-Fodich"
+title                    : "Francisco Delgado"
 title_separator          : "-"
-name                     : "Alida    Perez-Fodich"
+name                     : "Francisco    Delgado"
 #description              : "This is my personal webpage"
-url                      : "https://aliperezfodich.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fdelgadodelapuente.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alida Perez-Fodich"
-  avatar           : "profile3.jpg"
-  bio              : "I study geochemical reactions in the Critical Zone.   PhD candidate at Cornell"
-  location         : "Paris, France / Ithaca, NY"
+  name             : "Francisco Delgado"
+  avatar           : ""
+  bio              : "InSAR volcano geodesist"
+  location         : "Paris, France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl=fr&oi=ao"
-  email            : "ap868@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=jsNbylkAAAAJ&hl"
+  email            : "delgado@ipgp.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3137-4473"
+  orcid            : "http://orcid.org/0000-0002-7528-4437"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
