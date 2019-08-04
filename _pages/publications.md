@@ -6,12 +6,10 @@ author_profile: true
 #####<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=)</p>
 
 [From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics]
-##(https://)<br>
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review
 
 
 [Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption]
-##(https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
 **Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, in press
 
 
@@ -36,7 +34,8 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., Delgado,
 Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Decelerating uplift at Lazufre volcanic center, Central Andes, from A.D. 2010 to 2016, and implications for geodetic models. Geosphere. doi.org/10.1130/GES01441.1
 
 
-Delgado, F., Pritchard,  M., Ebmeier, S., Gonzalez, P., Lara, L. 2017.  Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes). Journal of Volcanology and Geothermal Research. doi:10.1016/j.jvolgeores.2017.05.020. Special issue of "Volcano Geodesy: Recent developments and future challenges".
+[Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
+**Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of "Volcano Geodesy: Recent developments and future challenges".
 
 
 Delgado, F.,  Pritchard,  M., Basualto, D., Lazo, J., Córdova, L., Lara, L.  2016.  Rapid uplift after the 2011-2012 Cordón Caulle (Southern Andes, Chile) rhyodacitic eruption: evidence for magma chamber refill. Geophys. Res. Lett., doi:10.1002/2016GL070066.
