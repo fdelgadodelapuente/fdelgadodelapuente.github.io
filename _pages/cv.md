@@ -46,9 +46,9 @@ Postdoctoral Researcher
 2012/08 - 2018/07. Cornell University, Ithaca, NY. 
 Graduate research assistant
 
-2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey). 
+2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey), Santiago, Chile.
 Geophysicist
 
-2011/03 - 2011/09 DIFROL. (State boundaries and limits bureau, Chile):
+2011/03 - 2011/09 DIFROL. (State boundaries and limits bureau, Chile), Santiago, Chile.
 Geophysicist
 
