@@ -3,15 +3,14 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl)</p>
-
-[Organic acids and high soil CO2 drive intense chemical weathering of Hawaiian basalts: Insights from reactive transport models](https://www.sciencedirect.com/science/article/pii/S0016703719300511)<br>
-**A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2019**, 161, 50-70. 
+#####<p align="right">[Google Scholar profile](https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl)</p>
 
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., Delgado, F., Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B.. 2019. Episodic caldera subsidence enhanced by regional tectonics., Under review.
 
 
-Delgado, F., Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. 2018. Forecasting effusive eruptions: a physicochemical model for the effusive phase of the 2011-2012 rhyolitic eruption of Cordón Caulle volcano constrained with InSAR and TanDEM-X DEMs. Earth and Planetary Science Letters, under review.
+[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption]
+(https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
+**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, in press
 
 
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., Delgado, F., 2019. Viscoelastic relaxation: a key factor promoting large surface displacements at Laguna del Maule. Earth and Planetary Science Letters, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
