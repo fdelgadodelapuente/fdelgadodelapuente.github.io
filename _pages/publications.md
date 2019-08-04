@@ -38,7 +38,9 @@ Henderson, S., Delgado, F., Pritchard, M., Elliott, J., Lundgren, P., 2017. Dece
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of "Volcano Geodesy: Recent developments and future challenges".
 
 
-Delgado, F.,  Pritchard,  M., Basualto, D., Lazo, J., Córdova, L., Lara, L.  2016.  Rapid uplift after the 2011-2012 Cordón Caulle (Southern Andes, Chile) rhyodacitic eruption: evidence for magma chamber refill. Geophys. Res. Lett., doi:10.1002/2016GL070066.
+[Rapid uplift after the 2011-2012 Cordón Caulle (Southern Andes, Chile) rhyodacitic eruption: evidence for magma chamber refill](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016GL070066)<br>
+**Delgado, F.**, Pritchard, M., Basualto, D., Lazo, J., Córdova, L., Lara, L. <i>Geophys. Res. Lett.</i>. **2016**, doi:10.1002/2016GL070066.
+
 
 
 Delgado, F., Pavez, A. 2015. New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile). Andean Geology, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
