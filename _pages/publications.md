@@ -11,7 +11,7 @@ A model for germanium-silicon equilibrium fractionation in kaolinite<br>
 **A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2019**, 161, 50-70. 
 	
 [Iodine budget in surface waters from Atacama: Natural and anthropogenic iodine sources revealed by halogen geochemistry and iodine-129 isotopes](https://www.sciencedirect.com/science/article/pii/S0883292716300531)<br>
-F. Álvareza, M. Reich, G. T. Snyder, <b>A. Perez-Fodich</b>, Y. Muramatsu, L. Daniele, U. Fehn. <i>Applied Geochemistry</i>. **2016**, 68, 53-63. 
+F. Álvarez, M. Reich, G. T. Snyder, <b>A. Perez-Fodich</b>, Y. Muramatsu, L. Daniele, U. Fehn. <i>Applied Geochemistry</i>. **2016**, 68, 53-63. 
 
 [Sources, sinks and long-term cycling of iodine in the hyperarid Atacama continental margin](https://www.sciencedirect.com/science/article/pii/S0016703715001842)<br>
 F. Álvareza, M. Reich, <b>A. Perez-Fodich</b>, G. T. Snyder, Y. Muramatsu, G. Vargas, U. Fehn. <i>Geochimica et Cosmochimica Acta</i>. **2015**, 161, 50-70. 
