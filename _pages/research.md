@@ -63,8 +63,8 @@ Cordon Caulle effusive phase ENVISAT IS6 interferograms showing ground deformati
 
 ### **Relevant publications**
 
-[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)<br>
-**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, in press
+[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/science/article/pii/S0012821X19304285)<br>
+**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, 524, doi:10.1016/j.epsl.2019.115736
 
 [Thermal, deformation, and degassing remote sensing time series (A.D. 2000-2017) at the 47 most active volcanoes in Latin America: implications for volcanic systems](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JB016199)<br>
 Reath, K., Pritchard  M., Poland, M., **Delgado, F.**, Carn, S., Coppola, D., Andrews, B., Ebemier, S., Rumpf, M.E., Henderson, S., Baker, S., Lundgren, P., Wright, R., Biggs, J., Lopez, T., Wauthier, C.,  Moruzzi, S., Alcott, A., Wessels, R., Griswold, J., Ogburn, S., Loughlin, S., Meyer, F., Vaughan, R., Bagnardi, M. <i>Journal of Geophysical Research</i>. **2019**, doi:10.1029/2018JB016199
