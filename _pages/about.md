@@ -11,8 +11,10 @@ redirect_from:
 About me
 ======
 
-I am a **low-temperature geochemist** from Chile, working towards my Ph.D. Cornell University working with Prof. Louis Derry. <br>
-Currently I am a visiting student at the Institut de Physique du Globe de Paris under the ‘Make Our Planet Great Again’ program.   
+I am a **low-temperature geochemist** from Chile, I obtained my Ph.D. in Geological Sciences from Cornell University.<br>
+Currently I am a visiting scholar at the Institut de Physique du Globe de Paris under the ‘Make Our Planet Great Again’ program.
+
+Starting March 2020, I will be joining the <a href="http://www.geologia.uchile.cl">Department of Geology at the University of Chile</a> in Santiago. 
 
 Research interests
 ======
