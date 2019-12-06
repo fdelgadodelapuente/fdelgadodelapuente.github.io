@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 
 ---
-<h2><b>[Modeling weathering of volcanic rocks](research/volcanic-weathering)</b></h2> 
+<h2><b>[Modeling weathering of volcanic rocks](https://aliperezfodich.github.io/research/volcanic-weathering)</b></h2> 
 Reactive transport models (RTMs) are a useful tool to disentagle weathering processes. They allow us to solve for diffusion and advection of fluids and solutes through a porous media, and solve for chemical reactions between the fluid and solid phases. Thus, we can use RTMs to identify the controlling reactions in a weathering system and answer questions like: <br>
 <i>What is the influence of water/rock ratios?</i> <br>
 <i>How does biota affect to weathering rates?</i> <br>
