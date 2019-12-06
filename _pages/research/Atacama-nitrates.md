@@ -1,5 +1,5 @@
 ---
-title: "Effects of weathering in the landscape evolution of Hawaiian islands"
+title: "Sources and long-term accumulation of salt deposits in the Atacama Desert"
 collection: research
 permalink: /research/Atacama-nitrates
 author_profile: true
