@@ -23,7 +23,7 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 
 
 ---
-**Working papers**
+**Work in progress**
 
 The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution.<br>
 <b>A. Perez-Fodich</b>, M.T. Walter, J. Marçais, L. A. Derry. <i>In prep to be submitted to Water Resources Research</i>.
