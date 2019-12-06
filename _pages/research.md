@@ -22,7 +22,7 @@ author_profile: true
 <h2><b><a href="https://aliperezfodich.github.io/research/Atacama-nitrates">Sources and long-term accumulation of salt deposits in the Atacama Desert</a></b></h2> 
 
 <img style="float: center;" src="/images/fernanda-atacama.JPG">
-<p style="font-size:x-small">The Salar Grande deposit in the Atacama Desert. Tarapacá region in Chile. Featuring <a href="https://fcqudec.cl/nuestro-personal/dra-fernanda-alvarez-amado/">Fernanda Alvarez</a> holding massive halite crystals. Picture taken by <a href="https://researchmap.jp/glen_snyder/?lang=english">Glen Snyder</a> in 2011.</p>
+<p style="font-size:x-small">The Salar Grande deposit in the Atacama Desert. Tarapacá region in Chile. Featuring <a href="https://fcqudec.cl/nuestro-personal/dra-fernanda-alvarez-amado/">Fernanda Alvarez</a> over massive halite crystals. Picture taken by <a href="https://researchmap.jp/glen_snyder/?lang=english">Glen Snyder</a> in 2011.</p>
 
 
 
