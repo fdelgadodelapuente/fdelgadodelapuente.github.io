@@ -28,10 +28,17 @@ For Ge-bearing clays forming a solid-solution with Si, the fractionation factor 
 
 ---
 <h2><b>Transient behavior of trace element geochemical tracers</b></h2> 
-In natural systems several factors can influence how trace elements are partitioned into minerals. Fluid chemistry and dissolution/precipitation rates can affect Ge/Si ratios at short timescales. Although we don't have a complete understanding of the precipitation dynamics of clays in the critical zone, we can couple geochemical tracers into RTMs to test for different scenarios. Using CrunchFlow's <i>isotope block</i>, we can model the fractionation of isotope and trace element tracers &mdash; such as Ge/Si ratios &mdash; and test for factors influencing precipitation mechanisms.
+In natural systems several factors can influence how trace elements are partitioned into minerals. Fluid chemistry and dissolution/precipitation rates can affect Ge/Si ratios at short timescales. Although we don't have a complete understanding of the precipitation dynamics of secondary clays in the Critical Zone, we can couple geochemical tracers into RTMs to test for different scenarios. Using <a href="https://bitbucket.org/crunchflow/crunchtope/wiki/Home">CrunchFlow's</a> <a href="https://www.sciencedirect.com/science/article/pii/S0016703713003098"><i>isotope block</i></a>, we can model the fractionation of isotope and trace element tracers &mdash; such as Ge/Si ratios &mdash; and test for factors influencing precipitation mechanisms.
 
 <center><img style="float: center;" src="/images/transient_Gekaolinite-800px.png" alt="slower precipitation rates"></center>
 <p style="font-size:small">(a) The effect of a slower precipitation rate constants for kaolinite in the evolution of Ge/Si ratios in the fluid (dash-dot lines). The control case (perfect fractionation) is shown in blue and slower rate constants for a linear TST rate law in 0.5 log-units reductions. (b) Evolution of Ge/Si ratios in the precipitated mineral solid solution (solid lines), color symbology is the same as in (a).</p>
+
+
+
+---
+<h2><b>Effects of weathering in the landscape evolution of Hawaiian islands</b></h2> 
+Knowing when and where do rivers form is important to understanding the response of surface and groundwater budgets to progressively wetter or drier climates. Climate, lithology and biota control the architecture of the Critical Zone through erosion, fluid residence times and chemical weathering. Basaltic rocks are extremely reactive and young basaltic terrains are   highly porous &mdash; imagine a lava tube! Thus, chemical weathering in these environments can have a large impact on groundwater and runoff budgets.
+
 
 
 ---
