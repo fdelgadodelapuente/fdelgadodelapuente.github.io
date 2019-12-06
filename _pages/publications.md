@@ -25,8 +25,8 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 ---
 **Working papers**
 
-The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution.
+The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution.\n
 <b>A. Perez-Fodich</b>, M.T. Walter, J. Marçais, L. A. Derry. <i>In prep to be submitted to Water Resources Research</i>.
 
-Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts
+Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.\n
 <b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.
