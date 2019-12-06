@@ -39,9 +39,22 @@ In natural systems several factors can influence how trace elements are partitio
 <h2><b>Effects of weathering in the landscape evolution of Hawaiian islands</b></h2> 
 Knowing when and where do rivers form is important to understanding the response of surface and groundwater budgets to progressively wetter or drier climates. Climate, lithology and biota control the architecture of the Critical Zone through erosion, fluid residence times and chemical weathering. Basaltic rocks are extremely reactive and young basaltic terrains are   highly porous &mdash; imagine a lava tube! Thus, chemical weathering in these environments can have a large impact on groundwater and runoff budgets.
 
+<center><img style="float: center;" src="/images/leilani-wailuku-400px.jpg" alt="Leilani States eruption compared to Wailuku canyon"></center>
+<p style="font-size:small">The Leilani States 2018 Kilauea eruption compared to the Wailuku river at Hilo in the Island of Hawaii seen from helicopter view. How does chemical weathering influence the initiation of perennial streams?</p>
+
 
 
 ---
+<h2><b>Sources and long-term accumulation of salt deposits in the Atacama Desert</b></h2> 
+The giant nitrate deposits of the hyperarid Atacama Desert in Chile are one of the most extraordinary, yet enigmatic, mineral occurrences on Earth. These deposits are complex assemblages of highly soluble nitrates, chlorides, sulfates, perchlorates, iodates, and chromates, and their preservation is the result of prevalent hyperarid climate conditions in the Atacama Desert. Different isotopic tracers can help us decipher the sources and sinks of rare elements that accumulate in hyperarid and Mars-analog environments.
+
+<center><img style="float: center;" src="/images/Cr-atacama-500px.png" alt="Cr-isotopes in Atacama"></center>
+<p style="font-size:small">We used cosmogenic iodine (<sup>129</sup>I) and chromium isotope (δ<sup>53/52</sup>Cr) data of nitrates to demonstrate that groundwater played an unforeseen role in the formation of these massive deposits.<br> δ<sup>53/52</sup>Cr of nitrate samples from Atacama Desert (northern Chile). White and gray circles represent Aguas Blancas and Baquedano samples, respectively. Error bars are shown for each value. Mojave Desert (western USA) groundwater δ<sup>53/52</sup>Cr values are displayed in hachured rectangle (Izbicki et al., <a href="https://doi.org/10.1016/j.apgeochem.2007.11.015">2008</a>, <a href="https://doi.org/10.1016/j.apgeochem.2011.12.019">2012</a>). Black star and white diamond show δ<sup>53/52</sup>Cr value of Jurassic marine shales and igneous rocks from Atacama, respectively. Mean values for igneous silicate Earth, marine sediments, mantle rocks, and hydrothermal crocoites are shown for comparison (<a href="https://doi.org/10.1016/j.chemgeo.2008.01.009">Schoenberg et al., 2008</a>). Thick vertical dashed line shows average δ<sup>53/52</sup>Cr value for nitrates (+1.104‰), and light dashed line represents 0.0‰ value.</p>
+
+
+
+----
+
 <img style="float: center;" src="/images/research2.jpg">
 
 
