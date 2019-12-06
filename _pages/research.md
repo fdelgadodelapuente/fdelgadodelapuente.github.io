@@ -12,7 +12,7 @@ Reactive transport models (RTMs) are a useful tool to disentagle weathering proc
 <i>What is the influence of volcanic gases and geothermal springs in weathering of volcanic regions?</i><br>
 
 
-<img style="float: center;" src="/images/volcanic_weathering_RTM.png"; style="height:50%; alt="Organic acids on basalt weathering">
+<img style="float: center;" src="/images/volcanic_weathering_RTM.png" style="height:50%" alt="Organic acids on basalt weathering">
 <p style="font-size:small">The effect of addition of organic ligands and complexation on (a) free Al<sup>3+</sup> activity and (b) allophane saturation index at 20 kyr as a function of depth for a basalt weathering profile. The solid-line represents the results for M3 allowing complexation of Al with organic ligands. Dashed line shows M3 without complexation of Al with organic ligands. Dotted line shows the results for M2 with no organic ligands and no complexation. <br>
 LMWOA complexation of Al lowers the activity of free Al<sup>3+</sup> by 5–6 orders of magnitude despite high total Al concentration and results in undersaturation with respect to secondary Al phases such as allophane. This mechanism appears central to the large aluminum losses observed in highly weathered Hawaiian soils.</p>
 
