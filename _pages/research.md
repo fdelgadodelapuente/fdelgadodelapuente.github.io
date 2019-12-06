@@ -5,10 +5,9 @@ permalink: /research/
 author_profile: true
 
 figure {
-  float: right;
+  float: center;
   width: 60%;
-  text-align: center;
-  font-style: italic;
+  text-align: left;
   font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
@@ -16,7 +15,7 @@ figure {
   padding: 0.5em;
 }
 img.scaled {
-  width: 100%;
+  width: 50%;
 }
 
 ---
