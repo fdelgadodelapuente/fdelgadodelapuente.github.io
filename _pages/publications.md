@@ -3,7 +3,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 A model for germanium-silicon equilibrium fractionation in kaolinite<br>
 <b>A. Perez-Fodich</b>, L. A. Derry. <i>under review Geochimica et Cosmochimica Acta</i>.
 
@@ -21,3 +20,13 @@ F. Álvareza, M. Reich, <b>A. Perez-Fodich</b>, G. T. Snyder, Y. Muramatsu, G. V
 
 [Using iodine isotopes to constrain supergene fluid sources in arid regions: insights from the Chuquicamata oxide blanket](https://pubs.geoscienceworld.org/segweb/economicgeology/article/108/1/163/128448/using-iodine-isotopes-to-constrain-supergene-fluid)<br>
 M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E. M. Cameron, Y. Muramatsu, U. Fehn. <i>Economic Geology</i>. **2013**, 108(1), 163-171.
+
+
+---
+**Working papers**
+
+The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution.
+<b>A. Perez-Fodich</b>, M.T. Walter, J. Marçais, L. A. Derry. <i>In prep to be submitted to Water Resources Research</i>.
+
+Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts
+<b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.
