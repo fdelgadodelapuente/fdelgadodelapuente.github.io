@@ -30,6 +30,7 @@ Reactive transport models (RTMs) are a useful tool to disentagle weathering proc
   <figcaption>The effect of addition of organic ligands and complexation on (a) free Al<sup>3+</sup> activity and (b) allophane saturation index at 20 kyr as a function of depth for a basalt weathering profile. The solid-line represents the results for M3 allowing complexation of Al with organic ligands. Dashed line shows M3 without complexation of Al with organic ligands. Dotted line shows the results for M2 with no organic ligands and no complexation. <br>
 LMWOA complexation of Al lowers the activity of free Al<sup>3+</sup> by 5–6 orders of magnitude despite high total Al concentration and results in undersaturation with respect to secondary Al phases such as allophane. This mechanism appears central to the large aluminum losses observed in highly weathered Hawaiian soils.</figcaption>
 </figure>
+#alida
 
 ---
 <h2><b>Fractionation of Ge/Si ratios in clays, how to move forward to use them in geochemical codes</b></h2> 
