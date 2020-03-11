@@ -18,13 +18,13 @@ Education
 Grants and Fellowships
 ======
 
-2019 International Association of Geochemistry Student Research Grant
-2018 Make Our Planet Great Again Short-stay Research Grant
-2018 Cornell Research Travel Grant
-2017 Geological Society of America Graduate Student Research Grant
-2016 Integral Consulting Research Grant
-2014 Becas Chile CONICYT PhD Fellowship (Chilean Science Foundation)
-2014 Fulbright Foreign Student PhD Fellowship
+* 2019 International Association of Geochemistry Student Research Grant
+* 2018 Make Our Planet Great Again Short-stay Research Grant
+* 2018 Cornell Research Travel Grant
+* 2017 Geological Society of America Graduate Student Research Grant
+* 2016 Integral Consulting Research Grant
+* 2014 Becas Chile CONICYT PhD Fellowship (Chilean Science Foundation)
+* 2014 Fulbright Foreign Student PhD Fellowship
 
 Professional Appointments
 ======
