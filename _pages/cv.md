@@ -11,6 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate in Geological Sciences, Cornell University 2019 (expected)
+* Ph.D. in Geological Sciences, Cornell University 2019
 * M.Sc. in Geology, University of Chile 2013
 * B.Sc. in Geology, University of Chile 2010
+
+Grants and Fellowships
+======
+
+2019 International Association of Geochemistry Student Research Grant
+2018 Make Our Planet Great Again Short-stay Research Grant
+2018 Cornell Research Travel Grant
+2017 Geological Society of America Graduate Student Research Grant
+2016 Integral Consulting Research Grant
+2014 Becas Chile CONICYT PhD Fellowship (Chilean Science Foundation)
+2014 Fulbright Foreign Student PhD Fellowship
+
+Professional Appointments
+======
+
+2020 – Present Assistant Professor, Department of Geology, University of Chile
+
+[PDF CV Updated March 2020](https://aliperezfodich.github.io/files/CV_PerezFodich_Mar2020_web.pdf)
+
+
+
