@@ -6,6 +6,7 @@ author_profile: true
 permalink: /contact/
 
 ---
-Email: **ap868 [at] cornell [dot] edu**
+Email: **aliperez [at] uchile [dot] cl**
 
-Géochimie des enveloppes externes, Institut de Physique du Globe de Paris<br>
+Department of Geology, University of Chile
+Plaza Ercilla 803, Santiago, Chile
