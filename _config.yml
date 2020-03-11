@@ -88,7 +88,7 @@ author:
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZVSmRYwAAAAJ&hl=fr&oi=ao"
   email            : "aliperez@uchile.cl"
-  researchgate     :  "https://www.researchgate.net/profile/Alida_Perez-Fodich"
+  #researchgate     : "https://www.researchgate.net/profile/Alida_Perez-Fodich"
   uri              :
   bitbucket        :
   codepen          :
