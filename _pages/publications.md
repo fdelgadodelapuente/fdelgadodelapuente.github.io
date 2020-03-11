@@ -28,7 +28,9 @@ A model for germanium-silicon equilibrium fractionation in kaolinite<br>
 <b>A. Perez-Fodich</b>, L. A. Derry. <i>under review Geochimica et Cosmochimica Acta</i>.
 
 The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br>
-<b>A. Perez-Fodich</b>, M.T. Walter, J. Marçais, L. A. Derry. <i>Submitted to JGR Earth Surface</i>.
+<b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>Submitted to JGR Earth Surface</i>.
 
 Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.<br>
 <b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.
+
+N.M. Fernandez, <b>Perez-Fodich. A</b>, L.A. Derry, J.L. Druhan. A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <i>In prep</i>.
