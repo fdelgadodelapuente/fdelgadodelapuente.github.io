@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,7 +31,7 @@ Professional Appointments
 
 2020 – Present Assistant Professor, Department of Geology, University of Chile
 
-[PDF CV Updated March 2020](https://aliperezfodich.github.io/files/CV_PerezFodich_Mar2020_web.pdf)
+[CV updated March 2020](https://aliperezfodich.github.io/files/CV_PerezFodich_Mar2020_web.pdf)
 
 
 
