@@ -24,13 +24,13 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 ---
 **Work in progress**<br>
 
-A model for germanium-silicon equilibrium fractionation in kaolinite<br>
-<b>A. Perez-Fodich</b>, L. A. Derry. <i>under review Geochimica et Cosmochimica Acta</i>.
+<p style="font-size:small">A model for germanium-silicon equilibrium fractionation in kaolinite<br>
+<b>A. Perez-Fodich</b>, L. A. Derry. <i>under review Geochimica et Cosmochimica Acta</i>.</p>
 
-The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br>
-<b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>Submitted to JGR Earth Surface</i>.
+<p style="font-size:small">The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br>
+<b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>Submitted to JGR Earth Surface</i>.</p>
 
-Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.<br>
-<b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.
+<p style="font-size:small">Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.<br>
+<b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.</p>
 
-N.M. Fernandez, <b>Perez-Fodich. A</b>, L.A. Derry, J.L. Druhan. A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <i>In prep</i>.
+<p style="font-size:small">N.M. Fernandez, <b>Perez-Fodich. A</b>, L.A. Derry, J.L. Druhan. A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <i>In prep</i>.</p>
