@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-I am a **low-temperature geochemist**, and new Assistant Professor at <a href="http://www.geologia.uchile.cl">University of Chile</a> in Santiago. I obtained my Ph.D. in Geological Sciences from Cornell University. Previous to my work I was a visiting scholar at IPGP through the Make Our Planet Great Again Program.
+I am a **low-temperature geochemist**, and new Assistant Professor at <a href="http://www.geologia.uchile.cl">University of Chile</a> in Santiago. Previously, I was a visiting scholar at IPGP through the Make Our Planet Great Again Program. I obtained my Ph.D. in Geological Sciences from Cornell University.
 
 Research interests
 ======
