@@ -25,10 +25,10 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 **Work in progress**<br>
 
 <p style="font-size:small">A model for germanium-silicon equilibrium fractionation in kaolinite<br>
-<b>A. Perez-Fodich</b>, L. A. Derry. <i>under review Geochimica et Cosmochimica Acta</i>.</p>
+<b>A. Perez-Fodich</b>, L. A. Derry. <i>under review for Geochimica et Cosmochimica Acta</i>.</p>
 
 <p style="font-size:small">The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br>
-<b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>Submitted to JGR Earth Surface</i>.</p>
+<b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>under review for JGR Earth Surface</i>.</p>
 
 <p style="font-size:small">Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.<br>
 <b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.</p>
