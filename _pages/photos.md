@@ -6,13 +6,46 @@ author_profile: true
 ---
 
 
+
+<img style="float: center;" src="/images/etna2.jpg">
+
+the 2002 dike at Mt Etna, September 2019
+
+<img style="float: center;" src="/images/etna1.jpg">
+
+Looking to the Mt Etna summit near Piano Provenzana, September 2019 
+
+<img style="float: center;" src="/images/eyja5.jpg">
+
+Eyjafjallajökull basalts falling down into the Thórsmörk valley
+
+<img style="float: center;" src="/images/eyja4.jpg">
+
+Another gloomy view of Eyjafjallajökull, but with the 2010 lava flows
+
+<img style="float: center;" src="/images/eyja3.jpg">
+
+A gloomy yet spectacular view of Eyjafjallajökull, one of my favorite volcanoes!
+
+<img style="float: center;" src="/images/eyja6.jpg">
+
+InSAR geodesists also look at olivine cystals in Icelandic basalts!
+
+<img style="float: center;" src="/images/eyja2.jpg">
+
+Next to the 2010 basaltic flows of Eyjafjallajökull, Iceland, August 2019
+
+<img style="float: center;" src="/images/eyja1.jpg">
+
+The eruptive vents of the effusive phase of the 2010 Eyjafjallajökull eruption, Iceland, August 2019
+
 <img style="float: center;" src="/images/mtblanc2.jpg">
 
 On the way down from Mt Blanc to the Dome de Gouter
 
 <img style="float: center;" src="/images/mtblanc3.jpg">
 
-At the Mt Blanc summit after climbing the Trois Monts route 
+At the Mt Blanc summit after climbing the Trois Monts route, July 2019
 
 <img style="float: center;" src="/images/mtblanc1.jpg">
 
