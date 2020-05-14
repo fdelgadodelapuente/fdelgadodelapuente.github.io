@@ -32,23 +32,27 @@ ISCE is written in Python3 and uses a lot of its libraries. To install them all 
  
 **/home/francisco/anaconda3/bin/conda config --add channels conda-forge**
 
-/home/francisco/anaconda3/bin/conda update --all
+**/home/francisco/anaconda3/bin/conda update --all**
 
-/home/francisco/anaconda3/bin/conda install scons
+**/home/francisco/anaconda3/bin/conda install scons**
 
-/home/francisco/anaconda3/bin/conda install gdal
+**/home/francisco/anaconda3/bin/conda install gdal**
 
-/home/francisco/anaconda3/bin/conda install libgdal
+**/home/francisco/anaconda3/bin/conda install libgdal**
 
-/home/francisco/anaconda3/bin/conda install -c omnia fftw3f=3.3.4**
+**/home/francisco/anaconda3/bin/conda install -c omnia fftw3f=3.3.4**
  
 Now open a python3 window and type
  
-**import scipy
-import numpy
-import matplotlib.pyplot as plt
-import h5py
-from osgeo import gdal**
+**import scipy**
+
+**import numpy**
+
+**import matplotlib.pyplot as plt**
+
+**import h5py**
+
+**from osgeo import gdal**
  
 If they are correctly installed, you should see no errors.
  
