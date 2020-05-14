@@ -4,11 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-[From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://eartharxiv.org/c8d5v/)<br>
-Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific reports</i>. **2019**, under review, available at EarthXiv.
+[Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
+MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on "Creep on continental faults and subduction zones: Geophysics, geology, and mechanics", in press.
 
-[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters)<br>
-**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, in press
+[From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://www.nature.com/articles/s41598-019-55141-7/)<br>
+Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific Reports</i>. **2019**, 9, 18868, doi.org/10.1038/s41598-019-55141-7
+
+[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/science/article/abs/pii/S0012821X19304285)<br>
+**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>, **2019**, 524, 10.1016/j.epsl.2019.115736
 
 [Viscoelastic relaxation: A mechanism to explain the decennial large surface displacements at the Laguna del Maule silicic volcanic complex](https://www.sciencedirect.com/science/article/pii/S0012821X19303383)<br>
 Novoa, C., Remy, D., Gerbault, M., Baez, J.C., Tassara, A., Cordova, L., Cardona, C., Granger, M., Bonvalot, S., **Delgado, F.**  <i>Earth and Planetary Science Letters</i>. **2019**, 521, 46-59. doi:10.1016/j.epsl.2019.06.005
