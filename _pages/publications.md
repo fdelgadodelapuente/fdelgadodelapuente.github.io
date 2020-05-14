@@ -11,7 +11,8 @@ Dynamics of episodic magma injection and migration at Yellowstone caldera: revis
 Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
 **Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
 
-The 2018/19 phreatomagmatic eruption of Planchn-Peteroa volcanic Complex (Southern Andes).
+Combining ash analyses with remote sensing to identify juvenile magma involvement and fragmentation mechanisms during the
+2018/19 small eruption of Peteroa volcano (Southern Andes).
 Romero, J., Aguilera, F., **Delgado, F.**, Guzman, D, Van Eaton, A., Luengo, N., Caro, J., Bustillos, J., Holbik, S., Tomey, D., Zegarra, I., 2020. <i>Journal of Volcanology and Geothermal Research</i>, under review.
 
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
