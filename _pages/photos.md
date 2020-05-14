@@ -54,6 +54,10 @@ Next to the 2010 basaltic flows of Eyjafjallajökull, Iceland, August 2019
 The eruptive vents of the effusive phase of the 2010 Eyjafjallajökull eruption, Iceland, August 2019
 
 
+<img style="float: center;" src="/images/strokkur.jpg">
+
+Strokkur geyser, Iceland, August 2019
+
 
 <img style="float: center;" src="/images/mtblanc2.jpg">
 
