@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS
+**Delgado, F.**, Grandin, R., 2020. In prep.
+
+
 Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
 **Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on "New advances on SAR Interferometry in South America".
 
