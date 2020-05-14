@@ -138,7 +138,7 @@ TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.
 
  <img style="float: center;" src="/images/alos_aysen.png">
 
-ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault,
+ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
  
 ### **Relevant publications**
 
