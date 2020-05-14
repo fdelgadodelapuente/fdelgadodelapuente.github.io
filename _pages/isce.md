@@ -13,6 +13,7 @@ Here I have compiled a set of Linux and OSX installations instructions for ISCE 
 
 The notes in this website are from instructions by Piyush Agram (JPL), one of the developers of the ISCE software: Installation of ISCE and https://github.com/piyushrpt/oldLinuxSetup. The instructions presented below were tested for the isce_201609 version, but have been used with the most recent versions of the software in an Ubuntu machine. If you use other Linux distributions like RedHat or openSUSE, it's likely that you will have to modify these instructions. 
 
+https://github.com/whyjz/isce_notes/tree/master/Linux_General
 Additional instructions for Linux machines with little to none sudo permissions (Whyjay Zheng, Cornell University).
 
 Other instructions (Scott Henderson, University of Washington)
@@ -30,9 +31,13 @@ ISCE is written in Python3 and uses a lot of its libraries. To install them all 
  
 **/home/francisco/anaconda3/bin/conda config --add channels conda-forge
 /home/francisco/anaconda3/bin/conda update --all
+
 /home/francisco/anaconda3/bin/conda install scons
+
 /home/francisco/anaconda3/bin/conda install gdal
+
 /home/francisco/anaconda3/bin/conda install libgdal
+
 /home/francisco/anaconda3/bin/conda install -c omnia fftw3f=3.3.4**
  
 Now open a python3 window and type
