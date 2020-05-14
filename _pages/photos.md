@@ -46,6 +46,10 @@ Excelsior geyser, Yellowstone, June 2016
 
 Grand Prismatic Spring, Yellowstone, June 2016
 
+<img style="float: center;" src="/images/hudson.jpg">
+
+Hudson volcano, April 2016, an Okmok-like caldera in Southern Chile, it erupted in 1991 in one of the largest eruptions of the XX century
+
 <img style="float: center;" src="/images/rainier2014c.jpg">
 
 On the way down from Mt Rainier summit, June 2014
