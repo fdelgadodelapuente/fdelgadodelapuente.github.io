@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020]. **Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on "New advances on SAR Interferometry in South America".
+
+[The 2018/19 phreatomagmatic eruption of Planchn-Peteroa volcanic Complex (Southern Andes)].
+Romero, J., Aguilera, F., Delgado, F., Guzman, D, Van Eaton, A., Luengo, N., Caro, J., Bustillos, J., Holbik, S., Tomey, D., Zegarra, I., 2020. <i>Journal of Volcanology and Geothermal Research</i>, under review.
+
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
 MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on "Creep on continental faults and subduction zones: Geophysics, geology, and mechanics", in press.
 
