@@ -16,6 +16,7 @@ The notes in this website are from instructions by Piyush Agram (JPL), one of th
 https://github.com/whyjz/isce_notes/tree/master/Linux_General
 Additional instructions for Linux machines with little to none sudo permissions (Whyjay Zheng, Cornell University).
 
+https://github.com/scottyhq/isce_notes
 Other instructions (Scott Henderson, University of Washington)
 
 
@@ -29,7 +30,8 @@ If you do not have scons, go to the next step,
 
 ISCE is written in Python3 and uses a lot of its libraries. To install them all you need to install anaconda3 and then type
  
-**/home/francisco/anaconda3/bin/conda config --add channels conda-forge
+**/home/francisco/anaconda3/bin/conda config --add channels conda-forge**
+
 /home/francisco/anaconda3/bin/conda update --all
 
 /home/francisco/anaconda3/bin/conda install scons
