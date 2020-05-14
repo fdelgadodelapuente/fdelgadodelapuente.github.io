@@ -5,6 +5,19 @@ permalink: /photos/
 author_profile: true
 ---
 
+
+<img style="float: center;" src="/images/mtblanc2.jpg">
+
+On the way down from Mt Blanc to the Dome de Gouter
+
+<img style="float: center;" src="/images/mtblanc3.jpg">
+
+At the Mt Blanc summit after climbing the Trois Monts route 
+
+<img style="float: center;" src="/images/mtblanc1.jpg">
+
+View towards the summit of Mt Blanc de Tacul from Refuge des Cosmiques, Massif du Mont Blanc
+
 <img style="float: center;" src="/images/hawaii2018.jpg">
 
 Spectacular pahoehoe lava flows of the Pu'u O'o - Kupaianaha eruption of Kilauea during 1986-1992, September 2018. 
