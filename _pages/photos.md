@@ -123,7 +123,7 @@ Lastarria volcano sulphur fumes, March 2014
 
 Tronador volcano, February 2012
 
-<img style="float: center;" src="/images/sollipulli2011.jpg">
+<img style="float: center;" src="/images/sollipulli2012.jpg">
 
 Nevados de Sollipulli ice-filled caldera, November 2011
 
