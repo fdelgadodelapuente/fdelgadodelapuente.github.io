@@ -32,7 +32,7 @@ Grants and Fellowships
 2017. NASA Jet Propulsion Laboratory Strategic University Research Partnership (SURP) program
 2016. NASA Earth and Space Science Fellowship
 2016. Cornell University EAS Excellence in Research Award
-2012 - 2016. Becas Chile, four year fellowship for international graduate studies
+2012. Becas Chile, four year fellowship for international graduate studies
 
 Professional Experience
 ======
