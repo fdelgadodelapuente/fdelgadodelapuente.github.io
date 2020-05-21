@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Detailed  CV](https://www.dropbox.com/s/pml7g5uqyx9em21/FranciscoDelgadoCV_tex.pdf?dl=0)
+[Detailed  CV](https://www.dropbox.com/s/6i7dggcz0mxa1xx/FranciscoDelgadoCV_tex.pdf?dl=0)
 
 
 Education
