@@ -125,7 +125,7 @@ Coherence comparison for interferograms with 24 and 48 day repeat periods at Cor
 
 <img style="float: center;" src="/images/ambrym.png">
 
-Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submarine eruption. The coherence of Sentinel-1 data during the eruption is almost zero due to more than 1 m of displacement exceeding the deformation gradient required to sustain coehrence. Therefore L-band data provides the best deformation measurements form InSAR. However, the L-band azimuth offsets are corrupted from ionosphere while X_band azimuth offsets are very clean and show the along-track displacement resulting from the dike opening. The conclusion is that complex eruptions under difficult environmental conditions require to use multiplatform SAR data
+Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submarine eruption. The coherence of Sentinel-1 data during the eruption is almost zero due to more than 1 m of displacement exceeding the deformation gradient required to sustain coherence. Therefore L-band data provides the best deformation measurements from InSAR due to the longer wavelength of L-band data. However, the L-band azimuth offsets are corrupted by dispersive ionospheric streaks while azimuth offsets calculated from high resolution stripmap X-band data (2 m/pixel) are not affected by these effects due to their smaller wavelength and nicely show the along-track displacement resulting from the dike opening. The conclusion is that complex eruptions under difficult environmental conditions like tropical rainforest require to use multiplatform SAR data.
 
 ### **Relevant publications**
 
