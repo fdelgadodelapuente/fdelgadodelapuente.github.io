@@ -123,6 +123,10 @@ Comparison of methods to correct atmospheric phase delays in ALOS-1 and CSK inte
 
 Coherence comparison for interferograms with 24 and 48 day repeat periods at Cordon Caulle volcano. The data sets are a low resolution wide swath mode (Sentinel-1 Terrain Observation by Progressive Scans, 20 m/pixel) with VV polarization and a high resolution strip map beam (RADARSAT-2 Wide Ultra Fine 12, 2 m/pixel) with HH polarization. The RADARSAT-2 coherence ​is much higher than the Sentinel-1 coherence due to a combination of the higher resolution and the HH polarization. 
 
+<img style="float: center;" src="/images/ambrym.png">
+
+Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submarine eruption. The coherence of Sentinel-1 data during the eruption is almost zero due to more than 1 m of displacement exceeding the deformation gradient required to sustain coehrence. Therefore L-band data provides the best deformation measurements form InSAR. However, the L-band azimuth offsets are corrupted from ionosphere while X_band azimuth offsets are very clean and show the along-track displacement resulting from the dike opening. The conclusion is that complex eruptions under difficult environmental conditions require to use multiplatform SAR data
+
 ### **Relevant publications**
 
 [Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://link.springer.com/article/10.1186/s13617-018-0074-0)<br>
