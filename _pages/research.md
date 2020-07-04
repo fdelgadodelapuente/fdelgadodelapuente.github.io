@@ -92,7 +92,7 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 
 
 
-# **Physics-based models of silica-rich effusive eruptions**
+## **Physics-based models of silica-rich effusive eruptions**
 
 Geodetic and extruded volume data sets acquired at both silicic and basaltic volcanoes show quasi-exponential trends that are indicative of coupled conduit flow and magma reservoir pressure drop. I am developing a numerical model that couples the magma extrusion, magma reservoir deflation and including time-dependent gas exsolution and viscosity for the effusive phase of the 2011-2012 rhyodacitic eruption of Cordon Caulle volcano. The major goal is to predict the temporal evolution of one of these rare but powerful and dangerous eruptions, and to provide insights on the magma properties (dissolved and exsolved water, viscosity, crystal content) from geodetic and topographic data only. The latter is a key advance because the vast majority of the models used by volcano geodesists do not provide insights on the magma physical properties, which are key parameters that control the erupted volume, eruption duration, and transitions between effusive and explosive eruptions.
 
@@ -142,7 +142,7 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgad
 
 # *Active tectonics*
 
-# **Crustal earthquakes and volcano-tectonic interactions**
+## **Crustal earthquakes and volcano-tectonic interactions**
 
 I am also interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by  point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. 
 
@@ -166,4 +166,18 @@ Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Agui
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
 MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on "Creep on continental faults and subduction zones: Geophysics, geology, and mechanics", in press.
 
+
+
+# **Numerical modeling of geologic processes**
+
+As part of my volcano research I have used numerical tools of solid and fluid mechanics that have helped to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess.
+
+
+### **Relevant publications**
+
+[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/science/article/pii/S0012821X19304285)<br>
+**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, 524, doi:10.1016/j.epsl.2019.115736
+
+[Renewed post-eruptive uplift following the 2011-2012 rhyolitic eruption of Cordón Caulle (Southern Andes, Chile): evidence for transient episodes of magma reservoir recharge during 2012-2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240)<br>
+**Delgado, F.**, Pritchard, M., Samsonov, S., Córdova, L.. <i>Journal of Geophysical Research</i>. **2018**. doi:10.1029/2018JB016240
 
