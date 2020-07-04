@@ -7,6 +7,9 @@ author_profile: true
 
 My main research areas are InSAR geodesy, crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions) and numerical modeling of geologic processes
 
+# *Mechanics of magma storage and transport*
+
+
 # **Mechanics of magma storage and transport**
 
 How is magma stored and transported is a key volcanological question that help us to better understand how volcanoes work and whether episodes of unrest will end up in an eruption or not. The build up of stresses that produce surface ground deformation can eventually result in an eruption, but the conditions that will lead to it are highly dependent on the source geometry and the amount of intruded magma. Hence, it is paramount importance to be able to constrain these critical volcanic parameters. I study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models to model both secular and transient ground deformation signals.  I have studied magma intrusion with InSAR data at several volcanoes in the Central and Southern Andes of Peru and Chile including Sabancaya, Ubinas, Lazufre volcanic complex, Peteroa, Quizapu, Nevados de Chillan, Copahue, Lonquimay, Llaima, Villarrica, Cordon Caulle, Calbuco, Chaiten and Hudson. I am currently working at Yellowstone caldera, the largest active volcano on Earth!
