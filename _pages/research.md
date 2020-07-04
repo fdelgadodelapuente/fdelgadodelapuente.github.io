@@ -59,7 +59,7 @@ Henderson, S., **Delgado, F.**, Pritchard, M., Elliott, J., Lundgren, P. <i>Geos
 
 
 
-# **Eruption Dynamics**
+## **Eruption Dynamics**
 
 What triggers volcanic eruptions? This key and fundamental volcanological question has remained elusive because every volcano has its own dynamics thus precluding the development of general patterns. My research in the the volcanoes of the Southern Andes have shown that the VEI 4 2015 eruption of Calbuco volcano was less likely to triggered by a dike intrusion rather than either volatile exsolution or geodetically undetectable magma recharge. On the other hand, the VEI 1-2 2008-2009 Llaima  and 2015 Villarrica eruptions were too small to produce a signal to be detected by geodetic methods, in agreement with the dynamics of open vent volcanoes. Eruptions in this type of volcanoes are likely to be triggered by small perturbations in their plumbing systems.
 
@@ -108,7 +108,7 @@ Numerical simulation of a physics-based model with variable amounts of complexit
 
 
 
-# *InSAR geodesy*
+# **InSAR geodesy**
 
 InSAR (Interferometric Synthetic Aperture Radar) has revolutionized volcanology providing dense geodetic observations (up to ~0.5 m/pixel, most likely 10-30 m/pixel), albeit with a poor temporal sampling (1-42 days depending on the SAR platform). One of the major limitations of the method is the presence of atmospheric signals produced by water vapor and pressure changes that are correlated with the topography. In the case of stratovolcanoes, these signals mimic ground deformation produced by magma reservoir pressurization, and can be very challenging to mitigate for the time scales of volcanic eruptions (0.01 - 10 days). I'm interested in developing and comparing approaches that can reduce the effect of these artifacts.
 
@@ -140,24 +140,25 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgad
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
 
-# *Active tectonics*
+# **Active tectonics**
 
-## **Crustal earthquakes and volcano-tectonic interactions**
+## **Crustal earthquakes and the seismic cycle**
 
 I am also interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by  point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. 
 
 <img style="float: center;" src="/images/pichilemu2.jpg">
 Set of interferograms that cover the seismic cyle of the Pichilemu fault in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake
 
+ <img style="float: center;" src="/images/alos_aysen.png">
+
+ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
+  
+## **Volcano-tectonic interactions**
 
 <img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg">
  
 TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.8 earthquake NW of Sabancaya volcano (black triangle) in Southern Peru. InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. The geodetic focal mechanism is in agreement with the seismic moment tensor for both the geometry and the seismic moment, and shows that there is no evidence for either volcano-induced deformation or magma injection. The interferogram also shows triggered slip on smaller faults N of Sabancaya, as well as residual atmospheric noise. Wrapped (c) and unwrapped (d) and 2013/11 - 2016/12 TerraSAR-X mean velocity calculated from InSAR time series that show ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the fault responsible for the July 2013 Mw 5.9 earthquake, which is better observed in the wrapped interferogram.
 
- <img style="float: center;" src="/images/alos_aysen.png">
-
-ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
- 
 ### **Relevant publications**
 
 [Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
