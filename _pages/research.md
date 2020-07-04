@@ -135,9 +135,12 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgad
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
 
-# **Crustal deformation and volcano-tectonic interactions**
+# **Active tectonics, seismic cycle and volcano-tectonic interactions**
 
 I am also interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by  point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. 
+
+<img style="float: center;" src="/images/pichilemu2.jpg">
+Set of interferograms that cover the seismic cyle of the Pichilemu fault in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake
 
 
 <img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg">
