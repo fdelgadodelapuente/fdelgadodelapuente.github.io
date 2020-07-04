@@ -7,7 +7,7 @@ author_profile: true
 
 My main research areas are InSAR geodesy, crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions) and numerical modeling of geologic processes
 
-# ***Volcanology***
+# Volcanology
 
 
 # **Mechanics of magma storage and transport**
