@@ -177,7 +177,7 @@ MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, 
 
 # **Numerical modeling of geologic processes**
 
-As part of my volcano research I have used numerical tools of solid and fluid mechanics that have helped to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess.
+As part of my volcano research I have used numerical tools of solid and fluid mechanics (finite differences, finite elements) that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess.
 
 
 ### **Relevant publications**
