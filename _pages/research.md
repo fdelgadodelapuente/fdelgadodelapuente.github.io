@@ -108,7 +108,7 @@ Numerical simulation of a physics-based model with variable amounts of complexit
 
 
 
-# **InSAR geodesy**
+# *InSAR geodesy*
 
 InSAR (Interferometric Synthetic Aperture Radar) has revolutionized volcanology providing dense geodetic observations (up to ~0.5 m/pixel, most likely 10-30 m/pixel), albeit with a poor temporal sampling (1-42 days depending on the SAR platform). One of the major limitations of the method is the presence of atmospheric signals produced by water vapor and pressure changes that are correlated with the topography. In the case of stratovolcanoes, these signals mimic ground deformation produced by magma reservoir pressurization, and can be very challenging to mitigate for the time scales of volcanic eruptions (0.01 - 10 days). I'm interested in developing and comparing approaches that can reduce the effect of these artifacts.
 
@@ -140,7 +140,9 @@ Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgad
 [Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
 
-# **Active tectonics, seismic cycle and volcano-tectonic interactions**
+# *Active tectonics*
+
+# **Crustal earthquakes and volcano-tectonic interactions**
 
 I am also interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by  point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. 
 
