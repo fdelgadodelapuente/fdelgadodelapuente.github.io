@@ -14,16 +14,9 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 
 How is magma stored and transported is a key volcanological question that help us to better understand how volcanoes work and whether episodes of unrest will end up in an eruption or not. The build up of stresses that produce surface ground deformation can eventually result in an eruption, but the conditions that will lead to it are highly dependent on the source geometry and the amount of intruded magma. Hence, it is paramount importance to be able to constrain these critical volcanic parameters. I study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models to model both secular and transient ground deformation signals.  I have studied magma intrusion with InSAR data at several volcanoes in the Central and Southern Andes of Peru and Chile including Sabancaya, Ubinas, Lazufre volcanic complex, Peteroa, Quizapu, Nevados de Chillan, Copahue, Lonquimay, Llaima, Villarrica, Cordon Caulle, Calbuco, Chaiten and Hudson. I am currently working at Yellowstone caldera, the largest active volcano on Earth!
 
-
-
 <img style="float: center;" src="/images/ts2012_2020_dsc.jpg">
 
-Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-SkyMED and RADARSAT-2 descending data after the 2011-2012 Cordon Caulle eruption (dashed red line). The brown dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir.
-
-
-<img style="float: center;" src="/images/caulle_vels.png">
-
-InSAR time series of ground deformation at Cordón Caulle volcano during 2012-2013 (a) and 2013-2015 (b). The ground displacement is most likely by magma intrusion following the VEI4 2011-2012 rhyodacitic eruption and decreased exponentially as predicted by simple models of magma recharge immediately after an eruption.
+Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-SkyMED and RADARSAT-2 descending data after the 2011-2012 Cordon Caulle eruption (dashed red line). The brown dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is responsible for the three pulses of ground uplift.
 
 <img style="float: center;" src="../images/modelfits.jpg">
 
