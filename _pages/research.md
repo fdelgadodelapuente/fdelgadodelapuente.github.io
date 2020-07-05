@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research areas are InSAR geodesy, crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions) and numerical modeling of geologic processes
+My main research areas are InSAR geodesy applied to crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions) and numerical modeling of geologic processes
 
 # **Volcanology**
 
@@ -131,6 +131,11 @@ Coherence comparison for interferograms with 24 and 48 day repeat periods at Cor
 <img style="float: center;" src="/images/ambrym.png">
 
 Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submarine eruption. The coherence of Sentinel-1 data during the eruption is almost zero due to the 2 m of line-of-sight displacement exceeding the deformation gradient of 2pi radians per pixel required to sustain coherence. Therefore L-band data provides the best deformation measurements from InSAR due to its longer wavelength and smaller pixel size. However, the L-band azimuth offsets are corrupted by dispersive ionospheric streaks while azimuth offsets calculated from high resolution stripmap X-band data (2 m/pixel) are not affected by these effects due to their smaller wavelength and nicely show the along-track displacement resulting from the dike opening. The conclusion is that complex eruptions under difficult environmental conditions like tropical rainforest require to use multiplatform SAR data.
+
+<img style="float: center;" src="/images/pichilemu_wr.jpg">
+
+Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu earthquake in Central Chile. The difference in the number of fringes is given by the longer wavelength of L-band compared with C-band data. The patchy pattern at the bottom of the ENVISAT interferogram is produced by DEM errors by forest clearcuts in this long baseline interferogram (Bp ~ 390 m), compared with the much shorter perpendicular baseline of the ALOS-1 pair. Also, C-band data tends to saturate near the fault trace due to high deformation gradients which are better captured by data with lower sensitivity like L-band data. C and L-band data can be considered analogous to a seismomemter and a strong motion in earthquake seismology!
+
 
 ### **Relevant publications**
 
