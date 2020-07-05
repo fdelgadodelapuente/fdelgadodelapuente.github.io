@@ -23,15 +23,15 @@ Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-Sky
 
 <img style="float: center;" src="/images/caulle_vels.png">
 
-Mean surface velocities at Cordón Caulle volcano during 2012-2013 (a) and 2013-2015 (b). The ground displacement is most likely by magma intrusion following the VEI4 2011-2012 rhyodacitic eruption and decreased exponentially as predicted by simple models of magma recharge immediately after an eruption.
+InSAR time series of ground deformation at Cordón Caulle volcano during 2012-2013 (a) and 2013-2015 (b). The ground displacement is most likely by magma intrusion following the VEI4 2011-2012 rhyodacitic eruption and decreased exponentially as predicted by simple models of magma recharge immediately after an eruption.
 
+<img style="float: center;" src="../images/modelfits.jpg">
+
+A-D) Interferograms calulcated from ENVISAT time series showing deformation due to Yellowstone caldera uplift during 2004-2009, E-H) Synthetic interfeorgrams produced by the best-fit two horizontal dislocations (black rectangles) and I-L) difference between data and synthetics. Arrows in B) show GPS data and synthetic data.
 
 <img style="float: center;" src="../images/okada_models.jpg">
 
 Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total volume change is 0.3 km3 in 5 years.  
-
-<img style="float: center;" src="../images/modelfits.jpg">
-A-D) Interferograms calulcated from ENVISAT time series showing deformation due to Yellowstone caldera uplift during 2004-2009, E-H) Synthetic interfeorgrams produced by the best-fit two horizontal dislocations (black rectangles) and I-L) difference between data and synthetics. Arrows in B) show GPS data and synthetic data.
 
 
 ### **Relevant publications**
