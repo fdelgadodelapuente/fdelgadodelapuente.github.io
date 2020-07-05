@@ -15,6 +15,12 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 How is magma stored and transported is a key volcanological question that help us to better understand how volcanoes work and whether episodes of unrest will end up in an eruption or not. The build up of stresses that produce surface ground deformation can eventually result in an eruption, but the conditions that will lead to it are highly dependent on the source geometry and the amount of intruded magma. Hence, it is paramount importance to be able to constrain these critical volcanic parameters. I study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models to model both secular and transient ground deformation signals.  I have studied magma intrusion with InSAR data at several volcanoes in the Central and Southern Andes of Peru and Chile including Sabancaya, Ubinas, Lazufre volcanic complex, Peteroa, Quizapu, Nevados de Chillan, Copahue, Lonquimay, Llaima, Villarrica, Cordon Caulle, Calbuco, Chaiten and Hudson. I am currently working at Yellowstone caldera, the largest active volcano on Earth!
 
 
+
+<img style="float: center;" src="/images/ts2012_2020_dsc.jpg">
+
+Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-SkyMED and RADARSAT-2 descending data after the 2011-2012 Cordon Caulle eruption (dashed red line). The brown dots show the horizontal baseline change between two GPS stations in the volcano
+
+
 <img style="float: center;" src="/images/caulle_vels.png">
 
 Mean surface velocities at Cordón Caulle volcano during 2012-2013 (a) and 2013-2015 (b). The ground displacement is most likely by magma intrusion following the VEI4 2011-2012 rhyodacitic eruption and decreased exponentially as predicted by simple models of magma recharge immediately after an eruption.
@@ -134,7 +140,7 @@ Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submari
 
 <img style="float: center;" src="/images/pichilemu_wr.jpg">
 
-Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu earthquake in Central Chile. The difference in the number of fringes is given by the longer wavelength of L-band compared with C-band data. The patchy pattern at the bottom of the ENVISAT interferogram is produced by DEM errors by forest clearcuts in this long baseline interferogram (Bp ~ 390 m), compared with the much shorter perpendicular baseline of the ALOS-1 pair. Also, C-band data tends to saturate near the fault trace due to high deformation gradients which are better captured by data with lower sensitivity like L-band data. C and L-band data can be considered analogous to a seismomemter and a strong motion in earthquake seismology!
+Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu earthquake in Central Chile. The difference in the number of fringes is given by the longer wavelength of L-band data compared with C-band data. The patchy pattern at the bottom of the ENVISAT interferogram is produced by DEM errors by forest clearcuts in this long baseline interferogram (Bp ~ 390 m). In contrast, these DEM errors are absent in the ALOS-1 interferogram which a strict small baseline  pair. Also, C-band data tends to saturate near the fault trace due to high deformation gradients which are better captured by data with lower sensitivity like L-band data. C and L-band data can be considered analogous to a seismomemter and a strong motion in earthquake seismology! And of course, in vegetated areas the coherence of C-band data is much lower compared to that of L-band data.
 
 
 ### **Relevant publications**
