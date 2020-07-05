@@ -29,6 +29,12 @@ Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total 
 
 ### **Relevant publications**
 
+Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS
+**Delgado, F.**, Grandin, R., 2020. In prep.
+
+Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
+**Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
+
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
 MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on "Creep on continental faults and subduction zones: Geophysics, geology, and mechanics", in press.
 
@@ -137,6 +143,9 @@ Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu
 
 
 ### **Relevant publications**
+
+Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
+**Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
 
 [Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://link.springer.com/article/10.1186/s13617-018-0074-0)<br>
 Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgado, F.**, Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S. <i>Journal of Applied Volcanology</i>. **2018**, 7:5, doi.org/10.1186/s13617-018-0074-0
