@@ -22,7 +22,7 @@ Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-Sky
 
 A-D) Interferograms calulcated from ENVISAT time series showing deformation due to Yellowstone caldera uplift during 2004-2009, E-H) Synthetic interfeorgrams produced by the best-fit two horizontal dislocations (black rectangles) and I-L) difference between data and synthetics. Arrows in B) show GPS data and synthetic data.
 
-<img style="float: center;" src="../images/okada_models.jpg">
+<img style="float: center;" src="../images/okada_models.jpg" width="500">
 
 Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total volume change is 0.3 km3 in 5 years.  
 
@@ -154,18 +154,18 @@ I am also interested in the use of InSAR to study active crustal deformation pro
 
 Set of interferograms that cover the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
 
- <img style="float: center;" src="/images/alos_aysen.png">
+ <img style="float: center;" src="/images/alos_aysen.png" width="500">
 
 ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
 
 
- <img style="float: center;" src="/images/ux_uz.jpg">
+ <img style="float: center;" src="/images/ux_uz.jpg" width="500">
 
 East-west (Ux) and vertical (Uz) displacement of the 2016 Mw 7.6 Chiloe earthquake decomposed from ascending and descending Sentinel-1 interferograms
   
 ## **Volcano-tectonic interactions**
 
-<img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg">
+<img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg" width="500">
  
 TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.8 earthquake NW of Sabancaya volcano (black triangle) in Southern Peru. InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. The geodetic focal mechanism is in agreement with the seismic moment tensor for both the geometry and the seismic moment, and shows that there is no evidence for either volcano-induced deformation or magma injection. The interferogram also shows triggered slip on smaller faults N of Sabancaya, as well as residual atmospheric noise. Wrapped (c) and unwrapped (d) and 2013/11 - 2016/12 TerraSAR-X mean velocity calculated from InSAR time series that show ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the fault responsible for the July 2013 Mw 5.9 earthquake, which is better observed in the wrapped interferogram.
 
