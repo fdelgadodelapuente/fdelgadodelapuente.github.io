@@ -18,7 +18,7 @@ How is magma stored and transported is a key volcanological question that help u
 
 <img style="float: center;" src="/images/ts2012_2020_dsc.jpg">
 
-Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-SkyMED and RADARSAT-2 descending data after the 2011-2012 Cordon Caulle eruption (dashed red line). The brown dots show the horizontal baseline change between two GPS stations in the volcano
+Time series of uplift at Cordon CAulle volcano measured by Sentinel-1, COSMO-SkyMED and RADARSAT-2 descending data after the 2011-2012 Cordon Caulle eruption (dashed red line). The brown dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir.
 
 
 <img style="float: center;" src="/images/caulle_vels.png">
