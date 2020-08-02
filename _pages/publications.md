@@ -4,9 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Delgado, F.**, Samsonov, S. Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile). In prep
+Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).
+**Delgado, F.**, Samsonov, S.   In prep
 
-Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS
+Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.
 **Delgado, F.**, Grandin, R., 2020. In prep.
 
 Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
