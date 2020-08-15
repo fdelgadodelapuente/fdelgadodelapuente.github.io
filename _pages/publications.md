@@ -27,7 +27,7 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 ---
 **Work in progress**<br>
 
-<p style="font-size:small">N.M. Fernandez, <b>Perez-Fodich. A</b>, L.A. Derry, J.L. Druhan. A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <i>under review at Geochimica et Cosmochimica Acta</i>.</p>
+<p style="font-size:small">N.M. Fernandez, <b>Perez-Fodich. A</b>, L.A. Derry, J.L. Druhan. A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <i>Under review at Geochimica et Cosmochimica Acta</i>.</p>
 
 <p style="font-size:small">The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br>
 <b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>In prep for JGR Earth Surface</i>.</p>
