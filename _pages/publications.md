@@ -5,8 +5,7 @@ author_profile: true
 ---
 **Published**<br>
 
-[A model for germanium-silicon equilibrium fractionation in kaolinite]
-(https://www.sciencedirect.com/science/article/abs/pii/S0016703720304841)<br>
+[A model for germanium-silicon equilibrium fractionation in kaolinite](https://www.sciencedirect.com/science/article/abs/pii/S0016703720304841)<br>
 **A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **In Press**. 
 
 [Organic acids and high soil CO2 drive intense chemical weathering of Hawaiian basalts: Insights from reactive transport models](https://www.sciencedirect.com/science/article/pii/S0016703719300511)<br>
