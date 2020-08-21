@@ -54,10 +54,10 @@ Henderson, S., **Delgado, F.**, Pritchard, M., Elliott, J., Lundgren, P. <i>Geos
 3. [New insights into La Pacana caldera inner structure based on a gravimetric study (central Andes, Chile)](http://www.andeangeology.cl/index.php/revista1/article/view/V42n3-a02/html)<br>
 **Delgado, F.**, Pavez, A. <i>Andean Geology</i>. **2015**, 42(3), 313-328. doi:10.5027/andgeoV42n3-a02
 
-2. [Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
+[2. Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
 Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
 
-1. [The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery](https://link.springer.com/article/10.1007/s00445-014-0815-9)<br>
+[1. The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery](https://link.springer.com/article/10.1007/s00445-014-0815-9)<br>
 **Delgado, F.**, Pritchard  M, Lohman  R, Naranjo,  J.A. <i>Bull. Volcanol.</i>. **2014**, Bull Volcanol, 76:815. doi:10.1007/s00445-014-0815-9.
 
 
