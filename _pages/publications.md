@@ -11,7 +11,8 @@ Dynamics of episodic magma injection and migration at Yellowstone caldera: revis
 **Delgado, F.**, Grandin, R., 2020. In prep.
 
 [16. Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020.] <br>
-**Delgado, F.**, 2020.  <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
+**Delgado, F.**, 2020.  <i>
+Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
 
 [15. Combining ash analyses with remote sensing to identify juvenile magma involvement and fragmentation mechanisms during the
 2018/19 small eruption of Peteroa volcano (Southern Andes)](https://www.sciencedirect.com/science/article/abs/pii/S0377027320300913)<br>
