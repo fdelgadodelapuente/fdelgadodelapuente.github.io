@@ -11,15 +11,14 @@ Dynamics of episodic magma injection and migration at Yellowstone caldera: revis
 **Delgado, F.**, Grandin, R., 2020. In prep.
 
 [16. Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020.] <br>
-**Delgado, F.**, 2020.  <i>
-Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
+**Delgado, F.**.  <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>. **2020**, in press.
 
 [15. Combining ash analyses with remote sensing to identify juvenile magma involvement and fragmentation mechanisms during the
 2018/19 small eruption of Peteroa volcano (Southern Andes)](https://www.sciencedirect.com/science/article/abs/pii/S0377027320300913)<br>
-Romero, J., Aguilera, F., **Delgado, F.**, Guzman, D, Van Eaton, A., Luengo, N., Caro, J., Bustillos, J., Holbik, S., Tomey, D., Zegarra, I., 2020. <i>Journal of Volcanology and Geothermal Research</i>, doi:10.1016/j.jvolgeores.2020.106984
+Romero, J., Aguilera, F., **Delgado, F.**, Guzman, D, Van Eaton, A., Luengo, N., Caro, J., Bustillos, J., Holbik, S., Tomey, D., Zegarra, I. <i>Journal of Volcanology and Geothermal Research</i>. **2020**, doi:10.1016/j.jvolgeores.2020.106984
 
 [14. Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
-MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on <i>Creep on continental faults and subduction zones: Geophysics, geology, and mechanics</i>.
+MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R.  <i>Journal of Geophysical Research</i>. **2020**, doi.org/10.1029/2019JB019281. Special issue on <i>Creep on continental faults and subduction zones: Geophysics, geology, and mechanics</i>.
 
 [13. From major caldera subsidence to quiescence at the world’s top volcanic degassing source, Ambrym, Vanuatu: the influence of regional tectonics](https://www.nature.com/articles/s41598-019-55141-7/)<br>
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific Reports</i>. **2019**, 9, 18868, doi.org/10.1038/s41598-019-55141-7
