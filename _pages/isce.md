@@ -60,8 +60,9 @@ The steps in https://github.com/piyushrpt/oldLinuxSetup/blob/master/anaconda.md 
 
 The range split spectrum method for ionospheric correction uses **cython**
 
-**conda install cython
-ln -sf /home/fjd49/anaconda3/bin/cython /home/fjd49/anaconda3/bin/cython3**
+**conda install cython**
+
+**ln -sf /home/fjd49/anaconda3/bin/cython /home/fjd49/anaconda3/bin/cython3**
 
 If you don't have the **cython3** soft link, the split spectrum module will not be installed
 
