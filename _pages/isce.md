@@ -232,11 +232,14 @@ https://datapool.asf.alaska.edu/SLC/SB/S1B_IW_SLC__1SDV_20170110T095740_20170110
 
 https://datapool.asf.alaska.edu/SLC/SB/S1B_IW_SLC__1SDV_20170110T095805_20170110T095832_003784_00681B_59B8.zip
 
-**stripmapApp.py** zero doppler SLC data control files for RADARSAT-2, TerraSAR-X (stripmap and spotlight), ALOS-2 stripmap and COSMO-SkyMED (stripmap and spotlight) 
 
 **insarApp.py**: stripmap processor with motion compensated geometry for raw data (ENVISAT, ALOS-1, COSMO-SkyMED)
+
 **topsApp.py**: TOPS processor with geometric coregistration for Sentinel-1 data
+
 **stripmapApp.py**: processor with geometric coregistration for raw (ENVISAT, ALOS-1, COSMO-SkyMED) and zero doppler data (COSMO-SkyMED SLC stripmap and spotlight, RADARSAT-2, TerraSAR-X stripmap and spotlight, ALOS-2 stripmap)
+
+**alos2App.py**: processor for ALOS-2 ScanSAR-ScanSAR, ScanSAR-stripmap and stripmap-stripmap interferometry
 
 Files for processing the Sentinel-1 Calbuco, ENVISAT KIlauea, ALOS-1 Kilauea, CSK Kilauea, ALOS-1 Pichilemu, Sentinel-1 Chiloe and ALOS-1 Laguna del Maule data sets. This files include orbits  (ENVISAT and Sentinel), instrument files (ENVISAT), calibration files (Sentinel) and ISCE control files
 
