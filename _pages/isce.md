@@ -148,41 +148,45 @@ This issue might happen if you installed libraries with both conda and macports,
 
  **Software manual by me and with of references to online resources**
 
-Sentinel-1 C band ascending interferogram of the VEI 4 2015 Calbuco volcano eruption (topsApp.py control file, orbits and Sentinel-1 calibration files)
+1. Sentinel-1 C band ascending interferogram of the VEI 4 2015 Calbuco volcano eruption (topsApp.py control file, orbits and Sentinel-1 calibration files)
 
 https://datapool.asf.alaska.edu/SLC/SA/S1A_IW_SLC__1SDV_20150426T234151_20150426T234227_005661_007430_AFBE.zip
 
 https://datapool.asf.alaska.edu/SLC/SA/S1A_IW_SLC__1SSV_20150414T234157_20150414T234224_005486_007013_5C44.zip
 
-Interferograms of the June 2007 Kilauea volcano Father's Day dike intrusion
-ENVISAT C band ascending
+2. Interferograms of the June 2007 Kilauea volcano Father's Day dike intrusion
+
+2.1 ENVISAT C band ascending track 136
 
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20070621_082536_000000172059_00136_27745_3245.N1
 
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20070412_082532_000000162057_00136_26743_2801.N1
 
+2.2 ENVISAT C band ascending track 93
+
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20070618_081954_000000162059_00093_27702_3230.N1
 
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20070514_081953_000000172058_00093_27201_3022.N1
 
-ALOS-1 L band ascending
+2.3 ALOS-1 L band ascending
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP068020370-L1.0.zip
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP074730370-L1.0.zip
-ALOS-1 L band descending
+
+2.4 ALOS-1 L band descending
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP058463230-L1.0.zip
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP078593230-L1.0.zip
 
-ENVISAT C-band ascending interferogram of the 2008 Okmok eruption
+3. ENVISAT C-band ascending interferogram of the 2008 Okmok eruption
 
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20080627_084349_000000172069_00451_33070_6667.N1
 
 https://eo-virtual-archive4.esa.int/supersites/ASA_IM__0CNPDK20080801_084350_000000162070_00451_33571_6940.N1
 
-ALOS-1 L band ascending interferogram (2 frames) of the March 2010 Mw 6.9 Pichilemu earthquake
+4. ALOS-1 L band ascending interferogram (2 frames) of the March 2010 Mw 6.9 Pichilemu earthquake
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP219546490-L1.0.zip
 
@@ -192,14 +196,15 @@ https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP226256490-L1.0.zip
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP226256480-L1.0.zip
 
-ALOS-1 L band ascending interferogram of the inflating Laguna del Maule rhyolitic field
+5. ALOS-1 L band ascending interferogram of the inflating Laguna del Maule rhyolitic field
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP163386450-L1.0.zip
 
 https://datapool.asf.alaska.edu/L1.0/A3/ALPSRP056026450-L1.0.zip
 
-Sentinel-1C band interferogram (3 frames) of the December 2016 Mw 7.6 Chiloe earthquake
-Ascending interferogram
+6. Sentinel-1C band interferogram (3 frames) of the December 2016 Mw 7.6 Chiloe earthquake
+
+6.1 Ascending interferogram
 
 https://datapool.asf.alaska.edu/SLC/SA/S1A_IW_SLC__1SSV_20170114T234913_20170114T234940_014834_0182E3_33D4.zip
 
@@ -213,7 +218,7 @@ https://datapool.asf.alaska.edu/SLC/SA/S1A_IW_SLC__1SSV_20161221T234940_20161221
 
 https://datapool.asf.alaska.edu/SLC/SA/S1A_IW_SLC__1SSV_20161221T234915_20161221T234942_014484_017826_BA92.zip
  
-Descending interferogram 3 frames
+6.2 Descending interferogram 3 frames
 
 https://datapool.asf.alaska.edu/SLC/SB/S1B_IW_SLC__1SDV_20161217T095718_20161217T095744_003434_005DE5_9E53.zip
 
