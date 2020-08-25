@@ -71,18 +71,25 @@ If you don't have the **cython3** soft link, the split spectrum module will not 
 This is the tricky part, that ISCE can actually find all the installed libraries. You need to create a file called SConfigISCE in the folder above ISCE which specifies the libraries paths. 
  
 If you are starting from a raw ubuntu installation, you will need to install a few extra libraries, including the OpenMotif library for the MDX interferogram viewer. To do so, just type in the terminal
+
 **sudo apt-get install libx11-dev libxm4 libmotif-dev libfftw3f-dev gfortran**
+
 If your system doesn't find the the fftw3 library, get it from this link
  
 For the 2.2 version you also need **openCV2** for **stripmapApp.py**
+
 **conda install opencv**
+
 However, this will downgrade **gdal**, which you must then update with
+
 **conda update gdal**
 
 ## **STEP 4: Install ISCE**
 
 cd to the ISCE folder and then type in the terminal
+
 **SCONS_CONFIG_DIR=/home/francisco scons install**
+
 with **/home/francisco** the path of the **SCONS_CONFIG** file
 The ISCE compilation will output thousands of warnings, they are ok, so don't be scared. Once you've succeed to compile the software, you need to add ISCE to your bash profile. If the installation fails due to missing libraries, type
 
