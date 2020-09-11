@@ -9,7 +9,7 @@ author_profile: true
 **A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2020**, 288, 199-213. 
 
 [Organic acids and high soil CO2 drive intense chemical weathering of Hawaiian basalts: Insights from reactive transport models](https://www.sciencedirect.com/science/article/pii/S0016703719300511)<br>
-**A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2019**, 161, 50-70. 
+**A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2019**, 249, 173-198. 
 	
 [Iodine budget in surface waters from Atacama: Natural and anthropogenic iodine sources revealed by halogen geochemistry and iodine-129 isotopes](https://www.sciencedirect.com/science/article/pii/S0883292716300531)<br>
 F. Álvarez, M. Reich, G. T. Snyder, <b>A. Perez-Fodich</b>, Y. Muramatsu, L. Daniele, U. Fehn. <i>Applied Geochemistry</i>. **2016**, 68, 53-63. 
