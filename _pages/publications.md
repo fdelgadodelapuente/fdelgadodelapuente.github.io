@@ -3,6 +3,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+If you a need a copy of my papers, just send me an email.
+
 **Published**<br>
 
 [A model for germanium-silicon equilibrium fractionation in kaolinite](https://www.sciencedirect.com/science/article/abs/pii/S0016703720304841)<br>
