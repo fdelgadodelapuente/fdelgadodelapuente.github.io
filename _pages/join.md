@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Join/
+permalink: /join/
 author_profile: true
 ---
 I am always looking for motivated students and talented postdocs to work with me in the Department of Geology at UChile.<br> 
