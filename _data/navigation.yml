@@ -24,5 +24,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Join"
+    url: /join/ 
+    
   #- title: "Guide"
   #  url: /markdown/
