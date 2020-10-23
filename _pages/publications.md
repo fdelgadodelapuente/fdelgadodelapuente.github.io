@@ -4,8 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+\textbf{Delgado, F.}. {\it Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data}. In prep
+
+
+Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data.<br>
+**Delgado, F.**, In prep
+
+Mechanical constraints on the aseismic to seismic deformation during the Mw 7.0 normal faulting sequence of Pichilemu.<br>
+**Delgado, F.**, Aron, F. In prep
+
 Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).<br>
-**Delgado, F.**, Samsonov, S.   In prep
+**Delgado, F.**, Samsonov, S. In prep
 
 Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.<br>
 **Delgado, F.**, Grandin, R., Journal of Geophysical Research, under review.
