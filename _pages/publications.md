@@ -4,10 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-\textbf{Delgado, F.}. {\it Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data}. In prep
-
-
 Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data.<br>
 **Delgado, F.**, In prep
 
