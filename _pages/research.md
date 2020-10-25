@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 <h2><b><a href="https://aliperezfodich.github.io/research/volcanic-weathering">Modeling weathering of volcanic rocks</a></b></h2> 
-<img style="float: center;" src="/images/basalt-fern-small.png" style="width:200px;">
+<img style="float: center;" src="/images/basalt-fern-small.png" style="width:250px;">
 <p style="font-size:small">Hawaiian fern (<i>Cibotium menziesii</i>) growing on the fresh surfaces of the Pu’u O’o Kupaianaha 1986 – 1992 lava flow.</p>
 
 ----
