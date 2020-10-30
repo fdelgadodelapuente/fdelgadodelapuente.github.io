@@ -13,7 +13,8 @@ Mechanical constraints on the aseismic to seismic deformation during the Mw 7.0 
 Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).<br>
 **Delgado, F.**, Samsonov, S. In prep
 
-Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.<br>
+[Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.]
+(https://www.dropbox.com/s/2z146nqvdq2zuui/DelgadoGrandin_yellowstone_under_review.pdf?dl=0)<br>
 **Delgado, F.**, Grandin, R., Journal of Geophysical Research, under review.
 
 
