@@ -11,7 +11,7 @@ redirect_from:
 
 [Detailed  CV](https://www.dropbox.com/s/6i7dggcz0mxa1xx/FranciscoDelgadoCV_tex.pdf?dl=0)
 
-[ORCID](https://orcid.org/0000-0002-7528-4437)
+[ORCID 0000-0002-7528-4437](https://orcid.org/0000-0002-7528-4437)
 
 Education
 ======
