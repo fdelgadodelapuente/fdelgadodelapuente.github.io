@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Detailed  CV](https://www.dropbox.com/s/6i7dggcz0mxa1xx/FranciscoDelgadoCV_tex.pdf?dl=0)
+[Full CV November 2020](https://www.dropbox.com/s/4m9m2lf435zxegq/FranciscoDelgadoCV_tex_nov2020.pdf?dl=0)
 
 [ORCID 0000-0002-7528-4437](https://orcid.org/0000-0002-7528-4437)
 
