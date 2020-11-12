@@ -9,6 +9,10 @@ author_profile: true
 
 
 
+<img style="float: center;" src="/images/IMG_20201028_155825.jpg">
+
+Le laboratoire de Mme Skłodowska-Curie et M Curie sur l'Institut Physique du Globe de Paris
+
 <img style="float: center;" src="/images/IMG_20201028_160127.jpg">
 
 Avec Mme Skłodowska-Curie sur sa laboratoire dans l'Institut Physique du Globe de Paris, Octobre 2020
