@@ -7,6 +7,12 @@ author_profile: true
 
 
 
+
+
+<img style="float: center;" src="/images/IMG_20201028_160127.jpg">
+
+Avec Mme Skłodowska-Curie sur sa laboratoire dans l'Institut Physique du Globe de Paris, Octobre 2020
+
 <img style="float: center;" src="/images/etna1.jpg">
 
 The 2002 dike at Mt Etna, September 2019
@@ -102,6 +108,11 @@ Grand Prismatic Spring, Yellowstone, June 2016
 <img style="float: center;" src="/images/hudson.jpg">
 
 Hudson volcano, April 2016, an Okmok-like caldera in Southern Chile, it erupted in 1991 in one of the largest eruptions of the XX century
+
+
+<img style="float: center;" src="/images/unavco2014.jpg">
+
+ISCE and GIAnT InSAR workshop at the UNAVCO headquarters with the JPL radar folks, August 2014 
 
 <img style="float: center;" src="/images/rainier2014c.jpg">
 
