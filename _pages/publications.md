@@ -10,8 +10,7 @@ Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano
 Mechanical constraints on the aseismic to seismic deformation during the Mw 7.0 normal faulting sequence of Pichilemu.<br>
 **Delgado, F.**, Aron, F. In prep
 
-[Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).]
-(http://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=3D-A7-1E-ED-06-FA-BC-5F-87-75-1B-01-69-15-CD-FB)<br>
+[Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).] (http://agu2020fallmeeting-agu.ipostersessions.com/Default.aspx?s=3D-A7-1E-ED-06-FA-BC-5F-87-75-1B-01-69-15-CD-FB)<br>
 AGU Fall Meeting 2020 online poster
 **Delgado, F.**, Samsonov, S. In prep
 
