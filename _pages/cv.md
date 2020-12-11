@@ -18,6 +18,8 @@ Education
 Some Grants and Fellowships
 ======
 
+* 2020 FONDECYT Iniciacion 2020 Grant 11200656
+* 2020 U-Inicia 2020 Grant UI- 006/20
 * 2019 International Association of Geochemistry Student Research Grant
 * 2018 Make Our Planet Great Again Short-stay Research Grant
 * 2017 Geological Society of America Graduate Student Research Grant
