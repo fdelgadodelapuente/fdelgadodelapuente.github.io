@@ -38,6 +38,12 @@ Grants and Fellowships
 Professional Experience
 ======
 
+2020/01 ' present. Department of Geology, Universidad de Chile, Chile. 
+Assistant Professor
+
+2018/11 - 2020/01. Seismic Hazard Program, Universidad de Chile, Chile. 
+Research Scientist
+
 2018/11 - present. Institut de Physique du Globe de Paris, France. 
 Postdoctoral Researcher
 
