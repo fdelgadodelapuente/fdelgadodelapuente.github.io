@@ -35,10 +35,10 @@ Grants and Fellowships
 2016. Cornell University EAS Excellence in Research Award
 2012. Becas Chile, four year fellowship for international graduate studies
 
-Professional Experience
+Academic Experience
 ======
 
-2020/01 ' present. Department of Geology, Universidad de Chile, Chile. 
+2020/01 - present. Department of Geology, Universidad de Chile, Chile. 
 Assistant Professor
 
 2018/11 - 2020/01. Seismic Hazard Program, Universidad de Chile, Chile. 
