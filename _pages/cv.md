@@ -35,7 +35,7 @@ Grants and Fellowships
 2016. Cornell University EAS Excellence in Research Award
 2012. Becas Chile, four year fellowship for international graduate studies
 
-Academic appointments
+Academic Appointments
 ======
 
 2020/01 - present. Department of Geology, Universidad de Chile, Santiago, Chile. 
