@@ -60,4 +60,4 @@ Industry Experience
 Geophysicist
 
 2011/03 - 2011/09 DIFROL (State Limits and Boundaries Bureau, Chile), Santiago, Chile.
-Contractor in Geophysics
+Geophysics contractor
