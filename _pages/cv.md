@@ -53,6 +53,9 @@ Postdoctoral Researcher
 2012/08 - 2018/07. Cornell University, Ithaca, NY. 
 Graduate research assistant
 
+Industry Experience
+======
+
 2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey), Santiago, Chile.
 Geophysicist
 
