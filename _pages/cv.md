@@ -28,7 +28,7 @@ Education
 Grants and Fellowships
 ======
 
-2018. CNES postdoctoral Fellow
+2018. CNES Postdoctoral Fellow
 2018. NASA Jet Propulsion Laboratory Strategic University Research Partnership (SURP) program
 2017. NASA Jet Propulsion Laboratory Strategic University Research Partnership (SURP) program
 2016. NASA Earth and Space Science Fellowship
