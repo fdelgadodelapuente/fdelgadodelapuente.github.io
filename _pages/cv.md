@@ -38,10 +38,10 @@ Grants and Fellowships
 Academic appointments
 ======
 
-2020/01 - present. Department of Geology, Universidad de Chile, Chile. 
+2020/01 - present. Department of Geology, Universidad de Chile, Santiago, Chile. 
 Assistant Professor
 
-2018/11 - 2020/01. Seismic Hazard Program, Universidad de Chile, Chile. 
+2018/11 - 2020/01. Seismic Hazard Program, Universidad de Chile, Santiago, Chile. 
 Research Scientist
 
 2018/10 - 2018/11. Institut de Physique du Globe de Paris, France. 
@@ -59,6 +59,6 @@ Industry Experience
 2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey), Santiago, Chile.
 Geophysicist
 
-2011/03 - 2011/09 DIFROL. (State boundaries and limits bureau, Chile), Santiago, Chile.
+2011/03 - 2011/09 DIFROL. (State Limits and Boundaries Bureau, Chile), Santiago, Chile.
 Geophysicist
 
