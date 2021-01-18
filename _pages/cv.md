@@ -59,6 +59,5 @@ Industry Experience
 2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey), Santiago, Chile.
 Geophysicist
 
-2011/03 - 2011/09 DIFROL. (State Limits and Boundaries Bureau, Chile), Santiago, Chile.
-Geophysicist
-
+2011/03 - 2011/09 DIFROL (State Limits and Boundaries Bureau, Chile), Santiago, Chile.
+Contractor in Geophysics
