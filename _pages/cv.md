@@ -47,10 +47,10 @@ Research Scientist
 2018/10 - 2018/11. Institut de Physique du Globe de Paris, France. 
 Postdoctoral Researcher
 
-2018/08 - 2018/10. Cornell University, Ithaca, NY. 
+2018/08 - 2018/10. Cornell University, Ithaca, NY, USA.
 Postdoctoral Researcher
  
-2012/08 - 2018/07. Cornell University, Ithaca, NY. 
+2012/08 - 2018/07. Cornell University, Ithaca, NY, USA.
 Graduate research assistant
 
 Industry Experience
