@@ -6,6 +6,7 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+[A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer of fluid-silicate interactions](https://www.sciencedirect.com/science/article/abs/pii/S0016703721000193) <br>N.M. Fernandez, <b>A. Perez-Fodich</b>, L.A. Derry, J.L. Druhan. <i>In Press Geochimica et Cosmochimica Acta</i>.
 
 [A model for germanium-silicon equilibrium fractionation in kaolinite](https://www.sciencedirect.com/science/article/abs/pii/S0016703720304841)<br>
 **A. Perez-Fodich**, L. A. Derry. <i>Geochimica et Cosmochimica Acta</i>. **2020**, 288, 199-213. 
@@ -28,8 +29,6 @@ M. Reich, G. T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E
 
 ---
 **Work in progress**<br>
-
-<p style="font-size:small">A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer for silicate weathering. <br>N.M. Fernandez, <b>A. Perez-Fodich</b>, L.A. Derry, J.L. Druhan. <i>Under review at Geochimica et Cosmochimica Acta</i>.</p>
 
 <p style="font-size:small">The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br> 
 <b>A. Perez-Fodich</b>, L. A. Derry, M.T. Walter, J. Marçais. <i>In prep for JGR Earth Surface</i>.</p>
