@@ -4,10 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting and magma compressibility during the 2005 and 2018 eruptions of Sierra Negra caldera, Galapagos.<br>
+Shreve, T., **Delgado, F.**, In prep
+
 Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data.<br>
 **Delgado, F.**, In prep
 
-Mechanical constraints on the aseismic to seismic deformation during the Mw 7.0 normal faulting sequence of Pichilemu.<br>
+The seismic in crustal andean faults: seismic to seismic deformation during the Mw 7.0 normal faulting sequence of Pichilemu.<br>
 **Delgado, F.**, Aron, F. In prep
 
 Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).<br>
