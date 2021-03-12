@@ -15,7 +15,7 @@ The seismic in crustal andean faults: seismic to seismic deformation during the 
 
 Mechanics of mostly non-deforming effusive eruptions: a simple model to explain dome effusion and improved constraints on the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).<br>
 [Link to AGU Fall Meeting 2020 online poster](https://www.essoar.org/doi/abs/10.1002/essoar.10506077.1)<br>
-**Delgado, F.**, Samsonov, S. In prep. 
+**Delgado, F.**, Contreras, R., Samsonov, S. In prep. 
 
 [Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://www.essoar.org/doi/abs/10.1002/essoar.10504605.1)<br>
 **Delgado, F.**, Grandin, R., Journal of Geophysical Research, under review.
