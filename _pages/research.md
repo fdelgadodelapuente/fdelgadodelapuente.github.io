@@ -3,6 +3,11 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+----
+<h2><b><a href="https://aliperezfodich.github.io/research/subduction-weathering/">Weathering rates in the Southern Andes</a></b></h2> 
+
+---
+<h2><b><a href="https://aliperezfodich.github.io/research/silica/">Geochemistry of active and fossil sinter deposits/a></b></h2> 
 
 ---
 <h2><b><a href="https://aliperezfodich.github.io/research/volcanic-weathering">Modeling weathering of volcanic rocks</a></b></h2> 
