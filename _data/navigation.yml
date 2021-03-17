@@ -18,16 +18,10 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
  - title: "Collaborators"
     url: /lab/
     
-  - title: "Join"
+ - title: "Join"
     url: /join/ 
     
 
