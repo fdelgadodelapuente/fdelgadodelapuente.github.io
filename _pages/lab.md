@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 
 ---
-<b><a href="javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis
+<b><a href="javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors student
 
 ---
 
