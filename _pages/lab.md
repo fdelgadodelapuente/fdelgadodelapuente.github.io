@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 <b><a href="lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors student.
+
 <b><a href="javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors student.
 
 ---
