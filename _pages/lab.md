@@ -18,10 +18,6 @@ Research interests: Hydrogeology and hydrogeochemistry as key tools for the info
 ---
 <b><a href="javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, UChile Honors student (co-advised with Marco Pfeiffer).
 
-<b><a href="roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors student (co-advised with Pablo Sanchez).
-
 <b><a href="lore.olivares24@gmail.com">Lorena Olivares</a></b>, UChile Honors student.
 
-
-
-
+<b><a href="roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors student (co-advised with Pablo Sanchez).
