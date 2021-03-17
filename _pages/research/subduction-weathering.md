@@ -1,7 +1,7 @@
 ---
 title: "Weathering rates in continental arc volcanoes "
 collection: research
-permalink: /research/subduction_weathering
+permalink: /research/subduction-weathering
 author_profile: true
 ---
 
