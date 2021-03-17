@@ -11,17 +11,15 @@ main:
     
   - title: "Contact"
     url: /contact/
+    
+  - title: "Collaborators"
+    url: /lab/
+    
+  - title: "Join"
+    url: /join/    
 
   #- title: "Talks"
   #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
-    
- - title: "Collaborators"
-    url: /lab/
-    
- - title: "Join"
-    url: /join/ 
-    
-
