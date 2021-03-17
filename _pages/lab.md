@@ -13,7 +13,7 @@ Research interests: Hydrogeology and hydrogeochemistry as key tools for the info
 
 ---
 
-<img style="float: center;" src="/images/vabust_web.png">
+<img style="float: center;" src="/images/vbust_web.png">
 <b><a href="https://www.linkedin.com/in/valeria-bustamante-pérez-a52b891b6/">Valeria Bustamante< Perez/a></b>, UChile MSc. student.<br>
 At the moment I am studying the silica precipitation processes in the El Tatio geothermal field in the Chilean Altiplano, considering the Ge/Si ratios in the fluids. My interests go to the areas of Geochemistry, Paleoclimate, Volcanology and Geothermal Research, in persuit to link these different branches and improve the understanding of environmental geology.
 
