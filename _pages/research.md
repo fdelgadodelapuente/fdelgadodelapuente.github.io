@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 
-----
+---
 <h2><b><a href="https://aliperezfodich.github.io/research/subduction-weathering">Weathering rates in continental arc volcanoes</a></b></h2> 
 
 ----
