@@ -19,4 +19,5 @@ Understanding the effects of varying environmental conditions in active hydrothe
 
 ---
 Here is a picture of my family before I was born at one of the geysers in El Tatio.
-<center><img style="float: center;" src="/images/family1983-tatio.png" alt="Perpetual spouter Alpehue, Sollipulli volcano" style="width:200px; ></center>
+
+<center><img style="float: center;" src="/images/family1983-tatio.png"></center>
