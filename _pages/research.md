@@ -14,7 +14,7 @@ author_profile: true
 <h2><b><a href="https://aliperezfodich.github.io/research/silica">Geochemistry of active and fossil sinter deposits</a></b></h2> 
 
 <img style="float: center;" src="/images/tatio-ps-small.png" style="width:500px;">
-<p style="font-size:small">Silica in a perpetual spouter pool at El Tatio geothermal field.</a></p> 
+<p style="font-size:small">Silica in a perpetual spouter pool at El Tatio geothermal field.</p> 
 
 ----
 <h2><b><a href="https://aliperezfodich.github.io/research/volcanic-weathering">Modeling weathering of volcanic rocks</a></b></h2> 
