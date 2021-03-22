@@ -14,7 +14,7 @@ Hydrothermal systems on Earth are inhabited by diverse microbial communities and
 <h2><b>Environmental controls on silica precipitation in geothermal fields</b></h2> 
 Understanding the effects of varying environmental conditions in active hydrothermal springs can allow us to understand the evolution of ancient and extinct hydrothermal systems. Also, fossil sinter deposits not only record textures, but are also archives to the geochemistry of precipitating fluids. Using observations from precipitation experiments in active systems we aim to better reconstruct past environmental conditions that might have influenced precipitation rates and the geochemistry in ancient hydrothermal fields. 
 
-<center><img style="float: left;" src="/images/tatio-sinter-mount.png" alt="Sinter mount at El Tatio"></center>
+<center><img style="float: center;" src="/images/tatio-sinter-mount.png" alt="Sinter mount at El Tatio"></center>
 <p style="font-size:small">Sinter mount formed in a geyser at El Tatio geothermal field in the Atacama Desert at 4000 m.a.s.l. The extremely arid conditions, high elevation and fast wind velocities can account for the fast silica precipitation rates at El Tatio. These fast rates result in massive sinter mounts as the iconic one here.</p>
 
 ---
