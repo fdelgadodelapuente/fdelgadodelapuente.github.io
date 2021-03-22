@@ -9,11 +9,13 @@ author_profile: true
 
 <img style="float: center;" src="/images/tolhuaca-cave-small.png" style="width:250px;">
 <p style="font-size:small">Hydrothermal alteration at the Tolhuaca Volcano. Featuring <a href="https://www.researchgate.net/profile/Daniele-Tardani">Daniele Tardani</a> and <a href="https://www.researchgate.net/profile/Gerdhard-Jessen">Gerdhard Jessen in 2021.</a></p> 
+
 ----
 <h2><b><a href="https://aliperezfodich.github.io/research/silica">Geochemistry of active and fossil sinter deposits</a></b></h2> 
 
 <img style="float: center;" src="/images/tatio-ps-small.png" style="width:250px;">
 <p style="font-size:small">Silica in a perpetual spouter pool at El Tatio geothermal field.</a></p> 
+
 ----
 <h2><b><a href="https://aliperezfodich.github.io/research/volcanic-weathering">Modeling weathering of volcanic rocks</a></b></h2> 
 
