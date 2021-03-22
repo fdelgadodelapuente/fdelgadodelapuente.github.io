@@ -3,7 +3,7 @@ title: ""
 permalink: /join/
 author_profile: true
 ---
-<center><img style="float: center;" src="/images/2021group-llaima.png" alt="Llaima volcano" style="width:600px;"></center>
+<center><img style="float: center;" src="/images/2021group-llaima.png" alt="Llaima volcano" width="550"></center>
 
 I am always looking for motivated students and talented postdocs to work with me and colleagues in the Department of Geology at UChile.<br> 
 
