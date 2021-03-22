@@ -5,7 +5,7 @@ author_profile: true
 ---
 <center><img style="float: center;" src="/images/2021group-llaima.png" alt="Llaima volcano"></center>
 
-I am always looking for motivated students and talented postdocs to work with me in the Department of Geology at UChile.<br> 
+I am always looking for motivated students and talented postdocs to work with me and colleagues in the Department of Geology at UChile.<br> 
 
 Your research interests should be within the areas of (bio)geochemistry, geothermal systems, Critical Zone or reactive transport modeling.
 
