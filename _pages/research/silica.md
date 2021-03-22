@@ -10,9 +10,14 @@ Understanding the effects of varying environmental conditions in active hydrothe
 <center><img style="float: center;" src="/images/tatio-sinter-mount.png" style="width:200px;" alt="Sinter mount at El Tatio"></center>
 <p style="font-size:small">Sinter mount formed in a geyser at El Tatio geothermal field in the Atacama Desert at 4000 m.a.s.l. The extremely arid conditions, high elevation and fast wind velocities can account for the fast silica precipitation rates at El Tatio. These fast rates result in massive sinter mounts as the iconic one here.</p>
 
----
+----
+
 <h2><b>Understanding biogeochemical signatures during silica precipitation</b></h2> 
 Hydrothermal systems on Earth are inhabited by diverse microbial communities and we aim to identify potential biogeochemical signatures in sinters by studying their trace element and Si-isotopic composition.
 
 <center><img style="float: center;" src="/images/perpetual-spouter-alpehue.png" style="width:200px;" alt="Perpetual spouter Alpehue, Sollipulli volcano"></center>
 <p style="font-size:small">Silica-rich biofilms at one perpetual spouter pool in the Alpehue river geothermal field at Sollipulli volcano.</p>
+
+---
+Here is a picture of my family before I was born at one of the geysers in El Tatio.
+<center><img style="float: center;" src="/images/family1983-tatio.png" alt="Perpetual spouter Alpehue, Sollipulli volcano" style="width:200px; ></center>
