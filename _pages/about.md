@@ -21,6 +21,6 @@ To answer these questions I use geochemical data and models that help me underst
 My interest in geochemistry of the Critical Zone comes from the realization that as humans, we do not have much time left to act on climate change, but that understanding of present natural systems is paramount to do something about it!
 
 
-<img style="float: center;" src="/images/Voipir.jpg">
+<img style="float: center;" src="/images/Voipir.png">
 
 At Voipir River, draining Villarrica volcano.
