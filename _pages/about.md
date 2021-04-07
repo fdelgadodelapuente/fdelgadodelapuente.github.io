@@ -23,4 +23,4 @@ My interest in geochemistry of the Critical Zone comes from the realization that
 
 <img style="float: center;" src="/images/Chamiza.png">
 
-At Voipir River, draining Villarrica volcano.
+<p style="font-size:small">Chamiza at Calbuco Volcano, Chile.</p>
