@@ -38,13 +38,13 @@ Grants and Fellowships
 Academic Appointments
 ======
 
-2020/01 - present. Department of Geology, Universidad de Chile, Santiago, Chile. 
+2021/01 - present. Department of Geology, Universidad de Chile, Santiago, Chile. 
 Assistant Professor
 
-2018/11 - 2020/01. Seismic Hazard Program, Universidad de Chile, Santiago, Chile. 
+2020/11 - 2021/01. Seismic Hazard Program, Universidad de Chile, Santiago, Chile. 
 Research Scientist
 
-2018/10 - 2018/11. Institut de Physique du Globe de Paris, France. 
+2018/10 - 2020/11. Institut de Physique du Globe de Paris, France. 
 Postdoctoral Researcher
 
 2018/08 - 2018/10. Cornell University, Ithaca, NY, USA.
