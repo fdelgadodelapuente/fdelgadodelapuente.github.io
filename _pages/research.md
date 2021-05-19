@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research areas are InSAR geodesy applied to crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions) and numerical modeling of geologic processes. My geographic areas of research are the Southern and Central Andes, Yellowstone and the Galapagos. I have also worked with colleagues in volcanoes of Vanuatu.
+My main research areas are InSAR geodesy applied to crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions), and numerical modeling of geologic processes. My geographic areas of research are the Southern and Central Andes, Yellowstone and the Galapagos. I have also worked with colleagues in volcanoes of Vanuatu.
 
 # **Volcanology**
 
