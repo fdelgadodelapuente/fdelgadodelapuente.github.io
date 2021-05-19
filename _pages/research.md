@@ -147,8 +147,9 @@ Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu
 
 ### **Relevant publications**
 
-Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020. 
-**Delgado, F.**, 2020.  Submitted to <i>Journal of South American Earth Sciences </i> for the special issue on <i>New advances on SAR Interferometry in South America</i>.
+
+[Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br>
+**Delgado, F.**.  <i>Journal of South American Earth Sciences </i>, special issue on <i>New advances on SAR Interferometry in South America</i>. **2020**, doi:10.1016/j.jsames.2020.102841
 
 [Towards coordinated regional multi-satellite InSAR volcano observations: Results from the Latin America pilot project](https://link.springer.com/article/10.1186/s13617-018-0074-0)<br>
 Pritchard, M.E., Biggs, J., Wauthier, C., Sansosti, E., Arnold, D.W.D., **Delgado, F.**, Ebmeier, S.K., Henderson, S.T., Stephens, K., Cooper, C., Wnuk, K., Amelung, F., Aguilar, V., Mothes, P., Macedo, O., Lara, L.E., Poland, M.P., Zoffoli, S. <i>Journal of Applied Volcanology</i>. **2018**, 7:5, doi.org/10.1186/s13617-018-0074-0
