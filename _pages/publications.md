@@ -18,7 +18,7 @@ Mechanics of mostly non-deforming effusive eruptions: a simple model to explain 
 **Delgado, F.**, Contreras, R., Samsonov, S. In prep. 
 
 [17. Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
-**Delgado, F.**, Grandin, R., Journal of Geophysical Research: Solid Earth, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
+**Delgado, F.**, Grandin, R. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
 
 [16. Rhyolitic volcano dynamics in the Southern Andes: contributions from 17 years of InSAR observations at Cordon Caulle since 2003 to 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br>
 **Delgado, F.**.  <i>Journal of South American Earth Sciences </i>, special issue on <i>New advances on SAR Interferometry in South America</i>. **2020**, doi:10.1016/j.jsames.2020.102841
