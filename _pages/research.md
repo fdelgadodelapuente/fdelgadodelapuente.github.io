@@ -8,7 +8,7 @@ author_profile: true
 <h2><b><a href="https://aliperezfodich.github.io/research/subduction-weathering">Weathering rates in continental arc volcanoes</a></b></h2> 
 
 <img style="float: center;" src="/images/tolhuaca-cave-small.png" style="width:500px;">
-<p style="font-size:small">Hydrothermal alteration at the Tolhuaca Volcano. Featuring <a href="https://www.researchgate.net/profile/Daniele-Tardani">Daniele Tardani</a> and <a href="https://www.researchgate.net/profile/Gerdhard-Jessen">Gerdhard Jessen</a> in 2021.</p> 
+<p style="font-size:small">Hydrothermal alteration at the Tolhuaca Volcano. Featuring <a href="https://www.researchgate.net/profile/Daniele-Tardani">Daniele Tardani</a> and <a href="http://www.elilab.org">Gerdhard Jessen</a> in 2021.</p> 
 
 ----
 <h2><b><a href="https://aliperezfodich.github.io/research/silica">Geochemistry of active and fossil sinter deposits</a></b></h2> 
