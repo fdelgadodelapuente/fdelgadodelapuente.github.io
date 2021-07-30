@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
 Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data.<br>
 **Delgado, F.**, In prep
