@@ -6,16 +6,16 @@ author_profile: true
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
-Deglaciation-driven triggering of volcanic unrest - insights from Hudson volcano with finite elements and InSAR and DEM data.<br>
-**Delgado, F.**, In prep
-
-The seismic in crustal andean faults: seismic to seismic deformation during the Mw 7.0 normal faulting sequence of Pichilemu.<br>
-**Delgado, F.**, Aron, F. In prep
-
 Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting and magma compressibility during the 2005 and 2018 eruptions of Sierra Negra caldera, Galapagos.<br>
 Shreve, T., **Delgado, F.**, In prep
 
-A simple model to explain dome effusion and improved constraints on the plumbing system responsible for the VEI 5 2008-2009 Chaitén rhyolitic eruption (Southern Andes, Chile).<br>
+Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
+**Delgado, F.**, Jara, J., 
+
+A joint seismo-geodetic kinematic fault slip model of the MW 7.6 2016 Chiloé earthquake: Evidence for early rupture in a megathrust locked zone.<br>
+Peyrat, S., Bravo, F., Derode, B., **Delgado, F.**, Fuentes, M., Campos, J., , In prep
+
+A simple model to explain non-deforming effusive eruptions: improved constraints on the VEI 5 2008-2009 Chaitén eruption (Southern Andes, Chile).<br>
 [Link to AGU Fall Meeting 2020 online poster](https://www.essoar.org/doi/abs/10.1002/essoar.10506077.1)<br>
 **Delgado, F.**, Contreras, R., Samsonov, S. In prep. 
 
