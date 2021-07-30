@@ -10,7 +10,7 @@ Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting an
 Shreve, T., **Delgado, F.**, In prep
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
-**Delgado, F.**, Jara, J., 
+**Delgado, F.**, Jara, J., In prep
 
 A joint seismo-geodetic kinematic fault slip model of the MW 7.6 2016 Chiloé earthquake: Evidence for early rupture in a megathrust locked zone.<br>
 Peyrat, S., Bravo, F., Derode, B., **Delgado, F.**, Fuentes, M., Campos, J., , In prep
