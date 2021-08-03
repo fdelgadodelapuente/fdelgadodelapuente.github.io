@@ -18,7 +18,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 
 
 <img style="float: center;" src="/images/xylo.png" style="width:400px;">
-<p style="font-size:small">Scarp of the Xylokastro normal fault in the Corinth rift, Greece. The flat areas in the fault hanging wall are several uplifted marine terraces. I took the picture from the same place than the picture in Figure 9 of Armijo et al., GJI, 1996.</p> 
+<p style="font-size:small">Scarp of the Xylokastro normal fault in the Corinth rift, Greece. The flat areas in the fault hanging wall are several uplifted marine terraces. I took the picture from the same place than the picture in Figure 9 of <a href="https://hal.archives-ouvertes.fr/hal-01400415/file/Geophys.%20J.%20Int.-1996-Armijo-11-53.pdf">Armijo et al., GJI, 1996.</a></p> 
 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/models">Numerical and analytic modeling of geologic processes</a></b></h2> 
