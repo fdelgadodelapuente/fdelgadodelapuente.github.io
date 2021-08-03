@@ -18,6 +18,9 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/tectonics">Active tectonics</a></b></h2> 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/models">Numerical modeling of geologic processes</a></b></h2> 
 
+<img style="float: center;" src="/images/edo.png" style="width:300px;">
+<p style="font-size:small">System of non-homogenenous linear differential equations that predicts the pressure change in two pressurized reservois below Yellowstone caldera.</p> 
+
 
 # **Volcanology**
 
