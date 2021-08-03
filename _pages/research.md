@@ -29,5 +29,5 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/insar">InSAR geodesy</a></b></h2> 
 
-<img style="float: center;" src="/images/hudson.jpg" style="width:400px;">
-<p style="font-size:small">Wrapped interferogram .</p> 
+<img style="float: center;" src="/images/villarrica_coherence.png" style="width:400px;">
+<p style="font-size:small">1-day COSMO-SkyMed and 2-day UAVSAR wrapped interferograms of Villarrica volcano.</p> 
