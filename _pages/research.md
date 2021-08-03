@@ -10,7 +10,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/Volcanology">Volcanology</a></b></h2> 
 
 
-<img style="float: center;" src="/images/hudson.jpg" style="width:500px;">
+<img style="float: center;" src="/images/hudson.jpg" style="width:300px;">
 <p style="font-size:small">Hudson volcano, April 2016, an Okmok-like caldera in Southern Chile, it erupted in 1991 in one of the largest eruptions of the XX century.</p> 
 
 
