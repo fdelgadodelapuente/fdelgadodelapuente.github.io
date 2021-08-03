@@ -7,6 +7,12 @@ author_profile: true
 
 My main research areas are InSAR geodesy applied to crustal deformation, volcanology (mechanics of magma storage and transport, eruption dynamics, physics-based models of  effusive eruptions), active tectonics (crustal earthquakes, volcano-tectonic interactions), and numerical modeling of geologic processes. My geographic areas of research are volcanoes and faults in the Southern and Central Andes, Yellowstone caldera, and Sierra Negra volcano in the Galapagos. I have also collaborated with colleagues in studies of eruptions in Vanuatu.
 
+<h2><b><a href="https://aliperezfodich.github.io/research/Volcanology">Volcanology</a></b></h2> 
+<h2><b><a href="https://aliperezfodich.github.io/research/Volcanology">InSAR geodesy</a></b></h2> 
+<h2><b><a href="https://aliperezfodich.github.io/research/Volcanology">Active tectonics</a></b></h2> 
+<h2><b><a href="https://aliperezfodich.github.io/research/Volcanology">Numerical modeling of geologic processes</a></b></h2> 
+
+
 # **Volcanology**
 
 
