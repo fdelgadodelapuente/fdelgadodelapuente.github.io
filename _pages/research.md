@@ -19,7 +19,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 
 
 
-<img style="float: center;" src="/images/xylocastro.png" style="width:400px;">
+<img style="float: center;" src="/images/xylo.png" style="width:400px;">
 <p style="font-size:small">Scarp of the Xylokastro normal fault in the Corinth rift, Greece. There are several marine terraces in the fault hanging wall.</p> 
 
 
