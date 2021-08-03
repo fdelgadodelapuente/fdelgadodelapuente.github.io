@@ -10,7 +10,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/volcano">Volcanology</a></b></h2> 
 
 
-<img style="float: center;" src="/images/hudson.jpg" style="width:300px;">
+<img style="float: center;" src="/images/hudson.jpg" style="width:400px;">
 <p style="font-size:small">Hudson volcano, April 2016, an Okmok-like caldera in Southern Chile, it erupted in 1991 in one of the largest eruptions of the XX century.</p> 
 
 
@@ -18,5 +18,5 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/tectonics">Active tectonics</a></b></h2> 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/models">Numerical modeling of geologic processes</a></b></h2> 
 
-<img style="float: center;" src="/images/edo.png" style="width:400px;">
+<img style="float: center;" src="/images/edo.png" style="width:500px;">
 <p style="font-size:small">System of non-homogenenous linear differential equations that predicts the pressure change in two pressurized reservois below Yellowstone caldera.</p> 
