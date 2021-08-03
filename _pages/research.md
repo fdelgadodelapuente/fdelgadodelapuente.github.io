@@ -23,7 +23,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <p style="font-size:small">Scarp of the Xylokastro normal fault in the Corinth rift, Greece. There are several marine terraces in the fault hanging wall.</p> 
 
 
-<h2><b><a href="https://fdelgadodelapuente.github.io/research/models">Numerical modeling of geologic processes</a></b></h2> 
+<h2><b><a href="https://fdelgadodelapuente.github.io/research/models">Numerical and analytic modeling of geologic processes</a></b></h2> 
 
 <img style="float: center;" src="/images/edo.png" style="width:500px;">
 <p style="font-size:small">System of non-homogenenous linear differential equations that predicts the pressure change in two pressurized reservois below Yellowstone caldera.</p> 
