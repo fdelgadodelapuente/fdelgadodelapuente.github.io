@@ -19,6 +19,10 @@ Avec Mme Skłodowska-Curie sur sa laboratoire dans l'Institut Physique du Globe 
 
 L'Institut Physique du Globe de Paris, February 2020
 
+<img style="float: center;" src="/images/ipgp_dernier.jpg">
+
+Mon dernier jour sur le tecto lab a L'Institut Physique du Globe de Paris
+
 <img style="float: center;" src="/images/20180326_143901.jpg">
 
 With Matthew Pritchard and Rowena Lohman after my PhD defense, two of the most important InSAR scientists
