@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Photos: Volcanology"
-permalink: /photos/
+permalink: /photos_volcano/
 author_profile: true
 ---
 
