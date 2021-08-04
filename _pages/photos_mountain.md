@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Photos: Mountaineering"
-permalink: /photos/
+permalink: /photos_mountain/
 author_profile: true
 ---
 
