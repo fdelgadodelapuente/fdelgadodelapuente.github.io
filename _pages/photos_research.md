@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Photos: Scientific Life"
-permalink: /photos/
+permalink: /photos_research/
 author_profile: true
 ---
 
