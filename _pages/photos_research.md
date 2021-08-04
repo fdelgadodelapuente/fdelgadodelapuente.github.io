@@ -15,13 +15,13 @@ Le laboratoire de Mme Skłodowska-Curie et M Curie sur l'Institut Physique du Gl
 
 Avec Mme Skłodowska-Curie sur sa laboratoire dans l'Institut Physique du Globe de Paris, Octobre 2020
 
+<img style="float: center;" src="/images/ipgp_dernier.jpg">
+
+Mon dernier jour au le tecto lab a l'IPGP
+
 <img style="float: center;" src="/images/20200222_174141.jpg">
 
 L'Institut Physique du Globe de Paris, February 2020
-
-<img style="float: center;" src="/images/ipgp_dernier.jpg">
-
-Mon dernier jour sur le tecto lab a L'Institut Physique du Globe de Paris
 
 <img style="float: center;" src="/images/20180326_143901.jpg">
 
