@@ -107,18 +107,3 @@ Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the 
 Shreve, T., Grandin, R., Boichu, M., Garaebiti, E., Moussallam, Y., Ballu, V., **Delgado, F.**, Leclerc, F., Henriot, N., Cevuard, S., Tari, D., Lebellegard, P., Pelletier, B. <i>Scientific Reports</i>. **2019**, 9, 18868, doi.org/10.1038/s41598-019-55141-7
 
 
-
-## **Physics-based models of silica-rich effusive eruptions**
-
-Geodetic and extruded volume data sets acquired at both silicic and basaltic volcanoes show quasi-exponential trends that are indicative of coupled conduit flow and magma reservoir pressure drop. I am developing a numerical model that couples the magma extrusion, magma reservoir deflation and including time-dependent gas exsolution and viscosity for the effusive phase of the 2011-2012 rhyodacitic eruption of Cordon Caulle volcano. The major goal is to predict the temporal evolution of one of these rare but powerful and dangerous eruptions, and to provide insights on the magma properties (dissolved and exsolved water, viscosity, crystal content) from geodetic and topographic data only. The latter is a key advance because the vast majority of the models used by volcano geodesists do not provide insights on the magma physical properties, which are key parameters that control the erupted volume, eruption duration, and transitions between effusive and explosive eruptions.
-
-<img style="float: center;" src="/images/caulle_models_ts.png">
-
-
-Numerical simulation of a physics-based model with variable amounts of complexity (constant magma properties, constant magma properties with the effect of an increasing load due to lava extrusion over the magma reservoir and time dependent magma properties) compared with the pressure drop of a spheroidal magma reservoir inverted from InSAR data and the total extruded volume calculated from a set of TanDEM-X digital elevation models. The model parameters are the pressure drop, total water content and percetange of crystals in the eruptible magma.
-
-### **Relevant publications**
-
-[Physicochemical models of effusive rhyolitic eruptions constrained with InSAR and DEM data: a case study of the 2011-2012 Cordon Caulle eruption](https://www.sciencedirect.com/science/article/pii/S0012821X19304285)<br>
-**Delgado, F.**, Kubanek, J., Anderson, K., Lundgren, P., Pritchard, M. <i>Earth and Planetary Science Letters</i>. **2019**, 524, doi:10.1016/j.epsl.2019.115736
-
