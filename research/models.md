@@ -1,6 +1,6 @@
 # **Numerical modeling of geologic processes**
 
-As part of my volcano research I have used numerical tools of solid and fluid mechanics (finite differences, finite elements) that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess. I have also developed new analytic models of magma transfer. I have worked with a variety of models that include elastic, viscoelastic, magma physics in a variety of software including Pylith, COMSOL Multiphyics, and tools that I have develoepd in Matlab.
+As part of my volcano research I have used numerical tools of solid and fluid mechanics (finite differences, finite elements) that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess. I have also developed new analytic models of magma transfer. I have worked with a variety of models that include elastic, viscoelastic, magma physics in a variety of software including Pylith, COMSOL Multiphyics, and tools that I have developed in Matlab.
 
 
 ## **Physics-based models of silica-rich effusive eruptions**
