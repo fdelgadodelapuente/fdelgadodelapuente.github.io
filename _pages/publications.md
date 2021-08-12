@@ -15,9 +15,8 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 A joint seismo-geodetic kinematic fault slip model of the MW 7.6 2016 Chiloé earthquake: Evidence for early rupture in a megathrust locked zone.<br>
 Peyrat, S., Bravo, F., Derode, B., **Delgado, F.**, Fuentes, M., Campos, J., , In prep
 
-A simple model to explain non-deforming effusive eruptions: improved constraints on the VEI 5 2008-2009 Chaitén eruption (Southern Andes, Chile).<br>
-[Link to AGU Fall Meeting 2020 online poster](https://www.essoar.org/doi/abs/10.1002/essoar.10506077.1)<br>
-**Delgado, F.**, Contreras, R., Samsonov, S. In prep. 
+[An InSAR, DEM, and seismic study of the VEI 5 2008-2009 Chaiten rhyolitic eruption: constraints on the volcano plumbing system and a simple model to explain non-deforming effusive eruptions.]<br>
+**Delgado, F.**, Grandin, R. <i>Earth and Planetary Science Letters</i>, under review
 
 [17. Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
