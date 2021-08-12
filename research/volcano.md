@@ -92,6 +92,10 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 
 Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades) can be used to construct high resolution DEMs (2 - 10 m/pixel) that can be used to constrain the extrusion rates of both lava flows and domes, and changes in the glacier that cover the volcanoes. 
 
+<img style="float: center;" src="/images/Pleiades_DSM_2m_geo.dem_web.png">
+
+Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the Cordon Caulle graben.
+
 
 ### **Relevant publications**
 
