@@ -3,6 +3,15 @@
 As part of my volcano research I have used numerical tools of solid and fluid mechanics (finite differences, finite elements) that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess. I have also developed new analytic models of magma transfer. 
 
 
+## **Physics-based models of silica-rich effusive eruptions**
+
+Geodetic and extruded volume data sets acquired at both silicic and basaltic volcanoes show quasi-exponential trends that are indicative of coupled conduit flow and magma reservoir pressure drop. I am developing a numerical model that couples the magma extrusion, magma reservoir deflation and including time-dependent gas exsolution and viscosity for the effusive phase of the 2011-2012 rhyodacitic eruption of Cordon Caulle volcano. The major goal is to predict the temporal evolution of one of these rare but powerful and dangerous eruptions, and to provide insights on the magma properties (dissolved and exsolved water, viscosity, crystal content) from geodetic and topographic data only. The latter is a key advance because the vast majority of the models used by volcano geodesists do not provide insights on the magma physical properties, which are key parameters that control the erupted volume, eruption duration, and transitions between effusive and explosive eruptions.
+
+<img style="float: center;" src="/images/caulle_models_ts.png">
+
+
+Numerical simulation of a physics-based model with variable amounts of complexity (constant magma properties, constant magma properties with the effect of an increasing load due to lava extrusion over the magma reservoir and time dependent magma properties) compared with the pressure drop of a spheroidal magma reservoir inverted from InSAR data and the total extruded volume calculated from a set of TanDEM-X digital elevation models. The model parameters are the pressure drop, total water content and percetange of crystals in the eruptible magma.
+
 ### **Relevant publications**
 
 [Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
