@@ -96,6 +96,9 @@ Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades
 
 Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the Cordon Caulle graben.
 
+<img style="float: center;" src="/images/dDEM.jpg">
+
+Differential DEMs between TanDEM-X and SRTM (a), TanDEM-X and Pléiades (b), and SRTM and Pléiades (c) of Hudson caldera. The extreme ice thinning is due to a combination of both global warming and a potential high heat flux due to magma injection in the volcano. 
 
 ### **Relevant publications**
 
