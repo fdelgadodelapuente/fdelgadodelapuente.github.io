@@ -16,7 +16,7 @@ A joint seismo-geodetic kinematic fault slip model of the MW 7.6 2016 Chiloé ea
 Peyrat, S., Bravo, F., Derode, B., **Delgado, F.**, Fuentes, M., Campos, J., , In prep
 
 An InSAR, DEM, and seismic study of the VEI 5 2008-2009 Chaiten rhyolitic eruption: constraints on the volcano plumbing system and a simple model to explain non-deforming effusive eruptions.<br>
-**Delgado, F.**, Grandin, R. <i>Earth and Planetary Science Letters</i>, under review
+**Delgado, F.**, Contreras, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, under review
 
 [17. Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
