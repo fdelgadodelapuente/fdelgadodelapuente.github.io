@@ -70,6 +70,3 @@ Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Agui
 
 [1. The 2011 Cerro Hudson volcano eruption (Southern Andes, Chile):  Pre-eruptive inflation and hot spots observed with InSAR and thermal imagery](https://link.springer.com/article/10.1007/s00445-014-0815-9)<br>
 **Delgado, F.**, Pritchard  M, Lohman  R, Naranjo,  J.A. <i>Bull. Volcanol.</i>. **2014**, Bull Volcanol, 76:815. doi:10.1007/s00445-014-0815-9.
-
-
-If you need a copy of any of these papers, send me an email to delgado at ipgp dot fr
