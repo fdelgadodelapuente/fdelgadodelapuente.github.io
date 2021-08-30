@@ -12,10 +12,10 @@ Shreve, T., **Delgado, F.**, In prep
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., In prep
 
-A joint seismo-geodetic kinematic fault slip model of the MW 7.6 2016 Chiloé earthquake: Evidence for early rupture in a megathrust locked zone.<br>
-Peyrat, S., Bravo, F., Derode, B., **Delgado, F.**, Fuentes, M., Campos, J., , In prep
+Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
+Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., To be submitted to Geophysical Journal international, 2021.
 
-An InSAR, DEM, and seismic study of the VEI 5 2008-2009 Chaiten rhyolitic eruption: constraints on the volcano plumbing system and a simple model to explain non-deforming effusive eruptions.<br>
+Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.<br>
 **Delgado, F.**, Contreras, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, under review
 
 [17. Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
