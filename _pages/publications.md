@@ -13,7 +13,7 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 **Delgado, F.**, Jara, J., In prep
 
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
-Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., To be submitted to Geophysical Journal international, 2021.
+Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
 
 Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.<br>
 **Delgado, F.**, Contreras, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, under review
