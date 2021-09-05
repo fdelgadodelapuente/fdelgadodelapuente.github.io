@@ -13,4 +13,7 @@ author_profile: true
 
 <p style="font-size:small">Milton Quinteros (Honors thesis). Milton is studying Villarrica volcano to understand how to build a Hawaiian lava fountain from an episodically active basaltic lava lake.</p> 
 
+<img style="float: center;" src="/images/gabriel.jpg" style="width:300px;">
+<p style="font-size:small">Joaquín Castillo (intern undergrad). Joaquín is revisiting episodes of volcano subsidence triggered by megathrust earthquakes.</p> 
+
 <p style="font-size:small">Gabriela Herrera (MSc Geophysics). Gabriela is studying the Mw 6.9 Pichilemu earthquake, the largest crustal earthquake in the modern geodetic era in South America.</p> 
