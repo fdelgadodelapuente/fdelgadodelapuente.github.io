@@ -9,11 +9,14 @@ main:
   - title: "CV"
     url: /cv/    
     
-  - title: "ISCE and SNAP"
+  - title: "InSAR software"
     url: /isce/    
 
   - title: "Photos"
     url: /photos/    
+    
+  - title: "Lab members"
+    url: /contact/
     
   - title: "Contact"
     url: /contact/
