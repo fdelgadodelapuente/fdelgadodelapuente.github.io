@@ -16,7 +16,7 @@ main:
     url: /photos/    
     
   - title: "Lab members"
-    url: /contact/
+    url: /lab/
     
   - title: "Contact"
     url: /contact/
