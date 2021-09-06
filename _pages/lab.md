@@ -14,4 +14,6 @@ Gabriela Herrera (MSc Geophysics). Gabriela is studying the Mw 6.9 Pichilemu ear
 <img style="float: center;" src="/images/joaquin.jpg" style="width:300px;">
 Joaquín Castillo (intern undergrad). Joaquín is revisiting episodes of volcano subsidence triggered by megathrust earthquakes.
 
+
+<img style="float: center;" src="/images/milton.jpg" style="width:300px;">
 Milton Quinteros (Honors thesis). Milton is studying Villarrica volcano to understand how to build a Hawaiian lava fountain from an episodically active basaltic lava lake.
