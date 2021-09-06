@@ -5,6 +5,9 @@ permalink: /lab/
 author_profile: true
 ---
 
+<img style="float: center;" src="/images/eyja2.jpg" style="width:300px;">
+<p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
+
 <img style="float: center;" src="/images/sofia.jpg" style="width:300px;">
 <p style="font-size:small">Sofía Parra (Honors thesis). Sofía is studying the 2014-2021 episode of uplift at Cordón Caulle volcano with Sentinel-1 InSAR time series.</p>
 
