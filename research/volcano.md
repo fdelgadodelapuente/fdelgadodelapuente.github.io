@@ -88,7 +88,7 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 **Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
 
 
-## **Volcano Topopgraphy**
+## **Volcano Topography**
 
 Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades) can be used to construct high resolution DEMs (2 - 10 m/pixel) that can be used to constrain the extrusion rates of both lava flows and domes, and changes in the glacier that cover the volcanoes. 
 
