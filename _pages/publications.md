@@ -11,10 +11,11 @@ Shreve, T., **Delgado, F.**, In prep
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., In prep
-
-Time-series of Laccolith evolution during and after the 2011-12 eruption of CordonCaulle volcano, Chile, from satellite feature-tracking, elevation, and thermal data.<br>
+```
+[Time-series of Laccolith evolution during and after the 2011-12 eruption of Cordon Caulle volcano, Chile, from satellite feature-tracking, elevation, and thermal data.]
+()<br>
 Lobos, D., **Delgado, F.**, Zheng, W., Reath, K., Pritchard, M., <i>Journal of Geophysical Research</i>, under review.
-
+```
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
 
