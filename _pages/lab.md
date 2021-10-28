@@ -20,6 +20,10 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 ---
 <b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, UChile Honors student (co-advised with Marco Pfeiffer).
 
-<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, UChile Honors student.
 
 <b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors student (co-advised with Pablo Sanchez).
+
+---
+**Alumni**
+
+<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis, currently @ Golder Associates.
