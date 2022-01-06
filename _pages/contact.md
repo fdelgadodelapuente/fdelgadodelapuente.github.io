@@ -6,7 +6,7 @@ author_profile: true
 permalink: /contact/
 
 ---
-Email: **fdelgado [at] uchile [dot] cl**, **delgado [at] ipgp [dot] fr**
+Email: **fdelgado [at] uchile [dot] cl**
 
 Departmento de Geología
 
