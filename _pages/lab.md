@@ -27,7 +27,7 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 ---
 **Alumni**
 
-<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis on Sr-isotope geochemistry of sedimentary formations. Currently in the job market.
+<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis on Sr-isotope geochemistry of sedimentary formations. Job market.
 
-<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis reactive transport modeling of short-term weathering experiments. Currently @ Golder Associates.
+<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis reactive transport modeling of short-term weathering experiments. Golder Associates.
 
