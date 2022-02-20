@@ -25,7 +25,7 @@ Education
 2003-2008. BSc Geology, Universidad de Chile
  
  
-Grants and Fellowships
+<!--Grants and Fellowships
 ======
 
 2018. CNES Postdoctoral Fellow
@@ -33,7 +33,7 @@ Grants and Fellowships
 2017. NASA Jet Propulsion Laboratory Strategic University Research Partnership (SURP) program
 2016. NASA Earth and Space Science Fellowship
 2016. Cornell University EAS Excellence in Research Award
-2012. Becas Chile, four year fellowship for international graduate studies
+2012. Becas Chile, four year fellowship for international graduate studies-->
 
 Academic Appointments
 ======
@@ -53,11 +53,12 @@ Postdoctoral Researcher
 2012/08 - 2018/07. Cornell University, Ithaca, NY, USA.
 Graduate research assistant
 
-Industry Experience
+
+<!--Industry Experience
 ======
 
 2011/10 - 2012/07. SERNAGEOMIN (Chilean Geological Survey), Santiago, Chile.
 Geophysicist
 
 2011/03 - 2011/09 DIFROL (State Limits and Boundaries Bureau, Chile), Santiago, Chile.
-Geophysics contractor
+Geophysics contractor-->
