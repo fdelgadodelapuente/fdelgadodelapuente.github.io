@@ -18,7 +18,7 @@ Research interests: Hydrogeology and hydrogeochemistry as key tools for the info
 At the moment I am studying the silica precipitation processes in the El Tatio geothermal field in the Chilean Altiplano, considering the Ge/Si ratios in the fluids. My interests go to the areas of Geochemistry, Paleoclimate, Volcanology and Geothermal Research, in persuit to link these different branches and improve the understanding of environmental geology.
 
 ---
-<b><a href="mailto: agumaass@gmail.com ">Agustín Sotomass</a></b>, UChile Honors student (co-advised with Marco Pfeiffer).
+<b><a href="mailto: agumaass@gmail.com ">Agustín Soto</a></b>, UChile Honors student (co-advised with Marco Pfeiffer).
 
 <b><a href="mailto: catalina.saldias@alumnos.uach.cl ">Catalina Saldías</a></b>, UACh Honors student (co-advised with Daniele Tardani).
 
@@ -27,7 +27,7 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 ---
 **Alumni**
 
-<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis on Sr-isotope geochemistry of sedimentary formations. Job market.
+<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis in Sr-isotope geochemistry of sedimentary formations. Job market.
 
-<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis reactive transport modeling of short-term weathering experiments. Golder Associates.
+<b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis in reactive transport modeling of short-term weathering experiments. Geochemist at Golder Associates.
 
