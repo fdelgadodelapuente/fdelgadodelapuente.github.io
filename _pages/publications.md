@@ -7,18 +7,23 @@ author_profile: true
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
 Discovering surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time series<br>
+
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., In prep
 
 Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting and magma compressibility during the 2005 and 2018 eruptions of Sierra Negra caldera, Galapagos.<br>
+
 Shreve, T., **Delgado, F.**, In prep
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
+
 **Delgado, F.**, Jara, J., In prep
 
 Insights for crystal mush storage utilizing mafic enclaves from the 2011-12 Cordón Caulle eruption. <br>
+
 Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, submitted.
 
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
+
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
 
 Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.<br>
