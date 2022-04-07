@@ -6,7 +6,7 @@ author_profile: true
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
-Discovering surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time series
+Discovering surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., In prep
 
 Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting and magma compressibility during the 2005 and 2018 eruptions of Sierra Negra caldera, Galapagos.<br>
