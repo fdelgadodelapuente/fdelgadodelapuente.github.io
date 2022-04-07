@@ -15,7 +15,7 @@ Shreve, T., **Delgado, F.**, In prep
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., In prep
 
-Insights for crystal mush storage utilizing mafic enclaves from the 2011-12 Cordón Caulle eruption. 
+Insights for crystal mush storage utilizing mafic enclaves from the 2011-12 Cordón Caulle eruption. <br>
 Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, submitted.
 
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
