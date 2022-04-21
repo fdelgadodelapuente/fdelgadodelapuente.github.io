@@ -9,7 +9,7 @@ Most of these articles are already open source. If you need a copy of the other 
 Discovering surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., In prep
 
-Some aspects on the eruptive dynamics of basaltic calderas: trapdoor faulting and magma compressibility during the 2005 and 2018 eruptions of Sierra Negra caldera, Galapagos.<br>
+Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
 Shreve, T., **Delgado, F.**, In prep
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
