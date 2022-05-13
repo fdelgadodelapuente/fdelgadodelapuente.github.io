@@ -23,7 +23,7 @@ Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Cam
 
 
 [18. Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.](https://doi.org/10.1016/j.epsl.2022.117564)<br>
-**Delgado, F.**, Contreras-Arratia, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, **2022**, 10.1016/j.epsl.2022.117564
+**Delgado, F.**, Contreras-Arratia, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, 590, 117564, **2022**, doi:10.1016/j.epsl.2022.117564
 
 [17. Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
