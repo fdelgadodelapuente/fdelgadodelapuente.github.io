@@ -19,7 +19,7 @@ Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone 
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
 
 [19. Insigghts for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/srep/)<br>
-Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, in press, **2022**, .
+Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, in press, **2022**.
 
 [18. Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.](https://authors.elsevier.com/a/1f3mq_,1tQ2ki8)<br>
 **Delgado, F.**, Contreras-Arratia, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, 590, 117564, **2022**, doi:10.1016/j.epsl.2022.117564
