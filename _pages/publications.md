@@ -18,8 +18,8 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
 
-[19. Insigghts for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/srep/)<br>
-Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, in press, **2022**.
+[19. Insights for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/articles/s41598-022-13305-y/)<br>
+Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, in press, **2022**, 12, doi.org/10.1038/s41598-022-13305-y
 
 [18. Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.](https://authors.elsevier.com/a/1f3mq_,1tQ2ki8)<br>
 **Delgado, F.**, Contreras-Arratia, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, 590, 117564, **2022**, doi:10.1016/j.epsl.2022.117564
