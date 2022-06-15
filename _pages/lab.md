@@ -17,8 +17,10 @@ author_profile: true
 <img style="float: center;" src="/images/milton.jpg" style="width:300px;">
 <p style="font-size:small">Milton Quinteros (Honors thesis). Milton is studying Villarrica volcano to understand how to build a Hawaiian lava fountain from an episodically active basaltic lava lake.</p>
 
+<p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure during the 2022 Wolf eruption.</p>
+
 
 title: "Former Members"
 
 <img style="float: center;" src="/images/sofia.jpg" style="width:300px;">
-<p style="font-size:small">Sofía Parra (Honors thesis). Sofía is studying the 2014-2021 episode of uplift at Cordón Caulle volcano with Sentinel-1 InSAR time series.</p>
+<p style="font-size:small">Sofía Parra (Honors thesis). Sofía is studying the 2014-2021 episode of uplift at Cordón Caulle volcano with Sentinel-1 InSAR time series. Graduated in 2022.</p>
