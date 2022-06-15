@@ -20,7 +20,6 @@ author_profile: true
 <p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure during the 2022 Wolf eruption.</p>
 
 
-
 ## **Former members**
 
 <img style="float: center;" src="/images/sofia.jpg" style="width:300px;">
