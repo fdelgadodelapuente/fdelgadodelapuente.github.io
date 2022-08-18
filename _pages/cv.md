@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV Feb 2022](https://uchile-my.sharepoint.com/:b:/g/personal/fdelgado_uchile_cl/EQA1ac4ibg9Emv1gampIITIBaAdveCExX_hB5pAumQG83w?e=XQamcM)
+[Full CV August 2022](https://uchile-my.sharepoint.com/:b:/g/personal/fdelgado_uchile_cl/EQA1ac4ibg9Emv1gampIITIBaAdveCExX_hB5pAumQG83w?e=XQamcM)
 
 [ORCID 0000-0002-7528-4437](https://orcid.org/0000-0002-7528-4437)
 
