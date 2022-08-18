@@ -13,7 +13,7 @@ Caldera collapse or subsidence? Ring-fault activation during large-volume basalt
 Shreve, T., **Delgado, F.**, In prep
 
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
-Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G. Journal of Volcanology and Geothermal Research, submitted.
+Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, submitted.
 
 Interseismic recuperation of the giant 1960 Valdivia megathrust interplate zone evidenced by fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, under review.
