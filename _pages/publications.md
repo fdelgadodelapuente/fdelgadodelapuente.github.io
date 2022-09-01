@@ -10,7 +10,7 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 **Delgado, F.**, Jara, J., In prep
 
 Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
-Shreve, T., **Delgado, F.**, In prep
+Shreve, T., **Delgado, F.**. Earth and Planetary Science Letters, submitted.
 
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, submitted.
