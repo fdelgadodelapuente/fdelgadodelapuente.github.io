@@ -6,6 +6,13 @@ author_profile: true
 
 ---
 
+<img style="float: center;" src="/images/macchioli.jpeg">
+<br><b><a href="https://www.researchgate.net/profile/Marcos-Macchioli-Grande-2">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow<br>
+Concentration-discharge patters in semi-arid catchments.
+Research interests: Hydrology, Geochemistry, Hydrogeology.
+
+---
+
 <img style="float: center;" src="/images/apena_web.png">
 <br><b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, UChile MSc. student.<br>
 I am currently working on research projects on the weathering of the basalts in the SVZ of Chile and its relationship in the rate of consumption in the CO2 cycle.
@@ -22,10 +29,10 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 
 <b><a href="mailto: catalina.saldias@alumnos.uach.cl ">Catalina Saldías</a></b>, UACh Honors student (co-advised with Daniele Tardani).
 
-<b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors student (co-advised with Pablo Sanchez).
-
 ---
 **Alumni**
+
+<b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors thesis in reactive transport modeling and mineralogy for the Earthshape project (co-advised with Pablo Sanchez).
 
 <b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis in Sr-isotope geochemistry of sedimentary formations. Job market.
 
