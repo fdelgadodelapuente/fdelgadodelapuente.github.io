@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-<img style="float: center;" "max-width: 60%;" "height: auto;" src="/images/macchioli.jpeg">
+<img style="float: center;" src="/images/macchioli.jpeg" width = "300" height = "300">
 <br><b><a href="https://www.researchgate.net/profile/Marcos-Macchioli-Grande-2">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow<br>
 Concentration-discharge patters in semi-arid catchments.
 Research interests: Hydrology, Geochemistry, Hydrogeology.
