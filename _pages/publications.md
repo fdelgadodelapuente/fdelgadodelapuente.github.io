@@ -17,7 +17,7 @@ Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G.
 Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
 Shreve, T., **Delgado, F.**. Earth and Planetary Science Letters, under review.
 
-20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.<br>
+[20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://academic.oup.com/gji)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal international </i>, in press.
 
 [19. Insights for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/articles/s41598-022-13305-y/)<br>
