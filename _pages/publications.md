@@ -9,7 +9,7 @@ Most of these articles are already open source. If you need a copy of the other 
 Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P., Liao, Y., **Delgado, F.**,, Pritchard M. Magma chamber replenishment after the 2011-12 eruption of Cordón Caulle, Chile via crystal mush. In prep.
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
-**Delgado, F.**, Jara, J., In prep.
+**Delgado, F.**, Jara, J., Raimbulat, B., Jolivet, R. In prep.
 
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
