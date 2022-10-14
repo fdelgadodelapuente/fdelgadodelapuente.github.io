@@ -11,11 +11,11 @@ Magma chamber replenishment after the 2011-12 eruption of Cordón Caulle, Chile 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
 
-Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
-Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
-
 Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
 Shreve, T., **Delgado, F.**. Earth and Planetary Science Letters, under review.
+
+Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
+Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://academic.oup.com/gji)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International </i>, in press.
