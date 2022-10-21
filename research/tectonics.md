@@ -9,10 +9,11 @@ I am also interested in the use of InSAR to study active crustal deformation pro
 
 Set of interferograms that cover the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
 
+<!--
  <img style="float: center;" src="/images/alos_aysen.png" width="500">
 
 ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
-
+-->
 
  <img style="float: center;" src="/images/ux_uz.jpg" width="500">
 
