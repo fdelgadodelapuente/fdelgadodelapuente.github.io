@@ -42,4 +42,4 @@ TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.
 
 
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
-MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R., 2020.  <i>Journal of Geophysical Research</i>, doi.org/10.1029/2019JB019281. Special issue on "Creep on continental faults and subduction zones: Geophysics, geology, and mechanics", in press.
+MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R.  <i>Journal of Geophysical Research</i>. **2020**, doi.org/10.1029/2019JB019281. Special issue on <i>Creep on continental faults and subduction zones: Geophysics, geology, and mechanics</i>.
