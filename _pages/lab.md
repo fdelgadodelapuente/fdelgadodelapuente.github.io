@@ -24,5 +24,4 @@ author_profile: true
 
 ## **Alumni**
 
-<img style="float: center;" src="/images/sofia.jpg" style="width:300px;">
 <p style="font-size:small">Sofía Parra (Honors thesis). Mechanisms of basaltic magma storage during 2014-2021 at Cordon Caulle volcano constrained with InSAR time series. Graduated in 2022.</p>
