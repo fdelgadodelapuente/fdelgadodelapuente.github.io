@@ -8,6 +8,9 @@ author_profile: true
 <img style="float: center;" src="/images/eyja2.jpg" style="width:300px;">
 <p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
 
+
+<p style="font-size:small">Pablo Leon (PhD Geology). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
+
 <img style="float: center;" src="/images/gabriela.jpg" style="width:300px;">
 <p style="font-size:small">Gabriela Herrera (MSc Geophysics). Gabriela is studying the Mw 6.9 Pichilemu earthquake, the largest crustal earthquake in the modern geodetic era in South America.</p>
 
@@ -20,7 +23,7 @@ author_profile: true
 <p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure during the 2022 Wolf eruption.</p>
 
 
-## **Former members**
+## **Alumni**
 
 <img style="float: center;" src="/images/sofia.jpg" style="width:300px;">
 <p style="font-size:small">Sofía Parra (Honors thesis). Mechanisms of basaltic magma storage during 2014-2021 at Cordon Caulle volcano constrained with InSAR time series. Graduated in 2022.</p>
