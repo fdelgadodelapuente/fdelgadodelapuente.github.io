@@ -6,7 +6,7 @@ author_profile: true
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
-Magma chamber replenishment after the 2011-12 eruption of Cordón Caulle, Chile via crystal mush. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P., Liao, Y., **Delgado, F.**,, Pritchard M. In prep.
+Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, submitted.
 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
