@@ -31,7 +31,7 @@ Professional Appointments
 
 2020 – Present Assistant Professor, Department of Geology, University of Chile
 
-[CV updated November 2022](https://aliperezfodich.github.io/files/CV_PerezFodich_Nov2022.pdf)
+[CV updated November 2022](https://aliperezfodich.github.io/CV_PerezFodich_Nov2022.pdf)
 
 
 
