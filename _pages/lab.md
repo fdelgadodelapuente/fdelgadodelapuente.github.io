@@ -16,12 +16,11 @@ author_profile: true
 <img style="float: center;" src="/images/joaquin.jpg" style="width:300px;">
 <p style="font-size:small">Joaquín Castillo (MSc Geology). Ground subsidence in the Salar de Atacama basin and its relation with aquifer depletion.</p>
 
-<img style="float: center;" src="/images/milton.jpg" style="width:300px;">
-<p style="font-size:small">Milton Quinteros (Honors thesis). Two decades of lava lake variations at Villarrica volcano with multiparametric data.</p>
-
 <p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure during the 2022 Wolf eruption.</p>
 
 
 ## **Alumni**
+
+<p style="font-size:small">Milton Quinteros (Honors thesis). Two decades of lava lake variations at Villarrica volcano with multiparametric data.</p>
 
 <p style="font-size:small">Sofía Parra (Honors thesis). Mechanisms of basaltic magma storage during 2014-2021 at Cordon Caulle volcano constrained with InSAR time series. Graduated in 2022.</p>
