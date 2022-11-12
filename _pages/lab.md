@@ -21,6 +21,6 @@ author_profile: true
 
 ## **Alumni**
 
-<p style="font-size:small">Milton Quinteros (Honors thesis). Lava lake dynamics: two decades episodic magma injections constrained with multiparametric observartions at Villarrica volcano.</p>
+<p style="font-size:small">Milton Quinteros (Honors thesis). Lava lake dynamics: two decades episodic magma injections constrained with multiparametric observartions at Villarrica volcano. Graduated in 2022.</p>
 
 <p style="font-size:small">Sofía Parra (Honors thesis). Mechanisms of basaltic magma storage during 2014-2021 at Cordon Caulle volcano constrained with InSAR time series. Graduated in 2022.</p>
