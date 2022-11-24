@@ -16,7 +16,7 @@ La invitación es abierta a trabajos en las disciplinas de:<br>
  – Geoquímica y Biogeoquímica<br>
  – Ecología<br>
  – Geofísica superficial<br><br>
-<center><img style="float: center;" src="/images/CongresoGeologico.png" alt="AficheCongreso"></center>
+<center><img style="float: center;" src="/images/CongresoGeologico.png" alt="AficheCongreso"></center><br>
   
 El objetivo es acoger por primera vez en el XVI CGCh a los científicos de la Zona Crítica. Mantendremos informados sobre las fechas para el envío de trabajos. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">Otras informaciones sobre el XVI CGCh.</a><br>
 
@@ -33,6 +33,6 @@ We invite contributions from the following disciplines:<br>
  – Hydrology and Hidrogeology<br>
  – Geochemistry and Biogeochemistry<br>
  – Ecology<br>
- – Surface Geophysics<br>
+ – Surface Geophysics<br><br>
   
 The aim is to bring CZ scientists working across disciplines to the XVI CGCh for the first time. Stay posted for updates on abstrat submission deadlines. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">More info from XVI CGCh.</a><br>
