@@ -1,6 +1,5 @@
 ---
 title: "Ciencia de la Zona Crítica en Sistemas Naturales e Intervenidos"
-collection: XVCGCh
 permalink: /congreso-geologico/
 author_profile: true
 ---
