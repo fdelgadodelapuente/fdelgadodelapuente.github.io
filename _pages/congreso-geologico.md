@@ -1,7 +1,7 @@
 ---
 title: "Ciencia de la Zona Crítica en Sistemas Naturales e Intervenidos"
-collection: research
-permalink: /research/Atacama-nitrates
+collection: XVCGCh
+permalink: /congreso-geologico/
 author_profile: true
 ---
 
