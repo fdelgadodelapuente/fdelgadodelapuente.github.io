@@ -22,10 +22,10 @@ El objetivo es acoger por primera vez en el XVI CGCh a los científicos de la Zo
 
 ---
 <h2><b>Critical Zone Science in Natural and Managed Systems</b></h2> 
-Together with Pamela Castillo (UdeC), Marco Pfeiffer (UChile) and Tania Villaseñor (UOh) we invite to submit an abstract to our Critical Zone session to the XVI Chilean Geological Congress to be held between November 28th and December 1st in Santiago, Chile. <br>
+Together with Pamela Castillo (UdeC), Marco Pfeiffer (UChile) and Tania Villaseñor (UOh) we invite you to submit an abstract to the Critical Zone session at the XVI Chilean Geological Congress. Save the date for November 28th and December 1st in Santiago, Chile. <br>
 <br>
 
-This session focuses on landscape and ecosystem evolution processes from weathering and erosion, pedogenesis, and the source and fate of nutrients, solutes, and sediments. We welcome investigations of natural and managed systems studying surface processes at the mineral, pedon, hillslope, watershed, and global scales.  We expect contributions from field studies and laboratory experiments to numerical modeling research at single and multi-site comparisons at various temporal and spatial scales.<br> 
+This session will focus on landscape and ecosystem evolution processes from weathering and erosion, pedogenesis, and the source and fate of nutrients, solutes, and sediments. We welcome investigations of natural and managed systems studying surface processes at the mineral, pedon, hillslope, watershed, and global scales.  We expect contributions from field studies and laboratory experiments to numerical modeling research at single and multi-site comparisons at various temporal and spatial scales.<br> 
 <br>
 We invite contributions from the following disciplines:<br> 
  – Soil Science<br>
