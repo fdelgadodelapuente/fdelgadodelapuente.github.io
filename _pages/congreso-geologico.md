@@ -1,5 +1,5 @@
 ---
-title: "Ciencia de la Zona Crítica en Sistemas Naturales e Intervenidos"
+title:
 permalink: /congreso-geologico/
 author_profile: true
 ---
