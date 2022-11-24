@@ -16,7 +16,7 @@ La invitación es abierta a trabajos en las disciplinas de:<br>
  – Hidrología e Hidrogeología<br>
  – Geoquímica y Biogeoquímica<br>
  – Ecología<br>
- – Geofísica superficial<br>
+ – Geofísica superficial<br><br>
 <center><img style="float: center;" src="/images/CongresoGeologico.png" alt="AficheCongreso"></center>
   
 El objetivo es acoger por primera vez en el XVI CGCh a los científicos de la Zona Crítica. Mantendremos informados sobre las fechas para el envío de trabajos. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">Otras informaciones sobre el XVI CGCh.</a><br>
