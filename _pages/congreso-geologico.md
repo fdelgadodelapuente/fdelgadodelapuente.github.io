@@ -33,6 +33,6 @@ We invite contributions from the following disciplines:<br>
  – Hydrology and Hidrogeology<br>
  – Geochemistry and Biogeochemistry<br>
  – Ecology<br>
- – Surface Geophysics<br><br>
+ – Surface Geophysics<br>
   
-The aim is to bring CZ scientists working across disciplines to the XVI CGCh for the first time. Stay posted for updates on abstrat submission deadlines. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">More info from XVI CGCh.</a><br>
+The aim is to bring CZ scientists working across disciplines to the XVI CGCh for the first time. Stay posted for updates on abstract submission deadlines. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">More info from XVI CGCh.</a><br>
