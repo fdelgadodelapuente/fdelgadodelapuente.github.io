@@ -32,9 +32,9 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 ---
 **Alumni**
 
-<b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors thesis in reactive transport modeling and mineralogy for the EarthShape project (co-advised with Pablo Sanchez).
+<b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors thesis in reactive transport modeling and mineralogy for the EarthShape project. Job market.
 
-<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis in Sr-isotope geochemistry of sedimentary formations. Job market.
+<b><a href="mailto: javgonzc@gmail.com">Javiera Gonzalez Cariqueo</a></b>, Honors thesis in Sr-isotope geochemistry of sedimentary formations. Freelance geologist.
 
 <b><a href="mailto: lore.olivares24@gmail.com">Lorena Olivares</a></b>, Honors thesis in reactive transport modeling of short-term weathering experiments. Geochemist at Golder Associates.
 
