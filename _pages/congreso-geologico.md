@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2><b>Ciencia de la Zona Crítica en Sistemas Naturales e Intervenidos </b></h2> 
-Junto con <a href="https://www.researchgate.net/profile/Pamela-Castillo-5">Pamela Castillo</a> (UdeC), <a href="https://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=mpfeiffer">Marco Pfeiffer</a> (UChile) y <a href="https://taniavillasenor.wordpress.com">Tania Villaseñor</a> (UOh) invitamos a enviar resúmenes a la sesión de la Zona Crítica al XVI Congreso Geológico Chileno a celebrarse entre el 28 de noviembre y el 1 de diciembre en Santiago de Chile. <br>
+Junto con <a href="https://www.researchgate.net/profile/Pamela-Castillo-5">Pamela Castillo</a> (UdeC), <a href="https://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=mpfeiffer">Marco Pfeiffer</a> (UChile) y <a href="https://taniavillasenor.wordpress.com">Tania Villaseñor</a> (UOh) les invitamos a enviar resúmenes a la sesión de la Zona Crítica al XVI Congreso Geológico Chileno a celebrarse entre el 28 de noviembre y el 1 de diciembre en Santiago de Chile. <br>
 <br>
 Esta sesión se centra en los procesos de evolución del paisaje y los ecosistemas a partir de la meteorización y la erosión, la pedogénesis, y la fuente y destino de nutrientes, solutos y sedimentos. Invitamos investigaciones enfocadas en sistemas naturales e intervenidos que estudien procesos superficiales a escalas del mineral, pedón, ladera, cuenca o globales. Esperamos contribuciones de estudios de terreno y experimentos de laboratorio como también investigaciones basadas en modelos numéricos que establezcan comparaciones dentro y entre múltiples sitios, a cualquier escala temporal y espacial.<br> 
 <br>
