@@ -9,6 +9,9 @@ Most of these articles are already open source. If you need a copy of the other 
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
 
+Geodetic Observations capture onset of unrest at Socompa Volcano, Northern Chile .<br>
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. In prep.
+
 Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, submitted.
 
 Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
