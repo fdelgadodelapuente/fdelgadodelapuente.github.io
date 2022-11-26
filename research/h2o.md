@@ -1,6 +1,6 @@
 # **Anthropogenic Deformation**
 
-HUman activity can induce deformation in the crust in response to fluid extraction among other factors. These deformation signals can be measured from the space with InSAR. 
+Human activity can induce deformation in the crust triggered by fluid extraction among other factors. These deformation signals can be measured from the space with InSAR and its impact over groundwater resources and infrastructure monitored. 
 
 <img style="float: center;" src="/images/alos2salar.jpg">
 
