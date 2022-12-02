@@ -16,7 +16,7 @@ A-D) Interferograms calculated from ENVISAT time series showing deformation due 
 
 <img style="float: center;" src="../images/okada_models.jpg" width="500">
 
-Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total volume change is 0.3 km3 in 5 years ([Delgado and Grandin, 2021.])(https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB022341)<br>
+Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total volume change is 0.3 km3 in 5 years [Delgado and Grandin, 2021.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB022341)<br>
 
 
 ### **Relevant publications**
