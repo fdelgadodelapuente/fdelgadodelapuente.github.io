@@ -8,7 +8,7 @@ How is magma stored and transported is a key volcanological question that help u
 
 <img style="float: center;" src="/images/ts2012_2022_dsc_asc.png" width="700">
 
-Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2 and ALOS-2 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line). The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction cannot can also explain the deformation signals. Updated from Delgado, 2020.
+Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2 and ALOS-2 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line). The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction cannot can also explain the deformation signals. Updated from [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> .
 
 <img style="float: center;" src="../images/modelfits.jpg">
 
