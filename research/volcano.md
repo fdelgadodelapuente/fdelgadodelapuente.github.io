@@ -93,7 +93,7 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 
 ## **Volcano Topography**
 
-Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades) can be used to construct high resolution DEMs (2 - 10 m/pixel) that can be used to constrain the extrusion rates of both lava flows and domes, and changes in the glacier that cover the volcanoes. 
+Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades) can be used to construct high resolution DEMs (2 - 10 m/pixel). These data sets provide insights on the extrusion rates of both lava flows and domes, and changes in the glacier that cover many volcanoes. 
 
 <img style="float: center;" src="/images/Pleiades_DSM_2m_geo.dem_web.png">
 
