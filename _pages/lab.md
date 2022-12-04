@@ -16,7 +16,7 @@ author_profile: true
 <img style="float: center;" src="/images/joaquin.jpg" style="width:300px;">
 <p style="font-size:small">Joaquín Castillo (MSc Geology). Ground subsidence in the Salar de Atacama basin and its relation with aquifer depletion.</p>
 
-<p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure during the 2022 Wolf eruption.</p>
+<p style="font-size:small">Rodrigo Hermosilla (Honors thesis). Plumbing system structure of Wolf volcano imaged during the 2022 eruption.</p>
 
 
 ## **Alumni**
