@@ -5,6 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
+<img style="float: center;" src="/images/eyja2.JPG" style="width:300px;">
 <p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
 
 <img style="float: center;" src="/images/DSCN5084.JPG" style="width:300px;">
