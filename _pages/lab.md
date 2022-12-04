@@ -5,10 +5,10 @@ permalink: /lab/
 author_profile: true
 ---
 
-<img style="float: center;" src="/images/eyja2.JPG" style="width:300px;">
+<img style="float: center;" src="/images/eyja2.jpg" style="width:300px;">
 <p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
 
-<img style="float: center;" src="/images/DSCN5084.JPG" style="width:300px;">
+<img style="float: center;" src="/images/DSCN5084.JPG" style="width:400px;">
 <p style="font-size:small">Pablo Leon (PhD Geology). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
 
 <img style="float: center;" src="/images/gabriela.jpg" style="width:300px;">
