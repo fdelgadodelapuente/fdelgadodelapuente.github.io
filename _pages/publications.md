@@ -12,7 +12,7 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
 
 First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
-Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, submitted.
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, submitted. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
 
 Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, submitted.
 
