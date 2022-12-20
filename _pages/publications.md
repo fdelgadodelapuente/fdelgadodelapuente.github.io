@@ -6,7 +6,7 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
-[Gender balance and geographical diversity in editorial boards of Geochimica et Cosmochimica Acta and Chemical Geology](https://ese.arphahub.com/article/89470/) <br>O. Pourret, P. Anand, P. Bots, E. Cottrell, A. Dosseto, A. Gunter, D.W. Hedding, D.E. Ibarra, D.E. Irawan, K. Johannesson, J. Labidi, S. Little, H. Liu, T.V. Makhubela, J.M. Carbonne <b>A. Perez-Fodich</b>, A. Riches, R. Tartese, A. Tripati. <i>European Science Editing</i>. **2022**, 10.3897/ese.2022.e89470.
+[Gender balance and geographical diversity in editorial boards of Geochimica et Cosmochimica Acta and Chemical Geology](https://ese.arphahub.com/article/89470/) <br>O. Pourret, P. Anand, P. Bots, E. Cottrell, A. Dosseto, A. Gunter, D.W. Hedding, D.E. Ibarra, D.E. Irawan, K. Johannesson, J. Labidi, S. Little, H. Liu, T.V. Makhubela, J.M. Carbonne, <b>A. Perez-Fodich</b>, A. Riches, R. Tartese, A. Tripati. <i>European Science Editing</i>. **2022**, 10.3897/ese.2022.e89470.
 
 [A first look at Ge/Si partitioning during amorphous silica precipitation: Implications for Ge/Si as a tracer of fluid-silicate interactions](https://www.sciencedirect.com/science/article/abs/pii/S0016703721000193) <br>N.M. Fernandez, <b>A. Perez-Fodich</b>, L.A. Derry, J.L. Druhan. <i>Geochimica et Cosmochimica Acta</i>. **2021**, 297, 158-178.
 
