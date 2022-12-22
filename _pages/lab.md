@@ -25,12 +25,11 @@ Research interests: Hydrogeology and hydrogeochemistry as key tools for the info
 At the moment I am studying the silica precipitation processes in the El Tatio geothermal field in the Chilean Altiplano, considering the Ge/Si ratios in the fluids. My interests go to the areas of Geochemistry, Paleoclimate, Volcanology and Geothermal Research, in persuit to link these different branches and improve the understanding of environmental geology.
 
 ---
-<b><a href="mailto: agumaass@gmail.com ">Agustín Soto</a></b>, UChile Honors student (co-advised with Marco Pfeiffer).
-
 <b><a href="mailto: catalina.saldias@alumnos.uach.cl ">Catalina Saldías</a></b>, UACh Honors student (co-advised with Daniele Tardani).
 
 ---
 **Alumni**
+<b><a href="mailto: agumaass@gmail.com ">Agustín Soto</a></b>, Honors thesis in geochemical tracers applied to weathering processes in semi-arid catchmets. Sabatical year.
 
 <b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors thesis in reactive transport modeling and mineralogy for the EarthShape project. Job market.
 
