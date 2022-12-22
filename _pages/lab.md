@@ -29,6 +29,7 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 
 ---
 **Alumni**
+
 <b><a href="mailto: agumaass@gmail.com ">Agustín Soto</a></b>, Honors thesis in geochemical tracers applied to weathering processes in semi-arid catchmets. Sabatical year.
 
 <b><a href="mailto: roberto.ulloa01@alumnos.uach.cl ">Roberto Ulloa</a></b>, UACh Honors thesis in reactive transport modeling and mineralogy for the EarthShape project. Job market.
