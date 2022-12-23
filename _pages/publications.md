@@ -16,11 +16,11 @@ Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama,
 
 Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, submitted.
 
-Caldera collapse or subsidence? Ring-fault activation during large-volume basaltic eruptions.<br>
-Shreve, T., **Delgado, F.**. Earth and Planetary Science Letters, under review.
-
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
+
+Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.<br>
+Shreve, T., **Delgado, F.**. Earth and Planetary Science Letters, under review.
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
