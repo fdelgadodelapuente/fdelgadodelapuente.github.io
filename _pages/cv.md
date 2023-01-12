@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV October 2022](https://drive.google.com/open?id=1aQ4ZlpZGF1KzBXAv4CDPwBkmfMZCbvR_&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)
+[Full CV January 2023](https://drive.google.com/open?id=1aQ4ZlpZGF1KzBXAv4CDPwBkmfMZCbvR_&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)
 
 [ORCID 0000-0002-7528-4437](https://orcid.org/0000-0002-7528-4437)
 
