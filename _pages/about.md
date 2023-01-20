@@ -16,10 +16,6 @@ I am a volcanologist from Chile, fascinated by volcanoes, lava flows, eruptive c
 My research focuses on the use of space geodetic data to understand physical processes in volcanic systems. Specifically I use InSAR (Interferometric Synthetic Aperture Radar) to study magma storage and transport in the shallow crust, and eruption dynamics. Most of my work has focused in the restless volcanoes of the Southern Andes in Chile, one of the most active volcanic provinces in the world in the past 40 years. In the Southern Andes I have worked at Villarrica, Calbuco, Cordon Caulle, Chaiten and Hudson volcanoes among others, plus volcanic systems elsewhere like Sabancaya (Peru), Ambrym, Yellowstone, and Sierra Negra. I am also interested in active tectonics, glaciology and crustal deformation. In my pre scientific life I worked as a junior geophysicist in exploration and marine geophysics.
 
 
-
-<img style="float: center;" src="/images/jpl2017.jpg">
-At NASA/Caltech's Jet Propulsion Laboratory, Pasadena, CA, the holy grial of InSAR geodesy in the US,  April 2017. 
-
 <img style="float: center;" src="/images/IMG_8404.jpg">
 
 Deploying a GNSS station in southermost Patagonia to stidy the MAgallanes Fagnano fault zone, January 2023.
