@@ -27,6 +27,13 @@ L'Institut Physique du Globe de Paris, February 2020
 
 With Matthew Pritchard and Rowena Lohman after my PhD defense, two of the most important InSAR scientists
 
+
+
+<img style="float: center;" src="/images/jpl2017.jpg">
+
+At NASA/Caltech's Jet Propulsion Laboratory, Pasadena, CA, the holy grial of InSAR geodesy in the US,  April 2017. 
+
+
 <img style="float: center;" src="/images/unavco2014.jpg" style="width:450px;">
 
 ISCE and GIAnT InSAR workshop at the UNAVCO headquarters with the JPL radar folks, August 2014 
