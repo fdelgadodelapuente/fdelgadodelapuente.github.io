@@ -18,8 +18,10 @@ My research focuses on the use of space geodetic data to understand physical pro
 
 
 <img style="float: center;" src="/images/jpl2017.jpg">
+At NASA/Caltech's Jet Propulsion Laboratory, Pasadena, CA, the holy grial of InSAR geodesy in the US,  April 2017. 
+
 <img style="float: center;" src="/images/IMG_8404.jpg">
 
+Deploying a GNSS station in southermost Patagonia to stidy the MAgallanes Fagnano fault zone, January 2023.
 
-At NASA/Caltech's Jet Propulsion Laboratory, Pasadena, CA, the holy grial of InSAR geodesy in the US,  April 2017. 
 
