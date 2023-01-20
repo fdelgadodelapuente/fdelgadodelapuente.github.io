@@ -18,6 +18,8 @@ My research focuses on the use of space geodetic data to understand physical pro
 
 
 <img style="float: center;" src="/images/jpl2017.jpg">
+<img style="float: center;" src="/images/IMG_8404.jpeg">
+
 
 At NASA/Caltech's Jet Propulsion Laboratory, Pasadena, CA, the holy grial of InSAR geodesy in the US,  April 2017. 
 
