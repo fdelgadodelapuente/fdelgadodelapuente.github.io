@@ -61,11 +61,11 @@ Henderson, S., **Delgado, F.**, Pritchard, M., Elliott, J., Lundgren, P. <i>Geos
 
 What triggers volcanic eruptions? This key and fundamental volcanological question has remained elusive because every volcano has its own dynamics thus precluding the development of general patterns. My research in the the volcanoes of the Southern Andes have shown that the VEI 4 2015 eruption of Calbuco volcano was less likely to triggered by a dike intrusion rather than either volatile exsolution or geodetically undetectable magma recharge. On the other hand, the VEI 1-2 2008-2009 Llaima  and 2015 Villarrica eruptions were too small to produce a signal to be detected by geodetic methods, in agreement with the dynamics of open vent volcanoes. Eruptions in this type of volcanoes are likely to be triggered by small perturbations in their plumbing systems.
 
-
+<!--
 <img style="float: center;" src="/images/calbuco_models.png">
 
 Calbuco Sentinel-1 interferograms showing ground deformation from the April 22–23, 2015 eruptions (g, j), model predictions for a spheroidal pressurized source (h, k) and residuals (i, l). The purple square circle shows the location of the OVDAS tilt meter, the only geodetic instrument during the eruption. The red circle shows the location of the best-fit sources. InSAR data can be explained by a pressurized source, with no evidence for a dike intrusion. The lack of pre-eruptive unrest suggest that the eruption was likely triggered by second boiling gas exsolution. The large residuals suggest that the source is more complex than a pressurized spheroid.
-
+-->
  <img style="float: center;" src="/images/caulle_models.jpg">
 
 
