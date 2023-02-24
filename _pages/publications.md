@@ -6,15 +6,15 @@ author_profile: true
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
-**Delgado, F.**, Quinteros, M. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. 
-
 Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
 **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
 
-First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
-Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, submitted. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
+**Delgado, F.**, Quinteros, M., Coppola, D., Baez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. 
 
-Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, submitted.
+First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, under review. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
+
+Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, under review.
 
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
