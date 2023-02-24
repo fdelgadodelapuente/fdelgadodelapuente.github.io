@@ -20,7 +20,7 @@ Documenting surface deformation at the first geothermal power plant in South Ame
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
 Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.<br>
-Shreve, T., **Delgado, F.**. Journal of Geophysical Research, under review. [Preprint.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>
+Shreve, T., **Delgado, F.**. Journal of Geophysical Research, under review. <!--[Preprint.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>-->
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
