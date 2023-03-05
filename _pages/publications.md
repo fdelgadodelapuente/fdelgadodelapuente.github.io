@@ -11,13 +11,13 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Baez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. 
 
-First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
-Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, under review. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
-
 Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile. <br> Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International, under review.
 
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
+
+First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, under review. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
 
 Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.<br>
 Shreve, T., **Delgado, F.**. Journal of Geophysical Research, under review. [Preprint.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>
