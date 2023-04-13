@@ -18,7 +18,10 @@ La invitación es abierta a trabajos en las disciplinas de:<br>
  – Geofísica superficial<br><br>
 <center><img style="float: center;" src="/images/CongresoGeologico.png" alt="AficheCongreso"></center><br>
   
-El objetivo es acoger por primera vez en el XVI CGCh a los científicos de la Zona Crítica. Mantendremos informando sobre las fechas para el envío de trabajos. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">Otras informaciones sobre el XVI CGCh.</a><br>
+El objetivo es acoger por primera vez en el XVI CGCh a los científicos de la Zona Crítica. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">Otras informaciones sobre el XVI CGCh.</a><br>
+
+El plazo para el envío de resúmenes es el 31 de Mayo 2023 a las 23:59 horario de Chile.
+Por favor enviar sus resúmenes a través del siguiente enlace: <a href="https://play.4id.science/cgch003/login/">ENVÍO DE ABSTRACTS</a>.
 
 ---
 <h2><b>Critical Zone Science in Natural and Managed Systems</b></h2> 
@@ -34,4 +37,7 @@ We invite contributions from the following disciplines:<br>
  – Ecology<br>
  – Surface Geophysics<br>
   
-The aim is to bring CZ scientists working across disciplines to the XVI CGCh for the first time. Stay posted for updates on abstract submission deadlines. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">More info from XVI CGCh.</a><br>
+The aim is to bring CZ scientists working across disciplines to the XVI CGCh for the first time. <a href="https://sociedadgeologica.cl/congreso-geologico-chileno-2023/">More info from XVI CGCh.</a><br>
+
+The deadline for abstract submission is May 31st, 2023 at 11:59 pm (GMT -04:00, Chilean Time Zone).
+The link for submitting your abstract is: <a href="https://play.4id.science/cgch003/login/">ABSTRACT SUBMISSION</a>.
