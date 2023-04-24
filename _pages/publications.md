@@ -19,8 +19,8 @@ Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G.
 First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.<br>
 Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, under review. [Preprint.](https://www.authorea.com/doi/full/10.22541/essoar.167065592.28839515)<br>
 
-Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.<br>
-Shreve, T., **Delgado, F.**. Journal of Geophysical Research, under review. [Preprint.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>
+[21. Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>
+Shreve, T., **Delgado, F.**. Journal of Geophysical Research, in press.
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
