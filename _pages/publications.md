@@ -20,13 +20,13 @@ Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G.
 Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, in press.
 
 [21. Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://drive.google.com/open?id=17IGKZM1xyf7mWiUhFZX2qqhcsN7Lcjpz&authuser=fdelgadodelapuente%40gmail.com&usp=drive_fs)<br>
-Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, in press.
+Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, doi:10.1029/2023JB026437.
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
 
 [19. Insights for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/articles/s41598-022-13305-y/)<br>
-Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, in press, **2022**, 12, doi:10.1038/s41598-022-13305-y
+Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, **2022**, 12, doi:10.1038/s41598-022-13305-y
 
 [18. Magma buoyancy drives rhyolitic eruptions: a tale from the VEI 5 2008-2009 Chaitén eruption from seismological and geodetic data.](https://authors.elsevier.com/a/1f3mq_,1tQ2ki8)<br>
 **Delgado, F.**, Contreras-Arratia, R., Samsonov, S. <i>Earth and Planetary Science Letters</i>, 590, 117564, **2022**, doi:10.1016/j.epsl.2022.117564
