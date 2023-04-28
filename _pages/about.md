@@ -19,5 +19,5 @@ My research focuses on the use of space geodetic data to understand physical pro
 <img style="float: center;" src="/images/IMG_8404.jpg">
 
 Deploying a GNSS station in southernmost Patagonia to study the Magallanes Fagnano fault zone, January 2023.
-
+ 
 
