@@ -22,6 +22,9 @@ Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total 
 ### **Relevant publications**
 
 
+[First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://agupubs.onlinelibrary.wiley.com/journal/19448007)<br>
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, doi: 10.1029/2022GL102480.
+
 [Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R., 2021. Journal of Geophysical Research: Solid Earth, 126, e2021JB022341. https://doi.org/10.1029/2021JB022341.
 
