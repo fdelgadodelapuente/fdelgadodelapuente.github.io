@@ -14,6 +14,10 @@ Numerical simulation of a physics-based model with variable amounts of complexit
 
 ### **Relevant publications**
 
+
+[Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R)<br>
+Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e2023JB026437, doi:10.1029/2023JB026437.
+
 [Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R. <i>Journal of Geophysical Research: Solid Earth</i>, 126, e2021JB022341.  **2021**, doi:10.1029/2021JB022341
 
