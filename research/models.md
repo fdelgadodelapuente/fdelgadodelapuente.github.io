@@ -3,7 +3,7 @@
 As part of my volcano research I have used numerical tools of solid and fluid mechanics that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess.  I have worked with a variety of models that include elastic, viscoelastic, magma physics in a variety of software including Pylith, COMSOL Multiphyics, and tools that I have developed in Matlab. I have also developed new analytic models of magma transfer.
 
 
-## **Physics-based models of silica-rich effusive eruptions**
+## **Physics-based models of effusive eruptions**
 
 Geodetic and extruded volume data sets acquired at both silicic and basaltic volcanoes show quasi-exponential trends that are indicative of coupled conduit flow and magma reservoir pressure drop. I am developing a numerical model that couples the magma extrusion, magma reservoir deflation and including time-dependent gas exsolution and viscosity for the effusive phase of the 2011-2012 rhyodacitic eruption of Cordon Caulle volcano. The major goal is to predict the temporal evolution of one of these rare but powerful and dangerous eruptions, and to provide insights on the magma properties (dissolved and exsolved water, viscosity, crystal content) from geodetic and topographic data only. The latter is a key advance because the vast majority of the models used by volcano geodesists do not provide insights on the magma physical properties, which are key parameters that control the erupted volume, eruption duration, and transitions between effusive and explosive eruptions.
 
