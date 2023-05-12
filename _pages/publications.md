@@ -16,8 +16,8 @@ Feasibility of melt segregation from a crystal mush in response to the 2011-12 e
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
-[22. First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://agupubs.onlinelibrary.wiley.com/journal/19448007)<br>
-Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, doi: 10.1029/2022GL102480.
+[22. First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://doi.org/10.1029/2022GL102480)<br>
+Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa-Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, 50, e2022GL102480, doi: 10.1029/2022GL102480.
 
 [21. Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R)<br>
 Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e2023JB026437, doi:10.1029/2023JB026437.
