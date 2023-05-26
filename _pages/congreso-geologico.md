@@ -31,7 +31,7 @@ This session will focus on landscape and ecosystem evolution processes from weat
 We invite contributions from the following disciplines:<br> 
  – Soil Science<br>
  – Geomorphology<br>
- – Hydrology and Hidrogeology<br>
+ – Hydrology and Hydrogeology<br>
  – Geochemistry and Biogeochemistry<br>
  – Ecology<br>
  – Surface Geophysics<br>
