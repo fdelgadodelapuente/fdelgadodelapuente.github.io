@@ -17,8 +17,9 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
-[23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://academic.oup.com/gji)<br> 
-Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International,  **2023**, in press.
+[23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://doi.org./10.1093/gji/ggad259)<br> 
+Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International,  **2023**, ggad259, https://doi.org/10.1093/gji/ggad259.
+
 
 [22. First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://doi.org/10.1029/2022GL102480)<br>
 Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa-Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, 50, e2022GL102480, doi: 10.1029/2022GL102480.
