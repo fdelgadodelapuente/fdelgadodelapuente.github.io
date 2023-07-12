@@ -29,7 +29,7 @@ Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e20
 [Free link](https://onlinelibrary.wiley.com/share/author/3DCTCNVV3FHE75GCGATN?target=10.1029/2023JB026437)<br>
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
-Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
+Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2023**, 232, 3, 2001–2016, doi:10.1093/gji/ggac411
 
 [19. Insights for crystal mush storage utilizing mafic enclaves from the 2011-2012 Cordón Caulle eruption.](https://www.nature.com/articles/s41598-022-13305-y/)<br>
 Winslow, H., Ruprecht, P., Gonnermann, H., Phelps, P., Muñoz-Saez, C., **Delgado, F.**, Pritchard, M., Amigo, A., <i>Scientific Reports</i>, **2022**, 12, 9734, doi:10.1038/s41598-022-13305-y
