@@ -18,7 +18,7 @@ Documenting surface deformation at the first geothermal power plant in South Ame
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
 [23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://doi.org/10.1093/gji/ggad259)<br> 
-Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International,  **2023**, 235, 1, 610-634, https://doi.org/10.1093/gji/ggad259.
+Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P., Pritchard M.,  **Delgado, F.**, Liao, Y. Geophysical Journal International,  **2023**, 235, 1, 610-634, https://doi.org/10.1093/gji/ggad259.
 [Free link](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggad259/7209152?utm_source=authortollfreelink&utm_campaign=gji&utm_medium=email&guestAccessKey=26a44c33-61df-4c0d-b67e-9e4c506b6bf6)<br>
 
 [22. First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://doi.org/10.1029/2022GL102480)<br>
