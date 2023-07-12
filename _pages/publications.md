@@ -19,13 +19,14 @@ Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G.
 
 [23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://doi.org/10.1093/gji/ggad259)<br> 
 Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P.,  **Delgado, F.**,, Pritchard M., Liao, Y. Geophysical Journal International,  **2023**, 235, 1, 610-634, https://doi.org/10.1093/gji/ggad259.
+[Free link](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggad259/7209152?utm_source=authortollfreelink&utm_campaign=gji&utm_medium=email&guestAccessKey=26a44c33-61df-4c0d-b67e-9e4c506b6bf6)<br>
 
 [22. First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://doi.org/10.1029/2022GL102480)<br>
 Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa-Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, 50, e2022GL102480, doi: 10.1029/2022GL102480.
 
 [21. Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R)<br>
 Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e2023JB026437, doi:10.1029/2023JB026437.
-(https://onlinelibrary.wiley.com/share/author/3DCTCNVV3FHE75GCGATN?target=10.1029/2023JB026437)<br>
+[Free link](https://onlinelibrary.wiley.com/share/author/3DCTCNVV3FHE75GCGATN?target=10.1029/2023JB026437)<br>
 
 [20. Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
 Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
