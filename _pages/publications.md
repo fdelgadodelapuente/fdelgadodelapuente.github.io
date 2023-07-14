@@ -14,8 +14,8 @@ Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom e
 **Delgado, F.**, Leon, P., Lobos, D., Parra, S., Baez, J. C. The triggering of sub-Plinian and Plinian eruptions: insights from 30 years of InSAR data in the Andean Southern Volcanic Zone (1991-2023). In prep.
 
 
-24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series<br>
-Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, in press.
+[24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
+Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, in press. doi.org/10.1016/j.jvolgeores.2023.107869.
 
 [23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://doi.org/10.1093/gji/ggad259)<br> 
 Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P., Pritchard M.,  **Delgado, F.**, Liao, Y. Geophysical Journal International,  **2023**, 235, 1, 610-634, https://doi.org/10.1093/gji/ggad259.
