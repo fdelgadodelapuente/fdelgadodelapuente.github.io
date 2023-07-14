@@ -8,8 +8,7 @@ ALOS-2 SM3 interferogram that shows 2.5 cm of line-of-sight (LOS) subsidence dur
 
 ### **Relevant publications**
 
-Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series
-Lobos, D., Delgado, F., Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, under review.
 
 
-None yet, but there will be one that will be part of Joaquin Castillo's MSc thesis.
+[Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
+Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, in press. doi.org/10.1016/j.jvolgeores.2023.107869.
