@@ -7,9 +7,6 @@ author_profile: true
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
 
-%# Revisiting the Liquiñe Ofqui Fault Zone seismotectonics: evidence for phantom earthquakes during the 2007 Aysén swarm with InSAR and teleseismic data.<br>
-%# **Delgado, F.**, Jara, J., Raimbault, B., Jolivet, R. In prep.
-
 **Delgado, F.**, Quinteros, M., Coppola, D., Baez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
 **Delgado, F.**, Leon, P., Lobos, D., Parra, S., Baez, J. C. The triggering of sub-Plinian and Plinian eruptions: insights from 30 years of InSAR data in the Andean Southern Volcanic Zone (1991-2023). In prep.
