@@ -13,7 +13,7 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Leon, P., Lobos, D., Parra, S., Baez, J. C. The triggering of sub-Plinian and Plinian eruptions: insights from 30 years of InSAR data in the Andean Southern Volcanic Zone (1991-2023). In prep.
 
-Galetto, F.; Dualeh, E.; Pritchard, Ma.; Ebmeier, S.; Poland, M.; Albino, F.; Biggs, J.; **Delgado, F.**; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. In prep
+Galetto, F.; Dualeh, E.; Pritchard, M.; Ebmeier, S.; Poland, M.; Albino, F.; Biggs, J.; **Delgado, F.**; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. In prep
 
 [24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, in press. doi.org/10.1016/j.jvolgeores.2023.107869.
