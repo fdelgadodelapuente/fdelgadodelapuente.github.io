@@ -35,3 +35,5 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/h2o">Anthropogenic deformation</a></b></h2> 
+<img style="float: center;" src="/images/20230118_145727.jpg" style="width:500px;">
+<p style="font-size:small">Salt crust and sulphate-carbonate layers of the Salar de Atacama basin.</p> 
