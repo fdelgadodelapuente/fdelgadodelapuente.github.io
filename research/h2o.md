@@ -9,7 +9,7 @@ ALOS-2 SM3 interferogram that shows ~2.5 cm of line-of-sight (LOS) subsidence du
 <img style="float: center;" src="/images/valdivia.png">
 
 
-CoSSC TanDEM-X bistatic interferogram that shows elevation changes as phase changes (in radians) due to the logging industry near the city of Valdivia. Reference topography is the Copernicus 30 m DEM. 
+CoSSC TanDEM-X bistatic interferogram that shows elevation changes as phase differences (in radians) with respect to a reference topography (Copernicus 30 m DEM). The elevation changes are due to the logging industry near the city of Valdivia, Chile. 
 
 ### **Relevant publications**
 
