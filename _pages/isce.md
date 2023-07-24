@@ -6,8 +6,8 @@ author_profile: true
 permalink: /isce/
 
 ---
-## **ISCE tutorial**
+## **ISCE tutorial and add-ons**
 
-You can download a short [tutorial](https://www.overleaf.com/read/shtkqpdjpghj) that I wrote for teaching students.
+[ISCE tutorial](https://www.overleaf.com/read/shtkqpdjpghj) that I wrote for teaching students. It's mostly my troubleshooting notes over the years, but adapted into a Latex document.
 
 [SAOCOM-1 parser](https://github.com/fdelgadodelapuente/fdelgadodelapuente.github.io/blob/master/_pages/unpackFrame_SAOCOM.py) for stripmap stack processor.
