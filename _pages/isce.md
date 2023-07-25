@@ -12,7 +12,7 @@ permalink: /isce/
 
 [SAOCOM-1 parser](https://github.com/fdelgadodelapuente/fdelgadodelapuente.github.io/blob/master/_pages/unpackFrame_SAOCOM.py) for stripmap stack processor.
 
-FilterAndCoherenceStackLayover.py for applying layover mask to interferoragms generated with the stripmap stack processor
+FilterAndCoherenceStackLayover.py for applying the layover mask to interferograms generated with the stripmap stack processor
 
 tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py, unwrap_zerodop.py
 
