@@ -18,7 +18,7 @@ Lobos, D., **Delgado, F.**, Pritchard, M. Multiple sources of elevation change d
 Galetto, F.; Dualeh, E.; **Delgado, F.**; Pritchard, M.; Ebmeier, S.; Poland, M.; Biggs, J.; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. In prep
 
 [24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
-Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, in press. doi.org/10.1016/j.jvolgeores.2023.107869.
+Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, in press. doi.org/10.1016/j.jvolgeores.2023.107869.[Free link](https://authors.elsevier.com/c/1hVAp1LkU3g7cr)<br>
 
 [23. Feasibility of melt segregation from a crystal mush in response to the 2011-12 eruption at Cordón Caulle, Chile.](https://doi.org/10.1093/gji/ggad259)<br> 
 Phelps, P. R., Gonnermann, H. M., Winslow, H., Ruprecht, P., Pritchard M.,  **Delgado, F.**, Liao, Y. Geophysical Journal International,  **2023**, 235, 1, 610-634, https://doi.org/10.1093/gji/ggad259.
