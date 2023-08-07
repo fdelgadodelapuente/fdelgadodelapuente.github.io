@@ -9,9 +9,9 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Baez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-**Delgado, F.**, Leon, P., Castillo, J., Shreve, T. An assessment of SAOCOM-1 L-band data for InSAR: examples from volcanology and anthropogenic subsidence. In prep.
-
 **Delgado, F.**, Leon, P., Lobos, D., Parra, S., Baez, J. C. The triggering of sub-Plinian and Plinian eruptions: insights from 30 years of InSAR data in the Andean Southern Volcanic Zone (1991-2023). In prep.
+
+**Delgado, F.**, Leon, P., Castillo, J., Shreve, T., Poland, M., Borgstrom, S. A global assessment of SAOCOM-1 L-band data for InSAR: examples from volcano, earthquake, glacier, and anthropogenic deformation. In prep.
 
 Lobos, D., **Delgado, F.**, Pritchard, M. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile measured by satellite topographic time series. In prep.
 
