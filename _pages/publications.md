@@ -15,7 +15,7 @@ Most of these articles are already open source. If you need a copy of the other 
 
 Lobos, D., **Delgado, F.**, Pritchard, M. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile measured by satellite topographic time series. In prep.
 
-Galetto, F.; Dualeh, E.; **Delgado, F.**; Pritchard, M.; Ebmeier, S.; Poland, M.; Biggs, J.; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. Submitted.
+Galetto, F.; Dualeh, E.; **Delgado, F.**; Pritchard, M.; Ebmeier, S.; Poland, M.; Biggs, J.; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. Volcanica, submitted.
 
 [24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, 441, 107869. doi.org/10.1016/j.jvolgeores.2023.107869.[Free link](https://authors.elsevier.com/c/1hVAp1LkU3g7cr)<br>
