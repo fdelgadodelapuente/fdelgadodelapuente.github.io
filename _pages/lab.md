@@ -24,7 +24,7 @@ At the moment I am studying the silica precipitation processes in the El Tatio g
 **Alumni**
 
 <img style="float: center;" src="/images/apena_web.png" width = "150" height = "150">
-<br><b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geolgogy in Weathering fluxes in the Southern Andes. Geochemist at Aquist Consultants.<br> 
+<b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geolgogy in Weathering fluxes in the Southern Andes. Geochemist at Aquist Consultants.<br> <br>
 
 <b><a href="mailto: catalina.saldias@alumnos.uach.cl ">Catalina Saldías Inocentti</a></b>, UACh Honors thesis in Water-dating and C-isotope geochemistry of hydrothermal systems. MSc student at Karlsruhe University.
 
