@@ -12,7 +12,6 @@ Additionally, since 2023 all our episodes are available at the <a href="https://
 <br>
 <br>
 <center><img style="float: center;" src="/images/rocadictos.png" alt="Rocadictos" height="200"></center><br>
-  <br>
 ---
 <h2><b>Rocadictos: El podcast de Ciencias de la Tierra de la Universidad de Chile</b></h2> 
 Junto con colegas (<a href="https://www.researchgate.net/profile/Valentina-Aqueveque">Valentina Flores-Aqueveque</a> (Geología), <a href="http://dgf.uchile.cl/~jojeda/">Javier Ojeda</a> (Geofísica) y <a href="https://www.researchgate.net/profile/Daniel-Diaz-11">Daniel Díaz</a> (Geofísica)) y periodistas de los departamentos de Geología (Rodrigo López) y Geofísica (Daniela Cid) de la UChile, emitimos un podcast en castellano enfocado en investigación en Ciencias de la Tierra (Roca-adictos). Los capítulos se emiten a través de la Radio UChile (FM 102.5) en Santiago, Radio Placeres en Valparaiso (FM 87.7) y Radio Talcahuano en Talcahuano.
