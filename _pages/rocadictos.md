@@ -10,7 +10,7 @@ Together with colleagues and journalists from the Geology and Geophysics Departm
 <br>
 Additionally, since 2023 all our episodes are available at the <a href="https://open.spotify.com/show/2sBQXYgHAdaaCHHTiFep1s?si=16888a5c05584eb4">Rocadictos Spotify</a> channel. Older (and new) episodes can be found through <a href="https://radio.uchile.cl/programas/a/rocadictos/">Radio UChile's online archive</a>.
 
-<center><img style="float: center;" src="/images/rocadictos.png" alt="Rocadictos"></center><br>
+<center><img style="float: center;" src="/images/rocadictos.png" alt="Rocadictos" height="300"></center><br>
   
 ---
 <h2><b>Rocadictos: El podcast de Ciencias de la Tierra de la Universidad de Chile</b></h2> 
