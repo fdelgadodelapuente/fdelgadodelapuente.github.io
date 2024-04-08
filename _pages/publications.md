@@ -6,7 +6,11 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
-[Environmental and hydrogeochemical controls of spicule geyserite in opaline hot spring deposits](http://doi.org/10.1029/2022EA002645) <br>C. Munoz-Saez, J. Gong, **A. Perez-Fodich**, M. van Zulien. _Earth and Space Science_. **2023**, 10(3), e2022EA002645.
+[The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution](https://doi.org/10.1016/j.epsl.2024.118687) <br> **A. Perez-Fodich**, L.A. Derry, J. Marçais, M.T. Walter. _Earth and Planetary Science Letters_. **2024**, 635, 118687.
+
+[Laterite and supergene copper deposits; ore deposits formed in the Critical Zone](https://doi.org/10.1016/B978-0-323-99762-1.00012-7)<br> S.A. Gleeson, **A. Perez-Fodich**, M. Reich. _Treatise in Geochemistry 3rd Edition_, Ch. 44.
+
+[Environmental and hydrogeochemical controls of spicule geyserite in opaline hot spring deposits](https://doi.org/10.1029/2022EA002645) <br>C. Munoz-Saez, J. Gong, **A. Perez-Fodich**, M. van Zulien. _Earth and Space Science_. **2023**, 10(3), e2022EA002645.
 
 [Gender balance and geographical diversity in editorial boards of Geochimica et Cosmochimica Acta and Chemical Geology](https://ese.arphahub.com/article/89470/) <br>O. Pourret, P. Anand, P. Bots, E. Cottrell, A. Dosseto, A. Gunter, D.W. Hedding, D.E. Ibarra, D.E. Irawan, K. Johannesson, J. Labidi, S. Little, H. Liu, T.V. Makhubela, J.M. Carbonne, <b>A. Perez-Fodich</b>, A. Riches, R. Tartese, A. Tripati. <i>European Science Editing</i>. **2022**, 10.3897/ese.2022.e89470.
 
