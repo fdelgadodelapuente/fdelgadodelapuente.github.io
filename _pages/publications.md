@@ -6,6 +6,8 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+[Strontium isotopic composition of the Mesozoic sedimentary formations of the southern Central Andes (33°–34°S) and its paleogeographic implications](https://authors.elsevier.com/tracking/article/details.do?aid=104984&jid=SAMES&surname=Perez-Fodich) J. González-Cariqueo, M. Pfeiffer, M. Peña, M. Macchioli Grande, <br> **A. Perez-Fodich**, . _Journal of South American Earth Sciences_. **2024**, _accepted_.
+
 [The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution](https://doi.org/10.1016/j.epsl.2024.118687) <br> **A. Perez-Fodich**, L.A. Derry, J. Marçais, M.T. Walter. _Earth and Planetary Science Letters_. **2024**, 635, 118687.
 
 [Laterite and supergene copper deposits; ore deposits formed in the Critical Zone](https://doi.org/10.1016/B978-0-323-99762-1.00012-7)<br> S.A. Gleeson, **A. Perez-Fodich**, M. Reich. _Treatise in Geochemistry 3rd Edition_, Ch. 44.
@@ -37,9 +39,6 @@ M. Reich, G.T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E.
 
 ---
 **Work in progress**<br>
-
-<p style="font-size:small">The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawaii: perspectives for landscape evolution.<br> 
-<b>A. Perez-Fodich</b>, L.A. Derry, M.T. Walter, J. Marçais. <i>In prep for JGR Earth Surface</i>.</p>
 
 <p style="font-size:small">Fe oxidation and trace element gradients during early weathering of spheroidally weathered Hawaiian basalts.<br>
 <b>A. Perez-Fodich</b>, L.A. Derry, L. Smieska. <i>In prep</i>.</p>
