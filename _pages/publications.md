@@ -36,7 +36,7 @@ F. Álvarez, M. Reich, <b>A. Perez-Fodich</b>, G.T. Snyder, Y. Muramatsu, G. Var
 [Using iodine isotopes to constrain supergene fluid sources in arid regions: insights from the Chuquicamata oxide blanket](https://pubs.geoscienceworld.org/segweb/economicgeology/article/108/1/163/128448/using-iodine-isotopes-to-constrain-supergene-fluid)<br>
 M. Reich, G.T. Snyder, F. Álvareza, <b>A. Perez</b>, C. Palacios, G. Vargas, E.M. Cameron, Y. Muramatsu, U. Fehn. <i>Economic Geology</i>. **2013**, 108(1), 163-171.
 
-<p style="font-size:small">Student or postdoc paper</p>
+<p style="font-size:small">*Student or postdoc paper.</p>
 ---
 **Work in progress**<br>
 
