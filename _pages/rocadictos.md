@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <h2><b>Rocadictos: the Earth-Science podcast in Spanish</b></h2> 
-Together with colleagues and journalists from the Geology and Geophysics Departments at UChile, we run a weekly Spanish-language podcast focused on research in Earth Sciences called Rocadictos (addicted to ROCKs). The episodes are broadcasted through the UChile's radio station in Santiago (FM 102.5), and a few local stations in Valparaiso and Talcahuano.
+Together with colleagues and journalists from the Departments of Geology and Geophysics at UChile, we run a weekly Spanish-language podcast focused on research in Earth Sciences called Rocadictos (addicted to ROCKs). The episodes are broadcasted through the UChile's radio station in Santiago (FM 102.5), and a few local stations in Valparaiso and Talcahuano.
 <br>
 <br>
 Additionally, since 2023 all our episodes are available at the <a href="https://open.spotify.com/show/2sBQXYgHAdaaCHHTiFep1s?si=16888a5c05584eb4">Rocadictos Spotify</a> channel. Older (and new) episodes can be found through <a href="https://radio.uchile.cl/programas/a/rocadictos/">Radio UChile's online archive</a>.
