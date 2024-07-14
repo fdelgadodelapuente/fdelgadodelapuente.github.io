@@ -12,7 +12,7 @@ Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-Sky
 
 
 <img style="float: center;" src="/images/aniakchak_Lband.jpg" width="700">
-SAOCOM-1 stripmap descending interferogram spanning 4 months of an episode of unrest during early 2023 (A), ALOS-2 ScanSAR ascending interferogram spanning the same episode (B), wrapped unfiltered Sentinel-1 winter interferogram (C), cumulative displacement between June and September 2023 from Sentinel-1 time series (D), time series (E) for SAOCOM-1 (orange dots) and Sentinel-1A data (black squares). This is the fastest deformation event I have detected ever with InSAR.
+Uplift episode at Aniakchak Crater in Alaska with a LOS deformation of 72 cm during early 2023. SAOCOM-1 stripmap descending interferogram spanning 4 months of the episode of unrest (A), ALOS-2 ScanSAR ascending interferogram spanning the same episode (B), wrapped unfiltered Sentinel-1 winter interferogram (C), cumulative displacement between June and September 2023 from Sentinel-1 time series (D), time series (E) for SAOCOM-1 (orange dots) and Sentinel-1A data (black squares). This is the fastest deformation event I have detected ever with InSAR [Delgado et al., 2024.](https://ieeexplore.ieee.org/document/10586971)<br>.
 
 <!--
 <img style="float: center;" src="../images/modelfits.jpg">
