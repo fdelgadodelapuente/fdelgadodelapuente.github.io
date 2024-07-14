@@ -91,7 +91,7 @@ Cordon Caulle effusive phase ENVISAT IS6 interferograms showing ground deformati
 
  <img style="float: center;" src="/images/okada_alos2_csk_s1.jpg">
 
-Different geodetic data (interferograms, range offsets, cumulative displacement frmo InSAR time series) from different missions (ALOS-2, COSMO-SkyMed, Sentinel-1),  predictions of the best-fit Okada sill (black rectangle) and residuals spanning the 2-month 2018 Sierra Negra eruption (Shreve and Delgado, 2023). The dots are hypocenters (Bell et al., 2021).
+Different geodetic data (interferograms, range offsets, cumulative displacement from InSAR time series) from different missions (ALOS-2, COSMO-SkyMed, Sentinel-1, left column),  predictions of the best-fit Okada sill (black rectangle) and residuals (right column) spanning the 2-month 2018 Sierra Negra eruption (Shreve and Delgado, 2023). The dots are hypocenters (Bell et al., 2021).
 
 ### **Relevant publications**
 
