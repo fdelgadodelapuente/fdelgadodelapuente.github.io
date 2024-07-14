@@ -44,5 +44,14 @@ TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.
 ### **Relevant publications**
 
 
+[A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
+**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
+
+[Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
+Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2023**, 232, 3, 2001–2016, doi:10.1093/gji/ggac411
+
 [Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
 MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R.  <i>Journal of Geophysical Research</i>. **2020**, doi.org/10.1029/2019JB019281. Special issue on <i>Creep on continental faults and subduction zones: Geophysics, geology, and mechanics</i>.
+
+[Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
+Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
