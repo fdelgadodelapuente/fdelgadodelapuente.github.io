@@ -13,7 +13,7 @@ Welcome to the Crustal Deformation and InSAR Geodesy lab at Universidad de Chile
 
 I am an InSAR geodesist from Chile and assistant professor at the Department of Geology of Universidad de Chile. 
 
-My research focuses on the use of space geodetic data to understand physical processes in volcanic systems. Specifically I use InSAR (Interferometric Synthetic Aperture Radar) to study magma storage and transport in the shallow crust, and eruption dynamics. Most of my work has focused in the restless volcanoes of the Southern Andes in Chile, which is the most productive active volcanic arc in the world in the past 40 years. I have worked in other volcanic regions including hot spots (Yellowstone, Galapagos, Hawai'i) and other subdution zones (Aleutians, Vanuatu). I am also interested in active tectonics, glaciology and crustal deformation. I also work with GNSS, DEMs and field data.  
+My research focuses on the use of space geodetic data to understand a variety of crustal deformation processes. Specifically I use InSAR (Interferometric Synthetic Aperture Radar), other satellite data (GNSS, DEMs). I complement these with field, geochemical, mineralogical, and seismological data. Most of my research have focused to understand magma storage, transport, and eruption dynamics in volcanoes of the Southern Andes in Chile, which is the most productive active volcanic arc in the world in the past 40 years. I have worked in other volcanic regions including hot spots (Yellowstone, Galapagos, Hawai'i) and other subdution zones (Aleutians, Vanuatu). I am also interested in active tectonics, glaciology, and salar dynamics.  
 
 
 <img style="float: center;" src="/images/IMG_8404.jpg">
