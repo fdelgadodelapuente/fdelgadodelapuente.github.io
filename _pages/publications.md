@@ -6,16 +6,27 @@ author_profile: true
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
+**Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-**Delgado, F.**, Quinteros, M., Coppola, D., Baez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. A joint geodetic-seismological approach to studye the seismic cycle of the Pichilemu fault. In prep.
 
-**Delgado, F.**, Leon, P., Lobos, D., Parra, S., Baez, J. C. The triggering of sub-Plinian and Plinian eruptions: insights from 30 years of InSAR data in the Andean Southern Volcanic Zone (1991-2023) and a global survey. In prep.
+León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
-**Delgado, F.**, Shreve, T., Leon, P., Castillo, J., Poland, M., Borgstrom, S. A global assessment of SAOCOM-1 L-band data for InSAR: examples from volcano, earthquake, glacier, and anthropogenic deformation. In prep.
+León-Ibañez, P., **Delgado, F.** Strategies for imaging fault deformation with InSAR in the presence of strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake (Andean fold and thrust belt, Argentina). In prep.
 
-Lobos, D., **Delgado, F.**, Pritchard, M. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile measured by satellite topographic time series. In prep.
+**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from a global survey and three decades of InSAR data in the Andean Southern Volcanic Zone (1993-2024). In prep.
 
-Galetto, F.; Dualeh, E.; **Delgado, F.**; Pritchard, M.; Ebmeier, S.; Poland, M.; Biggs, J.; Hamling, I.; Shreve, T.; Wauthier, C., Gonzalez-Santana, J., Froger, J-L. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects. Volcanica, submitted.
+[28. A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
+**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
+
+[27. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](http://www.jvolcanica.org/ojs/index.php/volcanica)<br> 
+Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C. Volcanica, in press.
+
+[26. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/245/)<br>
+Galetto, F., Dualeh, E., **Delgado, F.**, Pritchard, M., Poland, M., Ebmeier, S., Shreve, T., Biggs, J., Hamling, I., Wauthier, C., Gonzalez Santana, J., Froger, J.-L., Bemelmans, M. Volcanica, **2024**, 7(1), 273–301. doi: 10.30909/vol.07.01.273301.
+
+[25. Eruption Forecasting Model for Copahue Volcano (Southern Andes) Using Seismic Data and Machine Learning: A Joint Interpretation with Geodetic Data (GNSS and InSAR).](https://pubs.geoscienceworld.org/ssa/srl/article/doi/10.1785/0220240022/644475/Eruption-Forecasting-Model-for-Copahue-Volcano)<br>
+Cabrera, L., Ardid, A., Melchor, I., Ruiz, S., Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Martinez‐Yáñez, P., Dempsey, D., Cronin, S. Seismological Research Letters, **2024**, XX, 1–16, doi:10.1785/0220240022.
 
 [24. Documenting surface deformation at the first geothermal power plant in South America (Cerro Pabellón, Chile) by satellite InSAR time-series.](https://doi.org/10.1016/j.jvolgeores.2023.107869)<br>
 Lobos, D., **Delgado, F.**, Pritchard, M., Cardona, C., Franco, L., Pedreros, G., Amigo, A. Journal of Volcanology and Geothermal Research, **2023**, 441, 107869. doi.org/10.1016/j.jvolgeores.2023.107869.[Free link](https://authors.elsevier.com/c/1hVAp1LkU3g7cr)<br>
