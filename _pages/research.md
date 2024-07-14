@@ -31,7 +31,7 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <p style="font-size:small">Comparison of the slant range resolution for C-, and L-band platforms.</p> 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/glacier">Glaciology</a></b></h2> 
-<img style="float: center;" src="/images/viedma2011.JPG" style="width:500px;">
+<img style="float: center;" src="/images/Aysen2011_244.JPG" style="width:500px;">
 <p style="font-size:small">Viedma glacier, one of the largest of the Southern Patagonia Icefield</p> 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/h2o">Anthropogenic deformation</a></b></h2> 
