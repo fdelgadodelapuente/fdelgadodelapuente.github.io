@@ -9,31 +9,12 @@ I am interested in the use of InSAR to study active crustal deformation produced
 
 Interferograms that span the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
 
-<!--
- <img style="float: center;" src="/images/alos_aysen.png" width="500">
+<img style="float: center;" src="/images/sanjuan_s1.jpg">
 
-ALOS interferograms of the 2007 Aysen seismic swarm in Southern Chile that show deformation by a Mw 6.1 (a) and 6.2 (b) earthquakes. Despite the strong geological and seismological evidence that the swarm occurred in a branch of the regional NS right-lateral Liquiñe-Ofqui fault zone, the displacements recorded in InSAR data can only be explained by an EW left-lateral strike slip fault plus localized deformation due to surface ruptures.
-
-
- <img style="float: center;" src="/images/ux_uz.jpg" width="500">
-
-East-west (Ux) and vertical (Uz) displacement of the 2016 Mw 7.6 Chiloe earthquake decomposed from ascending and descending Sentinel-1 interferograms
--->
-  
-### **Relevant publications**
+Interferogram of the January 2021 Mw 6.4 San Juan earthquake, and time series of cumualtive deformation. This earthquake is the largest in the era of InSAR geodesy in the Andean fold and thrust belt, and can only be imaged with InSAR using a heaviside fit to the time series or from winter to winter interferogram.
+Sentinel-1 interferogram of the January 2021 Mw 6.4 San Juan earthquake (seismic epicenter is the grey square, and focal mechanism is from GCMT), and time series of cumulative deformation (bottom). This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs.
 
 
-[Fully joint inversion of the 2016 Mw 7.6 Chiloé earthquake.](https://doi.org/10.1093/gji/ggac411)<br>
-Bravo, F., Peyrat, S., **Delgado, F.**, Fuentes, M., Derode, B., Pérez, A., Campos, J., <i>Geophysical Journal International</i>, **2022**, ggac411, doi:10.1093/gji/ggac411
-
-[Volcano-tectonic interactions at Sabancaya volcano, Peru: eruptions, magmatic inflation, moderate earthquakes, and fault creep](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)<br>
-MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, P., Bagnardi, M., Macedo, O., Aguilar, V., Lazarte, I.,  Machacca, R., Miranda, R.  <i>Journal of Geophysical Research</i>. **2020**, doi.org/10.1029/2019JB019281. Special issue on <i>Creep on continental faults and subduction zones: Geophysics, geology, and mechanics</i>.
-
-[Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
-Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
-
-
-  
   
 ## **Volcano-tectonic interactions**
 
