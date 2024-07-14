@@ -26,13 +26,13 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <img style="float: center;" src="/images/edo.png" style="width:500px;">
 <p style="font-size:small">System of non-homogenenous linear differential equations that predicts the pressure change in two pressurized reservois below Yellowstone caldera.</p> 
 
-
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/insar">InSAR geodesy</a></b></h2> 
+<img style="float: center;" src="/images/range_res_Lband.png" style="width:400px;">
+<p style="font-size:small">Comparison of the slant range resolution for C-, and L-band platforms.</p> 
 
-<img style="float: center;" src="/images/villarrica_coherence.png" style="width:400px;">
-<p style="font-size:small">1-day COSMO-SkyMed and 2-day UAVSAR wrapped interferograms of Villarrica volcano.</p> 
-
-
+<h2><b><a href="https://fdelgadodelapuente.github.io/research/glacier">Glaciology</a></b></h2> 
+<img style="float: center;" src="/images/viedma2011.JPG" style="width:500px;">
+<p style="font-size:small">Viedma glacier, one of the largest of the Southern Patagonia Icefield</p> 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/h2o">Anthropogenic deformation</a></b></h2> 
 <img style="float: center;" src="/images/20230118_145727.jpg" style="width:500px;">
