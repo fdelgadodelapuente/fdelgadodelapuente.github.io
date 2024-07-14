@@ -6,14 +6,14 @@
 
 Migration and storage of magma in the upper crusst results in stress build up that can eventually lead in an eruption.  However, the conditions that lead to eruptions are highly dependent on the volcano evolution, source geometry, the amount of intruded magma, the presence of fluids that can easily be remobilized in a crystal mush, among other parameters. The stress changes can be tracked with ground deformation data, and I use these observations to study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models.  <!--I have studied magma intrusion with InSAR data at several volcanoes in the Central and Southern Andes including the famous Villarrica, Cordon Caulle, Calbuco, Chaiten, and at Yellowstone caldera. 
 -->
-<img style="float: center;" src="/images/ts2012_2024_dsc_asc.png" width="700">
-
-Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2, ALOS-2 and SAOCOM-1 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line).  Updated from Figure 5 in [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction can also explain the deformation signals (Delgado et al., 2018; Phelps et al., 2023).
-
 
 <img style="float: center;" src="/images/aniakchak_Lband.jpg" width="700">
 
 Episode of unrest at Aniakchak Crater in Alaska during early 2023, with a LOS uplift of 72 cm. SAOCOM-1 stripmap descending interferogram spanning 4 months of the episode of unrest (A), ALOS-2 ScanSAR ascending interferogram spanning the same episode (B), wrapped unfiltered Sentinel-1 winter interferogram (C), cumulative displacement between June and September 2023 from Sentinel-1 time series (D), time series (E) for SAOCOM-1 (orange dots) and Sentinel-1A data (black squares). This is the fastest deformation event I have detected ever with InSAR ([Delgado et al., 2024.](https://ieeexplore.ieee.org/document/10586971))<br>.
+
+<img style="float: center;" src="/images/ts2012_2024_dsc_asc.png" width="700">
+
+Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2, ALOS-2 and SAOCOM-1 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line).  Updated from Figure 5 in [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction can also explain the deformation signals (Delgado et al., 2018; Phelps et al., 2023).
 
 <!--
 <img style="float: center;" src="../images/modelfits.jpg">
