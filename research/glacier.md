@@ -13,6 +13,5 @@ InSAR can be used to measure the displacement above the equilibrium lines of tid
 -->
 
 ### **Relevant publications**
-**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M., 2024. A global assessment of SAOCOM-1 L-band InSAR stripmap data for volcanology, active tectonics, glaciology, and anthropogenic deformation. IEEE Transactions on Geoscience and Remote Sensing, in press.
-[5. Recent unrest (2003-2015) imaged by space geodesy at the highest risk Chilean volcanoes:  Llaima, Villarrica and Calbuco (Southern Andes)](https://www.sciencedirect.com/science/article/pii/S0377027317303086)<br>
-**Delgado, F.**, Pritchard, M.,  Ebmeier, S., Gonzalez, P., Lara, L. <i>Journal of Volcanology and Geothermal Research</i>. **2017**, doi:10.1016/j.jvolgeores.2017.05.020. Special issue of <i>"Volcano Geodesy: Recent developments and future challenges"</i>.
+[A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
+**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
