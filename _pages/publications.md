@@ -16,11 +16,11 @@ León-Ibañez, P., **Delgado, F.** Strategies for imaging fault deformation with
 
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from a global survey and three decades of InSAR data in the Andean Southern Volcanic Zone (1993-2024). In prep.
 
-[28. A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
-**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
+[28. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](http://www.jvolcanica.org/ojs/index.php/volcanica)<br> 
+Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C., **2024**. Volcanica, in press.
 
-[27. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](http://www.jvolcanica.org/ojs/index.php/volcanica)<br> 
-Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C. Volcanica, in press.
+[27. A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
+**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M., **2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
 
 [26. The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/245/)<br>
 Galetto, F., Dualeh, E., **Delgado, F.**, Pritchard, M., Poland, M., Ebmeier, S., Shreve, T., Biggs, J., Hamling, I., Wauthier, C., Gonzalez Santana, J., Froger, J.-L., Bemelmans, M. Volcanica, **2024**, 7(1), 273–301. doi: 10.30909/vol.07.01.273301.
