@@ -22,6 +22,10 @@ TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.
 <img style="float: center;" src="/images/1949fence.JPG">
 Fence displaced ~6 m by the 1949 Mw ~7.2 sinistral doublet in the Magallanes Fagnano fault, Tierra del Fuego.
 
+
+<img style="float: center;" src="/images/U_EW.png">
+Time series of eastward displacement recorded by two GNSS stations located 7.5 km north and south from the Magallanes Fagnano fault. The difference of 2 mm/yr in the mean velocity between the two stations is due to the shallow coupling of the fault.
+
 ### **Relevant publications**
 
 
