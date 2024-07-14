@@ -126,6 +126,10 @@ Differential DEMs between TanDEM-X and SRTM (a), TanDEM-X and Pléiades (b), and
 ### **Relevant publications**
 
 
+[The utility of TerraSAR-X, TanDEM-X, and PAZ for studying global volcanic activity: Successes, challenges, and future prospects.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/245/)<br>
+Galetto, F., Dualeh, E., **Delgado, F.**, Pritchard, M., Poland, M., Ebmeier, S., Shreve, T., Biggs, J., Hamling, I., Wauthier, C., Gonzalez Santana, J., Froger, J.-L., Bemelmans, M. Volcanica, **2024**, 7(1), 273–301. doi: 10.30909/vol.07.01.273301.
+
+
 [Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R)<br>
 Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e2023JB026437, doi:10.1029/2023JB026437.
 
