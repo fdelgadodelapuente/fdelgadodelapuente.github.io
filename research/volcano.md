@@ -10,6 +10,8 @@ Migration and storage of magma in the upper crusst results in stress build up th
 
 Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2 and ALOS-2 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line).  Updated from Figure 5 in [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction can also explain the deformation signals (Delgado et al., 2018; Phelps et al., under review).
 
+
+<!--
 <img style="float: center;" src="../images/modelfits.jpg">
 
 A-D) Interferograms calculated from ENVISAT time series showing deformation due to Yellowstone caldera uplift during 2004-2009, E-H) Synthetic interfeorgrams produced by the best-fit two horizontal dislocations (black rectangles) and I-L) difference between data and synthetics. Arrows in B) show GPS data and synthetic data.
@@ -17,7 +19,7 @@ A-D) Interferograms calculated from ENVISAT time series showing deformation due 
 <img style="float: center;" src="../images/okada_models.jpg" width="500">
 
 Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total volume change is 0.3 km3 in 5 years [(Delgado and Grandin, 2021).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JB022341)<br>
-
+-->
 
 ### **Relevant publications**
 
