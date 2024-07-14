@@ -14,6 +14,7 @@ author_profile: true
 <img style="float: center;" src="/images/joaquin.jpg" style="width:300px;">
 <p style="font-size:small">Joaquín Castillo (MSc Geology). Ground subsidence in the Salar de Atacama basin and its relation with aquifer depletion.</p>
 
+<p style="font-size:small">Luis Godoy (MSc Geology). Ground subsidence due to aquifer depletion in Central Chile.</p>
 
 
 ## **Alumni**
