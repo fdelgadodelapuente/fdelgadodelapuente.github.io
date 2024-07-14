@@ -12,7 +12,7 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D. A joint InSAR and mineralogi
 
 Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S. A geodetic (GNSS/InSAR) study of the 2016-2022 eruptive period of Nevados de Chillán volcano (southern Andes, Chile). In prep.
 
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. A joint geodetic-seismological approach to studye the seismic cycle of the Pichilemu fault. In prep.
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
