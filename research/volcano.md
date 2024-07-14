@@ -82,11 +82,16 @@ What triggers volcanic eruptions? This key and fundamental volcanological questi
 <img style="float: center;" src="/images/calbuco_models.png">
 
 Calbuco Sentinel-1 interferograms showing ground deformation from the April 22–23, 2015 eruptions (g, j), model predictions for a spheroidal pressurized source (h, k) and residuals (i, l). The purple square circle shows the location of the OVDAS tilt meter, the only geodetic instrument during the eruption. The red circle shows the location of the best-fit sources. InSAR data can be explained by a pressurized source, with no evidence for a dike intrusion. The lack of pre-eruptive unrest suggest that the eruption was likely triggered by second boiling gas exsolution. The large residuals suggest that the source is more complex than a pressurized spheroid.
--->
+
  <img style="float: center;" src="/images/caulle_models.jpg">
 
 
 Cordon Caulle effusive phase ENVISAT IS6 interferograms showing ground deformation (left column), model predictions (middle column) for a finite element horizontal spheroid and residuals (right column). The blue triangle and red polygon are the 2011-2012 eruptive vent and lava flow. The green circle and black lines are the spheroid centroid and semi axes. The spheroid is elongated in the direction of the volcanic chain, which suggest a tectonic control in the eruption. The higher residual in the interferogram recorded during the waning of the eruption indicate a change in the deformation source, which is coeval with an increase in the long period seismicity and a renewed pulse of lava extrusion which increased the lava time averaged discharge rate. 
+-->
+
+ <img style="float: center;" src="/images/okada_alos2_csk_s1.jpg">
+
+Different geodetic data (interferograms, range offsets, cumulative displacement frmo InSAR time series) and predictions of the best-fit Okada sill during the 2018 Sierra Negra eruption (Shreve and Delgado, 2023). The dots are hypocenters (Bell et al., 2021).
 
 ### **Relevant publications**
 
