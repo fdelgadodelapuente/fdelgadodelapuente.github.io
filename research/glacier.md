@@ -5,7 +5,7 @@
 InSAR can be used to measure the displacement above the equilibrium lines of tidewater, temperate glaciers, and its seasonal and long-term variability. This variability is critical to assess the impact of climate change in these regions. The ice flow is a function of the basal shear stress and the non-Newtonian rheology, so InSAR data can be used as input of finite element simulations of ice flow.
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/glacier">Glaciology</a></b></h2> 
-<img style="float: center;" src="/images/ers_saocom_spi.png" style="width:500px;">
+<img style="float: center;" src="/images/saocom_8days_longswath.png" style="width:500px;">
 <p style="font-size:small">SAOCOM-1 L-band 8-day and ERS-1/2 C-band 1-day interferograms of the Southern Patagonian Icefield. SAOCOM-1 is the only platforms that acquires data suitable for InSAR in these temperate icefields.</p> 
 <!--
 <img style="float: center;" src="/images/villarrica_coherence.png" style="width:400px;">
