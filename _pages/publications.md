@@ -8,7 +8,9 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S. A geodetic (GNSS/InSAR) study of the 2016-2022 eruptive period of Nevados de Chillán volcano (southern Andes, Chile).
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
+
+Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S. A geodetic (GNSS/InSAR) study of the 2016-2022 eruptive period of Nevados de Chillán volcano (southern Andes, Chile). In prep.
 
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. A joint geodetic-seismological approach to studye the seismic cycle of the Pichilemu fault. In prep.
 
