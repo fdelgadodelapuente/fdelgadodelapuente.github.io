@@ -15,6 +15,11 @@ Episode of unrest at Aniakchak Crater in Alaska during early 2023, with a LOS up
 
 Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2, ALOS-2 and SAOCOM-1 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line).  Updated from Figure 5 in [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction can also explain the deformation signals (Delgado et al., 2018; Phelps et al., 2023).
 
+
+<img style="float: center;" src="/images/ldm_insar_gnss_2003_2024.jpg" width="700">
+
+Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. Triangles are GNSS stations from OVDAS. Time series of ground deformation from ALOS [Le Mevel et al., 2021.](https://link.springer.com/article/10.1007/s00445-021-01457-0)<br> , ENVISAT IM6 and from the MAU2 GNSS station (black triangle in the SAOCOM-1 interferogram).
+
 <!--
 <img style="float: center;" src="../images/modelfits.jpg">
 
