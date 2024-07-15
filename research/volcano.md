@@ -18,7 +18,7 @@ Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-Sky
 
 <img style="float: center;" src="/images/ldm_insar_gnss_2003_2024.jpg" width="700">
 
-Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. Triangles are GNSS stations from OVDAS. Time series of ground deformation from ALOS ([Le Mevel et al., 2021](https://link.springer.com/article/10.1007/s00445-021-01457-0)), ENVISAT IM6 data and from the MAU2 GNSS station (black triangle in the SAOCOM-1 interferogram). The GNSS data were processed with the PPP-AR algorithm with the Bernese software by Centro Sismológico Nacional, Universidad de Chile. All the InSAR data can be easily processed with the stripmapApp.py and stripmap stack processor modules of the ISCE software.
+Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. Triangles are GNSS stations from OVDAS. Time series of ground deformation spanning 2003 to 2024 from ALOS ([Le Mevel et al., 2021](https://link.springer.com/article/10.1007/s00445-021-01457-0)), ENVISAT IM6 data and from the MAU2 GNSS station (black triangle in the SAOCOM-1 interferogram). The GNSS data were processed with the PPP-AR algorithm with the Bernese software by Centro Sismológico Nacional, Universidad de Chile. All the InSAR data can be easily processed with the stripmapApp.py and stripmap stack processor modules of the ISCE software.
 
 <!--
 <img style="float: center;" src="../images/modelfits.jpg">
