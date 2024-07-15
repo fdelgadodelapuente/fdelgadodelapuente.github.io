@@ -120,6 +120,12 @@ This aerticle has been highlighted in the Research Spotlight section of the AGU 
 
 Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades) can be used to construct high resolution DEMs (2 - 10 m/pixel). These data sets provide insights on the extrusion rates of both lava flows and domes, and changes in the glacier that cover many volcanoes. 
 
+
+
+<img style="float: center;" src="/images/SN_TDX_Pleiades_diff_zoom.png">
+
+Differential DEMs betwwen a TanDEM-X CoSSC and the 12 m TanDEM-X DEM, and between the 12 m TanDEM-X DEM and the 2000 SRTM DEM spanning the 2005 and 2018 eruptions of Sierra Negra caldera (Shreve and Delgado, 2023; Galetto et al., 2024).
+
 <img style="float: center;" src="/images/Pleiades_DSM_2m_geo.dem_web.png">
 
 Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the Cordon Caulle graben.
