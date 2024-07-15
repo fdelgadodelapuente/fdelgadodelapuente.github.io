@@ -128,7 +128,7 @@ Differential DEMs betwwen a TanDEM-X CoSSC and the 12 m TanDEM-X DEM, and betwee
 
 <img style="float: center;" src="/images/Pleiades_DSM_2m_geo.dem_web.png">
 
-Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the Cordon Caulle graben.
+Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the Cordon Caulle graben ([Delgado et al., 2019](https://www.sciencedirect.com/science/article/pii/S0012821X19304285)).
 
 <img style="float: center;" src="/images/dDEM.jpg">
 
