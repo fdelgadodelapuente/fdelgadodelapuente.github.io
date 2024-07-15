@@ -124,7 +124,7 @@ Satellite data from either InSAR missions (TanDEM-X, SRTM) or optical (Pléiades
 
 <img style="float: center;" src="/images/SN_TDX_Pleiades_diff_zoom.png">
 
-Differential DEMs betwwen a TanDEM-X CoSSC and the 12 m TanDEM-X DEM, and between the 12 m TanDEM-X DEM and the 2000 SRTM DEM spanning the 2005 and 2018 eruptions of Sierra Negra caldera ([Shreve and Delgado, 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R); Galetto et al., 2024).
+Differential DEMs betwwen a TanDEM-X CoSSC and the 12 m TanDEM-X DEM, and between the 12 m TanDEM-X DEM and the 2000 SRTM DEM spanning the 2005 and 2018 eruptions of Sierra Negra caldera ([Shreve and Delgado, 2023](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R); [Galetto et al., 2024](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/245/)).
 
 <img style="float: center;" src="/images/Pleiades_DSM_2m_geo.dem_web.png">
 
@@ -132,7 +132,7 @@ Pléiades 2 m shaded relief DEM that shows multiple lava flows and domes in the 
 
 <img style="float: center;" src="/images/dDEM.jpg">
 
-Differential DEMs between TanDEM-X and SRTM (a), TanDEM-X and Pléiades (b), and SRTM and Pléiades (c) of Hudson caldera. The extreme ice thinning is due to a combination of both global warming and a potential high heat flux due to magma injection in the volcano. 
+Differential DEMs between TanDEM-X and SRTM (a), TanDEM-X and Pléiades (b), and SRTM and Pléiades (c) of Hudson caldera. The extreme ice thinning is due to a combination of both global warming and a potential high heat flux due to magma injection in the volcano ([Galetto et al., 2024](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/245/)). 
 
 ### **Relevant publications**
 
