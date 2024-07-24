@@ -2,9 +2,9 @@
 
 As part of my volcano research I have used numerical tools of solid and fluid mechanics that have helped me to model geodetic observations in active volcanoes. These tools are required to udnerstand to complexity of geological processess.  I have worked with a variety of models that include elastic, viscoelastic, magma physics in a variety of software including Pylith, COMSOL Multiphyics, DEFVOLC and tools that I have developed in Matlab. I have also developed new analytic models of magma transfer.
 
-<img style="float: center;" src="/images/mesh_load.png" style="width:300px;">
+<img style="float: center;" src="/images/mesh_load.png" style="width:400px;">
 
-Finite element mesh used in a simulation of coupled magma ascent due to pressure inlet Pin and reservoir overpressure Pres.
+Finite element mesh used in a simulation of coupled magma ascent due to pressure inlet Pin and reservoir overpressure Pres. The pressure gradient drives magma flow Q and results in a volume variation ΔV in the reservoir.
 
 <!--## **Physics-based models of effusive eruptions**
 
