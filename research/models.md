@@ -4,7 +4,7 @@ As part of my volcano research I have used numerical tools of solid and fluid me
 
 <img style="float: center;" src="/images/mesh_load.png" style="width:400px;">
 
-Finite element mesh used in a simulation of coupled magma ascent due to pressure inlet Pin and reservoir overpressure Pres. The pressure gradient drives magma flow Q and results in a volume variation ΔV in the reservoir.
+Finite element mesh used in a simulation of coupled magma ascent due to pressure inlet Pin and reservoir overpressure Pres. The pressure gradient drives magma flow Q and results in a volume variation ΔV in the reservoir and time-dependent ground deformation.
 
 <!--## **Physics-based models of effusive eruptions**
 
