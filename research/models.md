@@ -4,7 +4,7 @@ As part of my volcano research I have used numerical tools of solid and fluid me
 
 <img style="float: center;" src="/images/mesh_load.png" style="width:300px;">
 
-Finite element mesh of coupled magma ascent due to pressure inlet Pin and reservoir presurization Pres.
+Finite element mesh used in a simulation of coupled magma ascent due to pressure inlet Pin and reservoir overpressure Pres.
 
 <!--## **Physics-based models of effusive eruptions**
 
