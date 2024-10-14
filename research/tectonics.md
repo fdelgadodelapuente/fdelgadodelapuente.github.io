@@ -11,7 +11,7 @@ Interferograms that span the seismic cyle of the Pichilemu fault (black lines) i
 
 <img style="float: center;" src="/images/sanjuan_s1.jpg">
 
-Sentinel-1 interferogram of the January 2021 Mw 6.4 San Juan earthquake (seismic epicenter is the grey square, and focal mechanism is from GCMT), and time series of cumulative deformation (bottom). This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971)).
+Sentinel-1 interferogram of the January 2021 Mw 6.4 San Juan earthquake (seismic epicenter is the grey square, and focal mechanism is from GCMT), and time series of cumulative deformation (bottom). This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971), León-Ibañez and Delgado, submitted).
 
 <img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg" width="500">
  
