@@ -16,9 +16,9 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of norm
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
-León-Ibañez, P., **Delgado, F.** Strategies for imaging fault deformation with InSAR in the presence of strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake (Andean fold and thrust belt, Argentina). In prep.
-
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from a global survey and three decades of InSAR data in the Andean Southern Volcanic Zone (1993-2024). In prep.
+
+León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juán earthquake (Andean Fold and Thrust Belt, Argentina). Geophysical Research Letters, submitted.
 
 [28. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/257)<br> 
 Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C., **2024**. Volcanica, 7(2), 541–564. doi: 10.30909/vol.07.02.541564.
