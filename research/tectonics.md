@@ -30,6 +30,7 @@ Time series of eastward displacement recorded by two GNSS stations located 7.5 k
 
 ### **Relevant publications**
 
+León-Ibañez, P., Delgado, F. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juán earthquake (Andean Fold and Thrust Belt, Argentina). Geophysical Research Letters, submitted.
 
 [A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
 **Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
