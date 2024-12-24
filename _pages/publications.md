@@ -8,13 +8,14 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
 Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
+
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Submitted.
 
