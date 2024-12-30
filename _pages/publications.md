@@ -17,6 +17,8 @@ Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Compreh
 
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
+Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterisation of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. In prep.
+
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Submitted.
 
 León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juán earthquake (Andean Fold and Thrust Belt, Argentina). Submitted.
