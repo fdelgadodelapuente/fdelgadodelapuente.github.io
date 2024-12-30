@@ -8,7 +8,6 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
