@@ -8,7 +8,7 @@ ALOS-2 SM3 interferogram that shows ~2.5 cm of line-of-sight (LOS) subsidence du
 
 <img style="float: center;" src="/images/saocom_vel_2022_2024.jpg">
 
-SAOCOM-1 interferogram converted to mean vertical velocity that shows 5 cm/yr of subsidence during early 2022 to late 2024 in the city of Colina near Santiago, Chile. The subsidence is most likely due to ground water extraction. This is the fastest anthropogenic subsidence observed so far in Chile.
+SAOCOM-1 interferogram converted to mean vertical velocity (Uz) that shows 5 cm/yr of subsidence during early 2022 to late 2024 in the city of Colina near Santiago, Chile. The subsidence is most likely due to ground water extraction. This is the fastest anthropogenic subsidence observed so far in Chile. The black line is the limit between the Valparaiso and Metropolitana regions of central Chile.
 
 <img style="float: center;" src="/images/cossc_valdivia.png">
 
