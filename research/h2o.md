@@ -13,7 +13,7 @@ SAOCOM-1 interferogram converted to mean vertical velocity (Uz) that shows 5 cm/
 <img style="float: center;" src="/images/cossc_valdivia.png">
 
 
-CoSSC TanDEM-X bistatic interferogram that shows elevation changes as phase differences (in radians) with respect to a reference topography (Copernicus 30 m DEM). The elevation changes are due to the logging industry near the city of Valdivia, Chile. 
+CoSSC TanDEM-X bistatic interferogram that shows elevation changes as phase differences (in radians) with respect to a reference topography (Copernicus 30 m DEM). The elevation changes are due to the logging industry near the city of Valdivia, Chile.  Note that the elevation changes are shown as units of wrapped phase in radians.
 
 ### **Relevant publications**
 
