@@ -27,8 +27,10 @@ My main research areas are InSAR geodesy applied to crustal deformation, volcano
 <p style="font-size:small">System of non-homogenenous linear differential equations that predicts the pressure change in two pressurized reservois below Yellowstone caldera.</p> 
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/insar">InSAR geodesy</a></b></h2> 
-<img style="float: center;" src="/images/range_res_Lband.png" style="width:400px;">
-<p style="font-size:small">Comparison of the slant range resolution for C-, and L-band platforms.</p> 
+<img style="float: center;" src="/images/nisar2022.jpg" style="width:400px;">
+<p style="font-size:small">With NISAR.</p> 
+<!-- <img style="float: center;" src="/images/range_res_Lband.png" style="width:400px;">
+<p style="font-size:small">Comparison of the slant range resolution for C-, and L-band platforms.</p> -->
 
 <h2><b><a href="https://fdelgadodelapuente.github.io/research/glacier">Glaciology</a></b></h2> 
 <img style="float: center;" src="/images/Aysen2011_244.JPG" style="width:500px;">
