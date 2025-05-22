@@ -31,7 +31,7 @@ Time series of eastward displacement recorded by two GNSS stations located 7.5 k
 -->
 <img style="float: center;" src="/images/gnss_lsqfitCdinv_atanfit.png">
 
-Fault parallel velocities from continuous GNSS as a function of the distance from the left lateral strike-slip Magallanes Fagnano fault trace. The black line is the synthetic velocity predicted by the best-fit infinitely long vertical screw dislocation model.  
+Fault parallel velocities from continuous GNSS as a function of the distance from the trace of the left lateral strike-slip Magallanes Fagnano. The black line is the synthetic velocity predicted by the best-fit infinitely long vertical screw dislocation model.  
 
 ### **Relevant publications**
 
