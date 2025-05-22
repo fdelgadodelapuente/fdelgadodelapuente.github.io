@@ -26,9 +26,11 @@ Fence displaced ~6 m by the 1949 Mw ~7.2 sinistral doublet in the Magallanes Fag
 12 m shaded relief TanDEM-X DEM of spanning the Magallanes Fagnano fault. The red arrows show a ~25 km long segment of the 1949 rupture.
 
 
-<!--<img style="float: center;" src="/images/U_EW.png">-->
-<img style="float: center;" src="/images/gnss_lsqfitCdinv_atanfit.png">
+<!--<img style="float: center;" src="/images/U_EW.png">
 Time series of eastward displacement recorded by two GNSS stations located 7.5 km north and south from the Magallanes Fagnano fault. The difference of 2 mm/yr in the mean velocity between the two stations is due to the shallow coupling of the fault.
+-->
+<img style="float: center;" src="/images/gnss_lsqfitCdinv_atanfit.png">
+Fault parallel velocities from continuous GNSS as a function of the distance from the left lateral strike-slip Magallanes Fagnano fault trace. The black line is the synthetic velocity predicted by the best-fit infinitely long vertical screw dislocation model.  
 
 ### **Relevant publications**
 
