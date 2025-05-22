@@ -9,9 +9,9 @@ I am interested in the use of InSAR to study active crustal deformation produced
 
 Interferograms that span the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
 
-<img style="float: center;" src="/images/sanjuan_s1.jpg">
+<img style="float: center;" src="/images/s1_dsc_san juan.png">
 
-Sentinel-1 interferogram of the January 2021 Mw 6.4 San Juan earthquake (seismic epicenter is the grey square, and focal mechanism is from GCMT), and time series of cumulative deformation (bottom). This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971), León-Ibañez and Delgado, submitted).
+Sentinel-1 reconstructed interferogram of the January 2021 Mw 6.4 San Juan earthquake (focal mechanism from GCMT), and time series of cumulative deformation (bottom). The interferogram was calculated by fitting a Heaviside function to each pixel in the InSAR time series. This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971), León-Ibañez and Delgado, submitted).
 
 <img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg" width="500">
  
