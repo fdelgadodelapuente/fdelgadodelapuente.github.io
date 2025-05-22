@@ -27,7 +27,7 @@ Fence displaced ~6 m by the 1949 Mw ~7.2 sinistral doublet in the Magallanes Fag
 
 
 <!--<img style="float: center;" src="/images/U_EW.png">-->
-<img style="float: center;" src="/images/gnss_lsqfitCdinv_atanfit.pdf">
+<img style="float: center;" src="/images/gnss_lsqfitCdinv_atanfit.png">
 Time series of eastward displacement recorded by two GNSS stations located 7.5 km north and south from the Magallanes Fagnano fault. The difference of 2 mm/yr in the mean velocity between the two stations is due to the shallow coupling of the fault.
 
 ### **Relevant publications**
