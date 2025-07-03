@@ -8,19 +8,23 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
-
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
 Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
 
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
+
+**Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). In prep.
+
+**Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Submitted.
+
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterisation of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Submitted.
 
-**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Submitted.
+**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, under review.
 
-León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juán earthquake (Andean Fold and Thrust Belt, Argentina). Submitted.
+León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Jua n earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina). Geophysical Journal International, under review.
 
 [28. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/257)<br> 
 Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C., **2024**. Volcanica, 7(2), 541–564. doi: 10.30909/vol.07.02.541564.
