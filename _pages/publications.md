@@ -14,7 +14,7 @@ Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Compreh
 
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. The seismic cycle of normal faults in subduction forearcs: a joint geodetic-seismological approach to study the seismic cycle of the Pichilemu fault. In prep.
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
 
 **Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). In prep.
 
