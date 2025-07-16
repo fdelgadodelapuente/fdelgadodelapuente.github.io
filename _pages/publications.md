@@ -28,7 +28,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 **Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). Geophysical Research Letters, under review.
 
-Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterisation of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
+Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
 
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, under review.
 
