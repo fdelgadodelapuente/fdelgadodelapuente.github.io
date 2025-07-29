@@ -24,7 +24,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Submitted.
+**Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences. under review.
 
 **Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). Geophysical Research Letters, under review.
 
