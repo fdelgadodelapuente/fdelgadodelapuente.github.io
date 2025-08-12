@@ -24,7 +24,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Delgado, F.**., Shreve, T. Response to ``Comment to Shreve and Delgado (2023) - “Trapdoor Fault Activation: A Step Toward Caldera Collapse at Sierra Negra, Galapagos, Ecuador'' by LaFemina et al. (2025). Journal of Geophysical Research, submitted.
+**Delgado, F.**., Shreve, T. Response to Comment to Shreve and Delgado (2023) - “Trapdoor Fault Activation: A Step Toward Caldera Collapse at Sierra Negra, Galapagos, Ecuador'' by LaFemina et al. (2025). Journal of Geophysical Research, submitted.
 
 **Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences. under review.
 
