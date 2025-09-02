@@ -14,5 +14,5 @@ permalink: /isce/
 
 FilterAndCoherenceStackLayover.py for applying the layover mask to interferograms generated with the stripmap stack processor
 
-TanDEM-X CoSSC processor: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
+TanDEM-X CoSSC processor: clunky code to generate bistatic interferograms. The following must be dumped in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
 
