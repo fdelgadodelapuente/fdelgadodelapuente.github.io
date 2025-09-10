@@ -55,18 +55,15 @@ MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, 
 Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
 
 <!-- 
-
-01 Sabancaya 2013   Mw 5 3  TSX        1ifg      2013        NA
-02 Mojopampa 2013   Mw 5.9  TSX        1ifg      2013        NA
-03 Sabancaya 2013   Mw 5.0  TSX        1ifg      2013        NA
-04 Mojopampa creep  Mw 4.x  TSX        ratemap   2019        NA          
-04 Pichilemu 2010   Mw 7.0  ALOS/ENV   ifgs      2020-2023   NA/slip joint inversion
-05 Chiloé 2016      Mw 7.6  S1/ALOS2   ifgs      2020        slip joint inversion 
-06 Humahuaca 2020   Mw 5.8  S1/SAOCOM  ifgs      2020-2023   NA (model not published)
-07 San Juan 2021    Mw 6.4  S1/SAOCOM  TS        2023-2025   NA/slip
-08 Turquía 2023     Mw 7.7  ALOS-2/SAOCOM  ifgs  2023           
-09 Colombia 2025    Mw 6.4  S1/ALOS-2/4 ifgs     2025 
+01 Sabancaya 2013   Mw 5 3  TSX            1ifg      2013        NA
+02 Mojopampa 2013   Mw 5.9  TSX            1ifg      2013        NA
+03 Sabancaya 2013   Mw 5.0  TSX            1ifg      2013        NA
+04 Mojopampa creep  Mw 4.x  TSX            ratemap   2019        NA          
+04 Pichilemu 2010   Mw 7.0  ALOS/ENV       ifgs      2020-2023   NA/slip joint inversion
+05 Chiloé 2016      Mw 7.6  S1/ALOS2       ifgs      2020        slip joint inversion 
+06 Humahuaca 2020   Mw 5.8  S1/SAOCOM      ifgs      2020-2023   NA (model not published)
+07 San Juan 2021    Mw 6.4  S1/SAOCOM      TS        2023-2025   NA/slip
+08 Turquía 2023     Mw 7.7  ALOS-2/SAOCOM  ifgs      2023           
+09 Colombia 2025    Mw 6.4  S1/ALOS-2/4    ifgs      2025 
 10 FMM gnss
-
-
      -->
