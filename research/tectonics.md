@@ -53,3 +53,19 @@ MacQueen, P., **Delgado, F.**, Reath, K., Pritchard, M., Lundgren, P., Milillo, 
 
 [Deformation and seismicity near Sabancaya volcano, southern Peru, from 2002 to 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)<br>
 Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Aguilar , V. <i>Geophys. Res. Lett.</i>. **2015**, 42, 2780–2788. doi: 10.1002/2015GL063589.
+
+<!-- 
+
+01 Sabancaya mw 5 3 2013
+02 Sabancaya mw 5.9 2013
+03 Sabancaya mw 5.0 2013
+04 Pichilemu mw 7 (2 ifg) 2020-2023
+05 Chiloé 2016 mw 7.6 2020
+06 Humahuaca mw 5.8 2021-2023 n/a
+07 San Juan mw 6.4 2023-2025
+08 Turquía 2023 mw 7.7 2023
+09 Colombia 2025 mw 6.4 alos2/4 2025
+10 FMM gnss
+
+
+     -->
