@@ -32,9 +32,9 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
 
-**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, under review.
+**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, major revisions.
 
-León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Jua n earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina). Geophysical Journal International, under review.
+León-Ibañez, P., **Delgado, F.** Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Jua n earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina). Geophysical Journal International, minor revisions.
 
 [28. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/257)<br> 
 Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C., **2024**. Volcanica, 7(2), 541–564. doi: 10.30909/vol.07.02.541564.
