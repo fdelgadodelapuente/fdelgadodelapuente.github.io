@@ -5,6 +5,12 @@
 
 I am interested in the use of InSAR to study active crustal deformation produced by both tectonic and volcano-tectonic processes. Geodetic data can provides critical information not available by point source seismic inversions like the complexity of fault slip in the Earth's surface, evidence for complex rupture geometries and the role of magmatic fluids in aseismic deformation. InSAR also provides insights on large scale mechanisms of deformation across orogens. 
 
+
+<img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg" width="500">
+ 
+TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.9 earthquake in the Mojopampa normal fault NW of Sabancaya volcano (black triangle) in Southern Peru. <!-- InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. --> The geodetic focal mechanism is in agreement with the seismic moment tensor, showing that there is no evidence for fluid-driven deformation ([Jay, Delgado et al., 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)). Wrapped (c) and unwrapped (d) TerraSAR-X mean velocity calculated from InSAR time series from November 2013 to December 2016 showing ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the Mojopampa fault, which is better observed in the wrapped interferogram ([Macqueen, Delgado et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)).
+
+
 <img style="float: center;" src="/images/pichilemu2.jpg">
 
 Interferograms that span the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
@@ -12,10 +18,6 @@ Interferograms that span the seismic cyle of the Pichilemu fault (black lines) i
 <img style="float: center;" src="/images/s1_dsc_san juan.png">
 
 Sentinel-1 reconstructed interferogram of the January 2021 Mw 6.4 San Juan earthquake (focal mechanism from GCMT), and time series of cumulative deformation (bottom). The interferogram was calculated by fitting a Heaviside function to each coherent pixel in the InSAR time series. Arrows indicate non-tectonic deformation signals. This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971), León-Ibañez and Delgado, submitted).
-
-<img style="float: center;" src="/images/tsx_dcoffset_wr_coseismic-768x924.jpg" width="500">
- 
-TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.9 earthquake in the Mojopampa normal fault NW of Sabancaya volcano (black triangle) in Southern Peru. <!-- InSAR shows that the earthquake is of tectonic origin, a curved normal fault with a strike slip component. These details, like the non-planar fault, cannot be inferred by point source models such as those calculated by global earthquake networks like from USGS or GCMT, highlighting the value of having high spatial resolution measurements of ground deformation. --> The geodetic focal mechanism is in agreement with the seismic moment tensor, showing that there is no evidence for fluid-driven deformation ([Jay, Delgado et al., 2015](http://onlinelibrary.wiley.com/doi/10.1002/2015GL063589/full)). Wrapped (c) and unwrapped (d) TerraSAR-X mean velocity calculated from InSAR time series from November 2013 to December 2016 showing ~4-5 cm of uplift produced by a deep inflating source beneath Hualca Hualca volcano. The inflation likely triggers aseismic afterslip in the Mojopampa fault, which is better observed in the wrapped interferogram ([Macqueen, Delgado et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JB019281)).
 
 ## **Strike slip faults**
 <img style="float: center;" src="/images/1949fence.JPG">
