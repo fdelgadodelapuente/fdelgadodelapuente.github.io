@@ -56,15 +56,16 @@ Jay, J.A., **Delgado, F.J.**, Torres,  J.L., Pritchard, M.E.,  Macedo,  O., Agui
 
 <!-- 
 
-01 Sabancaya mw 5 3 2013
-02 Sabancaya mw 5.9 2013
-03 Sabancaya mw 5.0 2013
-04 Pichilemu mw 7 (2 ifg) 2020-2023
-05 Chiloé 2016 mw 7.6 2020
-06 Humahuaca mw 5.8 2021-2023 n/a
-07 San Juan mw 6.4 2023-2025
-08 Turquía 2023 mw 7.7 2023
-09 Colombia 2025 mw 6.4 alos2/4 2025
+01 Sabancaya 2013   Mw 5 3  TSX        1ifg      2013        NA
+02 Mojopampa 2013   Mw 5.9  TSX        1ifg      2013        NA
+03 Sabancaya 2013   Mw 5.0  TSX        1ifg      2013        NA
+04 Mojopampa creep  Mw 4.x  TSX        ratemap   2019        NA          
+04 Pichilemu 2010   Mw 7.0  ALOS/ENV   ifgs      2020-2023   NA/slip joint inversion
+05 Chiloé 2016      Mw 7.6  S1/ALOS2   ifgs      2020        slip joint inversion 
+06 Humahuaca 2020   Mw 5.8  S1/SAOCOM  ifgs      2020-2023   NA (model not published)
+07 San Juan 2021    Mw 6.4  S1/SAOCOM  TS        2023-2025   NA/slip
+08 Turquía 2023     Mw 7.7  ALOS-2/SAOCOM  ifgs  2023           
+09 Colombia 2025    Mw 6.4  S1/ALOS-2/4 ifgs     2025 
 10 FMM gnss
 
 
