@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV August 2025](https://drive.google.com/file/d/1CHDt8Hm1Y44C1XkUuB-TTpVlvpXtxiQH/view?usp=share_link)
+[Full CV September 2025](https://drive.google.com/file/d/1aL_wwMIuIVi0eRQkzJoUlEEY1ONqPQ0s/view?usp=share_link)
 
 [ORCID 0000-0002-7528-4437](https://orcid.org/0000-0002-7528-4437)
 
