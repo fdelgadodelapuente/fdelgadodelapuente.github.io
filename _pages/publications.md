@@ -16,6 +16,7 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez
 
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
 
+Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera, L. Long unrest at Laguna del Maule: Linking strain field and seismicity from GNSS and seismic data (2013-2024). In prep.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
