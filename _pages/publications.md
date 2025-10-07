@@ -29,7 +29,7 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 
 **Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). Geophysical Research Letters, major revisions.
 
-**Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences.l, minor revisions.
+**Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences, minor revisions.
 
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, major revisions.
 
