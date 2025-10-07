@@ -33,11 +33,11 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, major revisions.
 
-[30. Response to Comment to Shreve and Delgado (2023) - “Trapdoor Fault Activation: A Step Toward Caldera Collapse at Sierra Negra, Galapagos, Ecuador'' by LaFemina et al. (2025)](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>. 
-**Delgado, F.**., Shreve, T. Journal of Geophysical Research, in press.
-
-[29. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394).<br> 
+[30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394).<br> 
 León-Ibañez, P., **Delgado, F.**, Geophysical Journal International, in press. doi:10.1093/gji/ggaf394
+
+[29. Response to Comment to Shreve and Delgado (2023) - “Trapdoor Fault Activation: A Step Toward Caldera Collapse at Sierra Negra, Galapagos, Ecuador'' by LaFemina et al.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>. 
+**Delgado, F.**., Shreve, T., **2025**. Journal of Geophysical Research, in press. doi:10.1029/2025JB032688
 
 [28. Multiple sources of elevation change during and after the 2011-2012 Cordón Caulle, Chile eruption measured by satellite topographic time series.](https://www.jvolcanica.org/ojs/index.php/volcanica/article/view/257)<br> 
 Lobos-Lillo, D., **Delgado, F.**, Pritchard, M.E., Ruprecht, P.P., Muñoz-Saez, C., **2024**. Volcanica, 7(2), 541–564. doi: 10.30909/vol.07.02.541564.
