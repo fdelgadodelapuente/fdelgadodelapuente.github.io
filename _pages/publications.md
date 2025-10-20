@@ -34,7 +34,7 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, major revisions.
 
 [30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
-León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, in press. doi:10.1093/gji/ggaf394
+León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, in press, doi:10.1093/gji/ggaf394
 
 [29. Response to ''Comment to Shreve and Delgado (2023) - “Trapdoor Fault Activation: A Step Toward Caldera Collapse at Sierra Negra, Galapagos, Ecuador'' by LaFemina et al.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032688)<br>
 **Delgado, F.**., Shreve, T., **2025**. Journal of Geophysical Research: Solid Earth, 130, e2025JB032688. doi:10.1029/2025JB032688
