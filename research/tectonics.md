@@ -40,7 +40,7 @@ Fault parallel velocities from continuous GNSS as a function of the distance fro
 **Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences. under review.
 
 [Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
-León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, ggaf394, doi:10.1093/gji/ggaf394
+León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
 
 [A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
 **Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
