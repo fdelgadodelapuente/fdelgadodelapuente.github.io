@@ -15,9 +15,9 @@ TerraSAR-X wrapped (a) and unwrapped (b) interferogram of the July 17 2013 Mw 5.
 
 Interferograms that span the seismic cyle of the Pichilemu fault (black lines) in Central Chile. This fault ruptured in two Mw 7.0 eqarthquakes triggered by the Mw 8.8 Maule megathrust earthquake in 2010. Thr first interferogram shows no interseismic strain accumulation three years before the earthquake, the second and third interferograms show the coseismic rupture imaged by L-band ALOS and C-band ENVISAT data, and the last two interferograms show stress-driven afterslip triggered by the coseismic rupture during a time span of 3 months.
 
-<img style="float: center;" src="/images/s1_dsc_san juan.png">
+<img style="float: center;" src="/images/ggaf394fig4.jpeg">
 
-Sentinel-1 reconstructed interferogram of the January 2021 Mw 6.4 San Juan earthquake (focal mechanism from GCMT), and time series of cumulative deformation (bottom). The interferogram was calculated by fitting a Heaviside function to each coherent pixel in the InSAR time series. Arrows indicate non-tectonic deformation signals. This earthquake is the largest in the era of InSAR geodesy along the Andean fold and thrut belt, and can only be imaged with InSAR with a Heaviside fit to the time series or from winter to winter interferogram. Phase delays are very strong in 12 day pairs ([Delgado et al., 2024](https://ieeexplore.ieee.org/document/10586971), León-Ibañez and Delgado, under review).
+Reconstructed line-of-sight (LOS) ground displacement for ascending and descending tracks (a and b, respectively). White squares indicate the locations of maximum displacement, while dashed elipses highlight deformation unrelated to the main dislocation. Coloured circles represent the solution of CSLO GNSS station reported by Ammirati et al. (2022) projected to the respective LOS. Focal mechanism is also from Ammirati et al. (2022). Panels (c) and (d) show the Heaviside-like function fit to the maximum displacement data, with vertical dashed line representing the prescribed step at the earthquake date (León-Ibáñez and Delgado, 2025).
 
 ## **Strike slip faults**
 <img style="float: center;" src="/images/1949fence.JPG">
