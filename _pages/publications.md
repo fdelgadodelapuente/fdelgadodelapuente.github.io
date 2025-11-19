@@ -26,7 +26,7 @@ Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera
 
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
 
-**Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of unrest of Aniakchak Crater (Aleutians). Geophysical Research Letters, major revisions.
+**Delgado, F.** Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians). Geophysical Research Letters, major revisions.
 
 **Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences, minor revisions.
 
