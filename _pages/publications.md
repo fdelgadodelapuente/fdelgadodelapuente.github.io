@@ -30,7 +30,7 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 
 **Delgado, F.**, Baez, J. C., León-Ibáñez, P. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS. Journal of South American Earth Sciences, minor revisions.
 
-**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, major revisions.
+**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2024) and a global compilation. Journal of Geophysical Research: Solid Earth, minor revisions.
 
 [30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
 León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
