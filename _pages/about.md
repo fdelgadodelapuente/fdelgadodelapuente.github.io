@@ -26,4 +26,4 @@ Deploying a GNSS station in southernmost Patagonia to study the Magallanes Fagna
 
 <img style="float: center;" src="/images/im2.gif">
 
-Uplift and subsidence at Yellowstone caldera during 2004-2009 with ENVISAT data [Delgado and Grandin, 2021](https://doi.org/10.1029/2021JB022341)<br>
+Uplift and subsidence at Yellowstone caldera during 2004-2009 recorded by the ENVISAT satellite ([Delgado and Grandin, 2021](https://doi.org/10.1029/2021JB022341)<br>).
