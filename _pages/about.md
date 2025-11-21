@@ -22,3 +22,8 @@ My research focuses on the use of space geodetic data to understand a variety of
 Deploying a GNSS station in southernmost Patagonia to study the Magallanes Fagnano fault zone, January 2023.
  
 
+
+
+<img style="float: center;" src="/images/im2.gif">
+
+Uplift at Yellowstone caldera during 2004-2009 with ENVISAT data. 
