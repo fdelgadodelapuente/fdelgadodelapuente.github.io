@@ -33,7 +33,7 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 
 
 [31. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/journal/journal-of-south-american-earth-sciences) <br>
-**Delgado, F.**, Baez, J. C., León-Ibáñez, P.  Journal of South American Earth Sciences, in press.
+**Delgado, F.**, Baez, J. C., León-Ibáñez, P., **2025**.  Journal of South American Earth Sciences, in press.
 
 [30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
 León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
