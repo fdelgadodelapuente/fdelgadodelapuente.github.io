@@ -22,7 +22,7 @@ Examples of 1-day CSK (COSMO-SkyMED) and 2-days UAVSAR interferograms at Villarr
 <img style="float: center;" src="/images/atm_sanjuan.jpeg">
 
 
-Comparison of methods to correct atmospheric phase delays in Sentinel-1 time series interferograms in the Andean fold and thrust belt in Argentina.
+Comparison of methods to correct atmospheric phase delays in Sentinel-1 time series interferograms in the Andean fold and thrust belt in Argentina ([Leon-Ibañez and Delgado, 2025](https://academic.oup.com/gji/article/243/3/ggaf394/8294071?login=false).
 
 <!--
 <img style="float: center;" src="/images/villarrica_eraI.png">
