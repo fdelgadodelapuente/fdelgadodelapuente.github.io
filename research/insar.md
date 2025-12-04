@@ -33,13 +33,13 @@ Comparison of methods to correct atmospheric phase delays in ALOS-1 and CSK inte
 <!--<img style="float: center;" src="/images/caulle_cor.jpg">
 
 
-Coherence comparison for interferograms with 24 and 48 day repeat periods at Cordon Caulle volcano. The data sets are a low resolution wide swath mode (Sentinel-1 Terrain Observation by Progressive Scans, 20 m/pixel) with VV polarization and a high resolution strip map beam (RADARSAT-2 Wide Ultra Fine 12, 2 m/pixel) with HH polarization. The RADARSAT-2 coherence ​is much higher than the Sentinel-1 coherence due to a combination of the higher resolution and the HH polarization. -->
+Coherence comparison for interferograms with 24 and 48 day repeat periods at Cordon Caulle volcano. The data sets are a low resolution wide swath mode (Sentinel-1 Terrain Observation by Progressive Scans, 20 m/pixel) with VV polarization and a high resolution strip map beam (RADARSAT-2 Wide Ultra Fine 12, 2 m/pixel) with HH polarization. The RADARSAT-2 coherence ​is much higher than the Sentinel-1 coherence due to a combination of the higher resolution and the HH polarization. 
 
 <img style="float: center;" src="/images/ambrym.png">
 
 Comparison of X, C and L band data of the 2018 Ambrym dike intrusion and submarine eruption. The coherence of Sentinel-1 data during the eruption is almost zero due to the 2 m of line-of-sight displacement exceeding the deformation gradient of 2pi radians per pixel required to sustain coherence. Therefore L-band data provides the best deformation measurements from InSAR due to its longer wavelength and smaller pixel size. However, the L-band azimuth offsets are corrupted by dispersive ionospheric streaks while azimuth offsets calculated from high resolution stripmap X-band data (2 m/pixel) are not affected by these effects due to their smaller wavelength and nicely show the along-track displacement resulting from the dike opening. The conclusion is that complex eruptions under difficult environmental conditions like tropical rainforest require to use multiplatform SAR data. Data from [Tara Shreve's excellent paper](https://www.nature.com/articles/s41598-019-55141-7) on this outstanding event.
 
-
+-->
 
 <img style="float: center;" src="/images/pichilemu_wr.jpg" width="500">
 
