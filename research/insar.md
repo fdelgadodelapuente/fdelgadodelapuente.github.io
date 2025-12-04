@@ -48,6 +48,10 @@ Comparison of ALOS-1 L-band and ENVISAT C-band data of the Mw 7.0 2011 Pichilemu
 
 ### **Relevant publications**
 
+
+[Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
+León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
+
 [A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
 **Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
 
