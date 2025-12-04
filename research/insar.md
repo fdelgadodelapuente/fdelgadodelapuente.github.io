@@ -8,7 +8,7 @@ InSAR (Interferometric Synthetic Aperture Radar) has revolutionized volcanology 
 <img style="float: center;" src="/images/alos4_colombia_2025.png">
 
 
-ALOS-4 stripmap interferogram wrapped (left) and unwrapped (right) of a Mw 6.4 earthquake in the active fold and thrust belt of the Colombian Andes. I developed a [patch](https://github.com/isce-framework/isce2/pull/982) to read these data into ISCE2.
+ALOS-4 stripmap interferogram wrapped (left) and unwrapped (right) of a Mw 6.4 earthquake in the active fold and thrust belt of the Colombian Andes. I developed a [patch](https://github.com/isce-framework/isce2/pull/982) to read these data into ISCE2. The linear ramp is likely to be ionospheric.
 
 <!--
 On the other hand, volcano deformation is recorded over spatial scales that vary between a few tens of meters to hundreds of kilometers, produced by conduit pressurisation or very shallow sources to lower crustal intrusions. Ice covered volcanoes such as those in the Southern Andes are likely to pressurise only near the volcano summit, in areas where instrument deployments are very difficult due to harsh environmental conditions. These signals require specific acquisition plans to be potentially detectable by InSAR, hence I am also interested on using the complete civilian SAR constellation (TerraSAR-X/TanDEM-X, COSMO-SkyMED, RADARSAT-2, Sentinel-1A/B and ALOS-2) and the unique characteristics of each satellite to better understand volcanic processes over a wide range of spatio-temporal scales.  
