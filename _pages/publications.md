@@ -22,9 +22,10 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera, L. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data. Geophysical Research Letters, submitted.
 
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
+
+Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera, L. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data. Geophysical Research Letters, moderate revisions.
 
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/journal/19448007) <br>
 **Delgado, F.**, **2025**. Geophysical Research Letters, in press.
