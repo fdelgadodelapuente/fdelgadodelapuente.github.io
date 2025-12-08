@@ -26,7 +26,7 @@ Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera
 
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
 
-[33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/journal/19448007) 
+[33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/journal/19448007) <br>
 **Delgado, F.**, **2025**. Geophysical Research Letters, in press.
 
 [32. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
