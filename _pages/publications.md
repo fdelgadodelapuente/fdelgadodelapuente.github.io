@@ -10,7 +10,7 @@ Most of these articles are already open source. If you need a copy of the other 
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
-Symmes-Lopetegui, B., Baez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
+Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
 
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
 
@@ -25,7 +25,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, M. Geophysical Characterization of Magma Storage. Encyclopedia of Volcanoes, 3rd edition. Under review.
 
-Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera, L. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data. Geophysical Research Letters, moderate revisions.
+Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data. Geophysical Research Letters, moderate revisions.
 
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/journal/19448007) <br>
 **Delgado, F.**, **2025**. Geophysical Research Letters, in press.
@@ -34,7 +34,7 @@ Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Baez, J.C., Pottin, B., Cabrera
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S., **2025**. Journal of Geophysical Research: Solid Earth, 130, e2025JB032010, doi:10.1029/2025JB032010.
 
 [31. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
-**Delgado, F.**, Baez, J. C., León-Ibáñez, P., **2025**.  Journal of South American Earth Sciences, doi:10.1016/j.jsames.2025.105889. [Free access link.](https://authors.elsevier.com/a/1mBUA3BkFShd3C)
+**Delgado, F.**, Báez, J. C., León-Ibáñez, P., **2025**.  Journal of South American Earth Sciences, doi:10.1016/j.jsames.2025.105889. [Free access link.](https://authors.elsevier.com/a/1mBUA3BkFShd3C)
 
 [30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
 León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
