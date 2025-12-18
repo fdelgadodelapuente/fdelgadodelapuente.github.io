@@ -37,7 +37,7 @@ Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrer
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010) <br>
 **Delgado, F.**, **2025**. Geophysical Research Letters, 52, e2025GL117786. doi:10.1029/2025GL117786.
 
-[32. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
+[32. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010)<br>
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S., **2025**. Journal of Geophysical Research: Solid Earth, 130, e2025JB032010, doi:10.1029/2025JB032010.
 
 [31. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
