@@ -6,8 +6,8 @@ author_profile: true
 
 <!-- 
 1. Kilauea 2026
-2. CHS SAocom velo 3D, 2027?
-3. Villarrica sometime?
+2. Villarrica 2026
+3. CHS SAocom velo 3D, 2027?
 4. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
 5. GIA WD1/NISAR -->
 
