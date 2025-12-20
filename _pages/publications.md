@@ -7,11 +7,10 @@ author_profile: true
 <!-- 
 3. CHS SAocom velo 3D, 2027?
 4. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
-5. GIA WD1/NISAR -->
+5. GIA Patagonia WD1/NISAR -->
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
-\Large 
 
 **Delgado, F.**. InSAR constraints on the 2018 Leilani Estates eruption and Kilauea summit caldera collapse. In prep.
 
