@@ -5,13 +5,15 @@ author_profile: true
 ---
 
 <!-- 
-1. Kilauea 2026
-2. Villarrica 2026
 3. CHS SAocom velo 3D, 2027?
 4. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
 5. GIA WD1/NISAR -->
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
+
+\Large 
+
+**Delgado, F.**. An in-depth InSAR analysis of the 2018 eruption of Kilauea caldera. In prep.
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
