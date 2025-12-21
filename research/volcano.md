@@ -34,11 +34,11 @@ Distributed sill opening model for 2004-2009 for Yellowstone caldera. The total 
 ### **Relevant publications**
 
 
-[A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
-**Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M., **2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
+[33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) <br>
+**Delgado, F.**, **2025**. Geophysical Research Letters, 52, e2025GL117786. doi:10.1029/2025GL117786.
 
-[First onset of unrest captured geodetically at Socompa Volcano, Northern Chile.](https://agupubs.onlinelibrary.wiley.com/journal/19448007)<br>
-Liu, F., Elliott, J. R., Ebmeier, S. K., Craig, T. J., Hooper, A., Novoa Lizama, C., **Delgado, F.**. Geophysical Research Letters, **2023**, doi: 10.1029/2022GL102480.
+[32. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010)<br>
+**Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S., **2025**. Journal of Geophysical Research: Solid Earth, 130, e2025JB032010, doi:10.1029/2025JB032010.
 
 [Dynamics of episodic magma injection and migration at Yellowstone caldera: revisiting the 2004-2009 episode of  caldera uplift with InSAR and GPS.](https://doi.org/10.1029/2021JB022341)<br>
 **Delgado, F.**, Grandin, R., 2021. Journal of Geophysical Research: Solid Earth, 126, e2021JB022341. https://doi.org/10.1029/2021JB022341.
