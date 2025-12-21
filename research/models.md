@@ -18,6 +18,8 @@ Numerical simulation of a physics-based model with variable amounts of complexit
 
 ### **Relevant publications**
 
+[Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) <br>
+**Delgado, F.**, **2025**. Geophysical Research Letters, 52, e2025GL117786. doi:10.1029/2025GL117786.
 
 [Trapdoor fault activation: a step towards caldera collapse at Sierra Negra, Galápagos, Ecuador.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JB026437?af=R)<br>
 Shreve, T., **Delgado, F.**. Journal of Geophysical Research, **2023**, 128, e2023JB026437, doi:10.1029/2023JB026437.
