@@ -9,13 +9,14 @@ author_profile: true
 2. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
 3. GIA Patagonia WD1/NISAR 
 
-4. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
-5. Hudson FEM NISAR DEM viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano. L-band/DEM time series. FEM deglaciacion y relajacion viscoelastica desde 1993
-6. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
-7. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
-8. Nilahue TS
-9. Creep Mojopampa (Pablo)
-10. Paretebueno (Pablo)
+4. Creep Mojopampa (Pablo)
+5. Paretebueno (Pablo)
+
+6. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
+7. Hudson FEM L-band/DEM time series viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano.
+8. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
+9. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
+10. Nilahue TS
 -->
 
 
