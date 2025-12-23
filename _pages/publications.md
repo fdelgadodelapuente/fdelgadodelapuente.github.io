@@ -7,7 +7,16 @@ author_profile: true
 <!-- 
 3. CHS SAocom velo 3D, 2027?
 4. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
-5. GIA Patagonia WD1/NISAR -->
+5. GIA Patagonia WD1/NISAR 
+
+6. Caulle FEM with NISAR and GNSS (Matias/Josefa)
+7. Hudson FEM NISAR DEM viscoelastic (Matias)
+8. Okmok FEM (Matias)
+9. Sundhnukkur (Matias)
+10. Nilahue TS
+-->
+
+
 
 Most of these articles are already open source. If you need a copy of the other ones, send me an email.
 
