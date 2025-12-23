@@ -5,15 +5,17 @@ author_profile: true
 ---
 
 <!-- 
-3. CHS SAocom velo 3D, 2027?
-4. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
-5. GIA Patagonia WD1/NISAR 
+1. CHS SAocom velo 3D, 2027?
+2. Flujo acoplado dike-reservor (Kilauea, sierra negra, bardarbunga, Segall, Roman)
+3. GIA Patagonia WD1/NISAR 
 
-6. Caulle FEM with NISAR and GNSS (Matias/Josefa)
-7. Hudson FEM NISAR DEM viscoelastic (Matias)
-8. Okmok FEM (Matias)
-9. Sundhnukkur (Matias)
-10. Nilahue TS
+4. Caulle FEM with NISAR and GNSS (Matias/Josefa)
+5. Hudson FEM NISAR DEM viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano
+6. Okmok FEM (Matias)
+7. Sundhnukkur (Matias)
+8. Nilahue TS
+9. Creep Mojopampa (Pablo)
+10. Paretebueno (Pablo)
 -->
 
 
