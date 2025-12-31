@@ -7,6 +7,7 @@ author_profile: true
 <!-- 
 1. CHS SAocom velo 3D, 2027?
 2. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
+2.2 kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
 3. GIA Patagonia WD1/NISAR 
 
 4. Creep Mojopampa (Pablo)
