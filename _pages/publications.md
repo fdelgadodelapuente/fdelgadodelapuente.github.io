@@ -49,13 +49,13 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data. Geophysical Research Letters, moderate revisions.
 
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) <br>
-**Delgado, F.**, **2025**. Geophysical Research Letters, 52, e2025GL117786. doi:10.1029/2025GL117786.
+**Delgado, F.**, **2026**. Geophysical Research Letters, 53, e2025GL117786. doi:10.1029/2025GL117786.
 
-[32. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010)<br>
+[32. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
+**Delgado, F.**, Báez, J. C., León-Ibáñez, P., **2026**.  Journal of South American Earth Sciences, 169, 105889, doi:10.1016/j.jsames.2025.105889. [Free access link.](https://authors.elsevier.com/a/1mBUA3BkFShd3C)
+
+[31. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010)<br>
 **Delgado, F.**, León-Ibañez, P., Báez, J.C., Parra, S., **2025**. Journal of Geophysical Research: Solid Earth, 130, e2025JB032010, doi:10.1029/2025JB032010.
-
-[31. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
-**Delgado, F.**, Báez, J. C., León-Ibáñez, P., **2025**.  Journal of South American Earth Sciences, doi:10.1016/j.jsames.2025.105889. [Free access link.](https://authors.elsevier.com/a/1mBUA3BkFShd3C)
 
 [30. Resolving ground deformation of a blind mid-crustal earthquake with InSAR amid strong phase delays: a case study of the 2021 Mw 6.4 San Juan earthquake and implications for a non-optimal fault reactivation (Andean Fold and Thrust Belt, Argentina).](https://doi.org/10.1093/gji/ggaf394)<br> 
 León-Ibañez, P., **Delgado, F.**, **2025**. Geophysical Journal International, 243, 3, ggaf394, doi:10.1093/gji/ggaf394
