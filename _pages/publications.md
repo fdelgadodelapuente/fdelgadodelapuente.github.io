@@ -27,8 +27,6 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**. InSAR constraints on the 2018 Leilani Estates eruption and Kilauea summit caldera collapse. In prep.
 
-
-
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
 **Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
