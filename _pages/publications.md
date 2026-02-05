@@ -27,16 +27,19 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**. InSAR constraints on the 2018 Leilani Estates eruption and Kilauea summit caldera collapse. In prep.
 
+
+
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
+
+**Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
+
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
 Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
 
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
-
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
