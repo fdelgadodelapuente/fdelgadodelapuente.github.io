@@ -29,9 +29,9 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-**Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
-
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
+
+**Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
 
