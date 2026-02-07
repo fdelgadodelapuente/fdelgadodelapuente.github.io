@@ -48,7 +48,7 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez
 
 
 [35. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data.](https://agupubs.onlinelibrary.wiley.com/journal/19448007) <br> 
-Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L. 2026. Geophysical Research Letters, in press.
+Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L. **2026**. Geophysical Research Letters, doi:10.1029/2025GL120184. in press.
 
 [34. Geophysical Characterization of Magma Storage. ]()<br>
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, in press.
