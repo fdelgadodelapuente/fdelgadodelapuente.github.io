@@ -51,7 +51,7 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, in press.
 
 [34. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) <br> 
-Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L. **2026**. Geophysical Research Letters, 53, e2025GL120184, doi:10.1029/2025GL120184.
+Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L., Alarcón, A. **2026**. Geophysical Research Letters, 53, e2025GL120184, doi:10.1029/2025GL120184.
 
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) <br>
 **Delgado, F.**, **2026**. Geophysical Research Letters, 53, e2025GL117786. doi:10.1029/2025GL117786.
