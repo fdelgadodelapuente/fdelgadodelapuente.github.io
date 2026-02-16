@@ -11,15 +11,15 @@ author_profile: true
 
 
 <img style="float: center;" src="/images/matias.JPG" style="width:300px;">
-<p style="font-size:small">Matias Arriagada (PhD Geology). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.</p>
+<p style="font-size:small">Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.</p>
 
 
 <img style="float: center;" src="/images/pablo_reja.JPG" style="width:300px;">
-<p style="font-size:small">Pablo Leon (PhD Geology). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
+<p style="font-size:small">Pablo Leon (PhD Geology, 2027). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
 
 
 <img style="float: center;" src="/images/DSC_0771.jpg" style="width:300px;">
-<p style="font-size:small">Luis Godoy (MSc Geology). Ground subsidence due to aquifer depletion in Central Chile.</p>
+<p style="font-size:small">Luis Godoy (MSc Geology, 2026). Ground subsidence due to aquifer depletion in Central Chile.</p>
 
 
 ## **Alumni**
