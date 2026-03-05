@@ -23,7 +23,7 @@ Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms conver
 
 
 <img style="float: center;" src="/images/ts_svz_1993_2026.png">
-InSAR and GNSS time series of volcano deformation in the Southern Andes spanning more than three decades.
+InSAR and GNSS time series of ground deformation for selected volcanoes in the Southern Andes spanning more than three decades. Panels A-D are from  [Delgado et al., 2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010), E) ([Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184))
 
 
 <!--
