@@ -19,7 +19,12 @@ Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-Sky
 
 <img style="float: center;" src="/images/ldm_insar_im6_gnss_2003_2025_saocom_20192025.jpg" width="700">
 
-Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. ENVISAT IM6 velocity calculated from InSAR time series. Triangles are GNSS stations from OVDAS. Time series of ground deformation spanning 2003 to 2025 from ALOS, ENVISAT IM6 data and from the [MAU2](http://fdelgadodelapuente.github.io/MAU2.txt) GNSS station (largest triangle in the ALOS interferogram). The ellpise and star are the best-fit prolate spheroid and its centroid that can model horizontal GNSS vectors. Updated fom [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) and from the upcoming 3rd editionn of Encyclopedia of Volcanoes.
+Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. ENVISAT IM6 velocity calculated from InSAR time series. Triangles are GNSS stations from OVDAS. Time series of ground deformation spanning 2003 to 2025 from ALOS, ENVISAT IM6 data and from the [MAU2](http://fdelgadodelapuente.github.io/MAU2.txt) GNSS station (largest triangle in the ALOS interferogram). The ellpise and star are the best-fit prolate spheroid and its centroid that can model horizontal GNSS vectors. Updated fom [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) and from the upcoming 3rd edition of Encyclopedia of Volcanoes.
+
+
+<img style="float: center;" src="/images/ts_svz_1993_2026.pdf" width="700">
+InSAR and GNSS time series of volcano deformation in the Southern Andes spanning more than three decades.
+
 
 <!--
 <img style="float: center;" src="../images/modelfits.jpg">
