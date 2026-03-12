@@ -19,11 +19,9 @@ Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in 
 
 <p style="font-size:small">Catalina Reyes (Honors thesis Civil Engineering, 2027). L-band InSAR over glaciers.</p>
 
-<img style="float: center;" src="/images/DSC_0771.jpg" style="width:300px;">
-<p style="font-size:small">Luis Godoy (MSc Geology, 2026). Ground subsidence due to aquifer depletion in Central Chile.</p>
-
 
 ## **Alumni**
+<p style="font-size:small">Luis Godoy (MSc Geology, 2026). Ground subsidence due to aquifer depletion in Central Chile.</p>
 
 <p style="font-size:small">Joaquín Castillo (MSc Geology, 2024). Ground subsidence in the Salar de Atacama basin and its relation with aquifer depletion.</p>
 
