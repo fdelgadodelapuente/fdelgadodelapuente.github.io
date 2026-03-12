@@ -8,7 +8,8 @@ author_profile: true
 <img style="float: center;" src="/images/eyja2.jpg" style="width:300px;">
 <p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
 
-Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.
+
+<p style="font-size:small">Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.</p>
 
 <img style="float: center;" src="/images/pablo_reja.JPG" style="width:300px;">
 <p style="font-size:small">Pablo Leon (PhD Geology, 2027). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
