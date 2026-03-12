@@ -15,6 +15,8 @@ Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in 
 <img style="float: center;" src="/images/pablo_reja.JPG" style="width:300px;">
 <p style="font-size:small">Pablo Leon (PhD Geology, 2027). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
 
+<p style="font-size:small">Gabriel del Rio (Honors thesis Natural Resources Engineering, 2026).  InSAR in salars.</p>
+
 <p style="font-size:small">Catalina Reyes (Honors thesis Civil Engineering, 2026). L-band InSAR over glaciers.</p>
 
 <img style="float: center;" src="/images/DSC_0771.jpg" style="width:300px;">
