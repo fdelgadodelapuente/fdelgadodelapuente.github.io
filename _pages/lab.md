@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <img style="float: center;" src="/images/eyja2.jpg" style="width:300px;">
-<p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, satellites.</p>
+<p style="font-size:small">Francisco Delgado. Volcanoes, active faults, earthquakes, glaciers, satellites, algorithms.</p>
 
 
 <p style="font-size:small">Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.</p>
