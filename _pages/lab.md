@@ -31,6 +31,8 @@ Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in 
 
 <p style="font-size:small">Rodrigo Hermosilla (Honors thesis, 2024). Plumbing system structure of Wolf volcano imaged during the 2022 eruption.</p>
 
+<p style="font-size:small">Camila Monge (Honors thesis, 2024). Small magnitude megathrust earthquakes with InSAR in Central Chile.</p>
+
 <p style="font-size:small">Milton Quinteros (Honors thesis, 2022). Lava lake dynamics: two decades episodic magma injections constrained with multiparametric observartions at Villarrica volcano.</p>
 
 <p style="font-size:small">Sofía Parra (Honors thesis, 2022). Mechanisms of basaltic magma storage during 2014-2021 at Cordon Caulle volcano constrained with InSAR time series.</p>
