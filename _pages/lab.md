@@ -17,7 +17,7 @@ Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in 
 
 <p style="font-size:small">Gabriel del Rio (Honors thesis Natural Resources Engineering, 2026).  InSAR in salars.</p>
 
-<p style="font-size:small">Catalina Reyes (Honors thesis Civil Engineering, 2026). L-band InSAR over glaciers.</p>
+<p style="font-size:small">Catalina Reyes (Honors thesis Civil Engineering, 2027). L-band InSAR over glaciers.</p>
 
 <img style="float: center;" src="/images/DSC_0771.jpg" style="width:300px;">
 <p style="font-size:small">Luis Godoy (MSc Geology, 2026). Ground subsidence due to aquifer depletion in Central Chile.</p>
@@ -31,7 +31,7 @@ Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in 
 
 <p style="font-size:small">Rodrigo Hermosilla (Honors thesis, 2024). Plumbing system structure of Wolf volcano imaged during the 2022 eruption.</p>
 
-<p style="font-size:small">Camila Monge (Honors thesis, 2024). Small magnitude megathrust earthquakes with InSAR in Central Chile.</p>
+<p style="font-size:small">Camila Monge (Honors thesis Geophysics, 2024). Small magnitude megathrust earthquakes with InSAR in Central Chile.</p>
 
 <p style="font-size:small">Milton Quinteros (Honors thesis, 2022). Lava lake dynamics: two decades episodic magma injections constrained with multiparametric observartions at Villarrica volcano.</p>
 
