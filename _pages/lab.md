@@ -22,6 +22,8 @@ author_profile: true
 ## **Alumni**
 <p style="font-size:small">Luis Godoy (MSc Geology, 2026). Ground subsidence due to aquifer depletion in Central Chile.</p>
 
+<p style="font-size:small">Mauro Navarrete (MSc Geophysics, 2025). Seismo-geodetic analysis of the inflating Laguna del Maule volcanic field.</p>
+
 <p style="font-size:small">Joaquín Castillo (MSc Geology, 2024). Ground subsidence in the Salar de Atacama basin and its relation with aquifer depletion.</p>
 
 <p style="font-size:small">Gabriela Herrera (MSc Geophysics, 2024). The seismic cycle of the Pichilemu fault, and joint seismic-geodetic source models of its Mw Mw 6.9 earthquake.</p>
