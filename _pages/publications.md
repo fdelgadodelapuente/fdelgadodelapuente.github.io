@@ -19,7 +19,7 @@ author_profile: true
 9. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
 10. Nilahue TS
 
-ALOS-2/NISAR Denali  transicion entre intersismico y postsismico
+ALOS-2/NISAR Denali transicion entre intersismico y postsismico
 
 -->
 
