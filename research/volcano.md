@@ -22,8 +22,9 @@ Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-Sky
 Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. ENVISAT IM6 velocity calculated from InSAR time series. Triangles are GNSS stations from OVDAS. Time series of ground deformation spanning 2003 to 2025 from ALOS, ENVISAT IM6 data and from the [MAU2](http://fdelgadodelapuente.github.io/MAU2.txt) GNSS station (largest triangle in the ALOS interferogram). The ellpise and star are the best-fit prolate spheroid and its centroid that can model horizontal GNSS vectors. Updated fom [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) and from the upcoming 3rd edition of Encyclopedia of Volcanoes.
 
 
-<img style="float: center;" src="/images/ts_svz_1993_2026.png">
-InSAR and GNSS time series of ground deformation for selected volcanoes in the Southern Andes spanning more than three decades. Panels A-D are taken from Delgado et al.(2025), E from Navarrete et al., (2026) and the other two include data from the OVDAS GNSS network processed by CSN.
+<img style="float: center;" src="/images/ts_svz_1993_2026_8volcs.png">
+InSAR and GNSS time series of ground deformation for selected volcanoes in the Southern Andes spanning more than three decades. Panels A-D are taken from Delgado et al.(2025), and for Chaitén I also include an additional SAOCOM-1 interferogram spanning 2022/11 to 2025/11. E is taken from Navarrete et al., (2026). Panel F includes a GNSS baseline time series  from the OVDAS GNSS network processed by CSN, and ENVISAT/ALOS from Delgado et al., (2017). These InSAR data are very low quality and don't show clear deformation, so I'm only highlighting the time interval they span. Data in G are from a paper that will be submitted for review before April 26th. It also includes some crappy ENVISAT and ALOS data that I've processed over the years. H are compiled from Velez et al., 2011; Lundgren et al., 2017 and Cabrera et al., 2024.
+
 
 
 <!--
