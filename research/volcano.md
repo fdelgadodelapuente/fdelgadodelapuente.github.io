@@ -4,8 +4,15 @@
 
 ## **Mechanics of magma storage and transport**
 
-The migration and storage of magma in the upper crust results in stress build up that can eventually lead in an eruption.  However, the conditions that lead to eruptions are highly dependent on the volcano evolution, source geometry, the amount of intruded magma, the presence of fluids that can easily be remobilized in a crystal mush, and rheological state among other parameters. The stress changes can be tracked with ground deformation data, and I use these observations to study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models.  <!--I have studied magma intrusion with InSAR data at several volcanoes in the Central and Southern Andes including the famous Villarrica, Cordon Caulle, Calbuco, Chaiten, and at Yellowstone caldera. 
--->
+The migration and storage of magma in the upper crust results in stress build up that can eventually lead in an eruption.  However, the conditions that lead to eruptions are highly dependent on the volcano evolution, source geometry, the amount of intruded magma, the presence of fluids that can easily be remobilized in a crystal mush, and rheological state among other parameters. The stress changes can be tracked with ground deformation data, and I use these observations to study magma transport and storage by means of satellite geodesy using a combination of InSAR data, numerical and analytic inverse models.  
+
+
+<img style="float: center;" src="/images/ts_svz_1993_2026_8volcs.png">
+InSAR and GNSS time series of ground deformation for selected volcanoes in the Southern Andes spanning more than three decades. Panels A-D are taken from Delgado et al.(2025), and for Chaitén I also include an additional SAOCOM-1 interferogram spanning 2022/11 to 2025/11. Data in E is from  [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184). Data in F includes a GNSS baseline time series from the OVDAS network processed by CSN, and ENVISAT/ALOS from Delgado et al., (2017). These InSAR data are very low quality and don't show clear deformation, so I'm only highlighting the time interval they span. Data in G are from a paper that will be submitted for review before April 26th. It also includes some ENVISAT and ALOS data that I have processed over the years. Data in H are compiled from Velez et al., (2011); Lundgren et al., (2017) and Cabrera et al., (2024).
+
+The compilation shows a variety of deformation mechanisms including secular deflation due to hydrothegrmal activity interrupted by transient episodes of magma injection (Copahue and Nevados de Chillan), coeruptive deflation during eruptions (Chaiten, Cordon Caulle, Calbuco), continuous inflation due to magma injection and/or viscoelastic relaxation after Plinian/sub-Plinian eruptions (Hudson, Cordon Caulle), near continuous injection of magma (Laguna del Maule) and one episode of trasient uplift after the 2015 eruption of Villarrica volcano.
+
+
 
 <img style="float: center;" src="/images/aniakchak_Lband.jpg" width="700">
 
@@ -16,17 +23,11 @@ Episode of unrest at Aniakchak Crater in Alaska during early 2023, with a LOS up
 
 Time series of uplift at Cordon Caulle volcano measured by Sentinel-1, COSMO-SkyMED, RADARSAT-2, ALOS-2 and SAOCOM-1 ascending (asc) and descending (dsc) data after its 2011-2012 eruption (vertical black dashed line).  Updated from Figure 5 in [Delgado, 2020.](https://www.sciencedirect.com/science/article/abs/pii/S0895981120303849)<br> The black dots show the horizontal baseline change between two GPS stations in the volcano. The black line shows an exponential fit to the COSMO-SkyMED data during 2012-2015 and is strong evidence for a mechanism of magma injection in a shallow pressurized reservoir. Magma injection is likely responsible for the four pulses of ground uplift, although other mechanisms like viscoelastic relaxation and poroelastic mush extraction can also explain the deformation signals ([Delgado et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB016240); [Phelps et al., 2023](https://academic.oup.com/gji/article/235/1/610/7209152)).
 
-
+<!--
 <img style="float: center;" src="/images/ldm_insar_im6_gnss_2003_2025_saocom_20192025.jpg" width="700">
 
 Laguna de Maule geodetic data. ALOS and SAOCOM-1 ascending interferograms converted to mean ground velocity dividing by their time span. ENVISAT IM6 velocity calculated from InSAR time series. Triangles are GNSS stations from OVDAS. Time series of ground deformation spanning 2003 to 2025 from ALOS, ENVISAT IM6 data and from the [MAU2](http://fdelgadodelapuente.github.io/MAU2.txt) GNSS station (largest triangle in the ALOS interferogram). The ellpise and star are the best-fit prolate spheroid and its centroid that can model horizontal GNSS vectors. Updated fom [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) and from the upcoming 3rd edition of Encyclopedia of Volcanoes.
-
-
-<img style="float: center;" src="/images/ts_svz_1993_2026_8volcs.png">
-InSAR and GNSS time series of ground deformation for selected volcanoes in the Southern Andes spanning more than three decades. Panels A-D are taken from Delgado et al.(2025), and for Chaitén I also include an additional SAOCOM-1 interferogram spanning 2022/11 to 2025/11. Data in E is from  [Navarrete et al., 2026](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184). Data in F includes a GNSS baseline time series from the OVDAS network processed by CSN, and ENVISAT/ALOS from Delgado et al., (2017). These InSAR data are very low quality and don't show clear deformation, so I'm only highlighting the time interval they span. Data in G are from a paper that will be submitted for review before April 26th. It also includes some ENVISAT and ALOS data that I have processed over the years. Data in H are compiled from Velez et al., (2011); Lundgren et al., (2017) and Cabrera et al., (2024).
-
-The compilation shows a variety of deformation mechanisms including secular deflation due to hydrothegrmal activity interrupted by transient episodes of magma injection (Copahue and Nevados de Chillan), coeruptive deflation during eruptions (Chaiten, Cordon Caulle, Calbuco), continuous inflation due to magma injection and/or viscoelastic relaxation after Plinian/sub-Plinian eruptions (Hudson, Cordon Caulle), near continuous injection of magma (Laguna del Maule) and one episode of trasient uplift after the 2015 eruption of Villarrica volcano.
-
+-->
 
 
 <!--
