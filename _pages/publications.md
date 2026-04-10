@@ -36,11 +36,11 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 **Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
 
-León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Fault segmentation along the South America - Scotia strike-slip plate boundary: insights from InSAR and tectonic geomorphology. In prep.
+León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR, GNSS and tectonic geomorphology. In prep.
 
-Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Comprehensive Monitoring of the Nevados de Chillán Volcanic Complex (Southern Andean Volcanic Zone) through the Combined Interpretation of Seismic and Geodetic Data (InSAR and GNSS). 
+Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. 
 
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. A joint InSAR and mineralogical characterization of anthropogenic deformation due to lithium brine extraction and salt growth in the Salar de Atacama basin (Central Andes). In prep.
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. In prep.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
