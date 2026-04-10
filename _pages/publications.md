@@ -47,7 +47,7 @@ Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Integr
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()
+[Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Submitted to Remote Sensing of Environment.
 
 [35. Geophysical Characterization of Magma Storage. ]()<br>
