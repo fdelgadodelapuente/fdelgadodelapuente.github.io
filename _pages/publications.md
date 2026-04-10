@@ -40,7 +40,6 @@ León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Inters
 
 Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. 
 
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. In prep.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,7 +47,7 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. Submitted to Remote Sensing of Environment.
 
 [35. Geophysical Characterization of Magma Storage. ]()<br>
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, in press.
