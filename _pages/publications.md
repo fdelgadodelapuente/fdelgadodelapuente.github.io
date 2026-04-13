@@ -38,8 +38,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 León-Ibáñez, P., **Delgado, F.**, Baez, J.C., Klinger, Y., Jolivet, R. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR, GNSS and tectonic geomorphology. In prep.
 
-Symmes-Lopetegui, B., Báez, J.C., **Delgado, F.**, Ruiz, S., Metzger, S. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. 
-
+Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
