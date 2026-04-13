@@ -47,7 +47,7 @@ Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrer
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Submitted to Remote Sensing of Environment.
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, under review.
 
 [35. Geophysical Characterization of Magma Storage. ]()<br>
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, in press.
