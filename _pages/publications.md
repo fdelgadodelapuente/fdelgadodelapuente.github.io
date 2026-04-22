@@ -32,11 +32,11 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
-
 **Delgado, F.**. Calibration and validation of PAZ InSAR time series: a case study of ground subsidence due to lithium-rich brine pumping in the Salar de Atacama basin (Central Andes, Northern Chile). In prep.
 
 León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR, GNSS and tectonic geomorphology. In prep.
+
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep.
 
 Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. 
 
