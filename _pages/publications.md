@@ -1,4 +1,4 @@
----
+c---
 title: ""
 permalink: /publications/
 author_profile: true
@@ -36,7 +36,7 @@ Most of these articles are already open source. If you need a copy of the other 
 
 León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR, GNSS and tectonic geomorphology. To be submitted to Journal of Geophysical Research.
 
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. To be submitted to Journal of Geophysical Research.
+
 
 Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025. To be submitted to Bulletin of Volcanology.
 
@@ -45,6 +45,9 @@ Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrer
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+[Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9]()<br>
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Earth and Space Science, submitted.
+
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, under review.
@@ -58,7 +61,7 @@ Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrer
 [33. Abnormally large magma flux does not lead to eruption in subduction zone calderas: The 2022-2023 episode of uplift of Aniakchak Crater (Aleutians).](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) <br>
 **Delgado, F.**, **2026**. Geophysical Research Letters, 53, e2025GL117786. doi:10.1029/2025GL117786.
 
-[32. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by continuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
+[32. Interseismic strain accumulation along the Chilean segment of the Magallanes - Fagnano fault zone recorded by cont[inuous GNSS.](https://www.sciencedirect.com/science/article/pii/S0895981125005516) <br>
 **Delgado, F.**, Báez, J. C., León-Ibáñez, P., **2026**.  Journal of South American Earth Sciences, 169, 105889, doi:10.1016/j.jsames.2025.105889. [Free access link.](https://authors.elsevier.com/a/1mBUA3BkFShd3C)
 
 [31. The triggering of sub-Plinian and Plinian eruptions: insights from three decades of InSAR observations in the Andean Southern Volcanic Zone (1991-2025) and a global compilation.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032010)<br>
