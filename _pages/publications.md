@@ -51,8 +51,8 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Earth and Space Science, 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, under review.
 
-[35. Geophysical Characterization of Magma Storage. ]()<br>
-Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, in press.
+[35. Geophysical characterisation of the structure of VPS.](https://shop.elsevier.com/books/the-encyclopedia-of-volcanoes/bonadonna/978-0-443-29180-7)<br>
+Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, Chapter 3.1, in press.
 
 [34. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) <br> 
 Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L., Alarcón, A. **2026**. Geophysical Research Letters, 53, e2025GL120184, doi:10.1029/2025GL120184.
