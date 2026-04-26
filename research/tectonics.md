@@ -1,4 +1,14 @@
+<!--
+Chiloe
+Turquia
 
+Mojopampa and friends
+San Juan
+Humahuaca
+Magallanes
+Pichilemu
+
+-->
 # **Active tectonics**
 
 ## **Crustal earthquakes and the seismic cycle**
