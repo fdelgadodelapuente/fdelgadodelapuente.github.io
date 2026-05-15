@@ -16,5 +16,5 @@ permalink: /isce/
 
 [MATLAB/Python](https://github.com/fdelgadodelapuente/isce_utils) utilies for loading data, masking, removing ramps and exporting the data to GMT grids.
 
-[TanDEM-X CoSSC processor](https://github.com/fdelgadodelapuente/tandemx): clunky code to generate bistatic interferograms. The following must be dumped in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
+[TanDEM-X CoSSC processor](https://github.com/fdelgadodelapuente/tandemx): clunky code to generate bistatic interferograms. Install the following files in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
 
