@@ -17,9 +17,9 @@ permalink: /isce/
 
 [SAOCOM-1 parser for stripmap stack processor, ALOS-4 parser for stripmapApp and stripmap stack processor ](https://github.com/isce-framework/isce2/pull/982).
 
-[FilterAndCoherence.py](https://github.com/fdelgadodelapuente/isce_utils/blob/main/FilterAndCoherence.py) for applying the layover mask to interferograms generated with the stripmap stack processor
+[FilterAndCoherence.py](https://github.com/fdelgadodelapuente/isce_utils/blob/main/FilterAndCoherence.py) for applying the layover mask to interferograms generated with the stripmap stack processor.
 
-[MATLAB/Python](https://github.com/fdelgadodelapuente/isce_utils) utilies for loading data, masking, removing ramps and exporting the data to GMT grids.
+[MATLAB/Python/C shell](https://github.com/fdelgadodelapuente/isce_utils) scripts for loading data, masking, removing ramps and exporting the data to GMT grids.
 
-[TanDEM-X CoSSC processor](https://github.com/fdelgadodelapuente/tandemx): clunky code to generate bistatic interferograms. Install the following files in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
+[TanDEM-X CoSSC processor](https://github.com/fdelgadodelapuente/tandemx). Clunky code to generate bistatic interferograms. Install the following files in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
 
