@@ -46,10 +46,10 @@ León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C. Inter
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025.]()<br> 
-Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Bulletin of Volcanology, submitted.
+Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Bulletin of Volcanology, under review.
 
 [Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9.]()<br>
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Earth and Space Science, submitted.
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Journal of Geophysical Research: Solid Earth, submitted.
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, under review.
