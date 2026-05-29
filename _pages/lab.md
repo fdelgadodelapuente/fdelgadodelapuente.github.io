@@ -11,6 +11,8 @@ author_profile: true
 
 <p style="font-size:small">Matias Arriagada (PhD Geology, 2030). Mechanisms of reservoir pressurization in arc and hot spot volcanoes constrained with InSAR.</p>
 
+<p style="font-size:small">Mauro Navarrete (PhD Geology, 2030). Volcano seismology and geodesy.</p>
+
 <img style="float: center;" src="/images/pablo_reja.JPG" style="width:300px;">
 <p style="font-size:small">Pablo Leon (PhD Geology, 2027). Neotectonics and interseismic strain of the Magallanes-Fagnano fault.</p>
 
