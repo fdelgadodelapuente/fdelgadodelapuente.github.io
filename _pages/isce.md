@@ -8,7 +8,7 @@ permalink: /isce/
 ---
 ## **ISCE tutorials**
 
-[Installation instructions for macOS](https://github.com/fdelgadodelapuente/isce_utils).
+[Installation instructions for macOS](https://github.com/fdelgadodelapuente/isce2_install).
 
 [ISCE tutorial](https://www.overleaf.com/read/shtkqpdjpghj) that I wrote for teaching students. It's mostly my troubleshooting notes over the years, but adapted into a Latex document. [Compiled PDF May 2026](https://drive.google.com/file/d/1FA_27gILYAF5t1hpepLDLlz37MBaL2bs/view?usp=share_link).
 
