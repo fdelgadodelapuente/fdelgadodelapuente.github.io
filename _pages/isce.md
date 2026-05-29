@@ -8,6 +8,8 @@ permalink: /isce/
 ---
 ## **ISCE tutorials**
 
+[Installation instructions for macOS](https://github.com/fdelgadodelapuente/isce_utils).
+
 [ISCE tutorial](https://www.overleaf.com/read/shtkqpdjpghj) that I wrote for teaching students. It's mostly my troubleshooting notes over the years, but adapted into a Latex document. [Compiled PDF May 2026](https://drive.google.com/file/d/1FA_27gILYAF5t1hpepLDLlz37MBaL2bs/view?usp=share_link).
 
 [TOPS Stack Processor and MintPy tutorial](https://www.overleaf.com/project/69fc94aeb1a36bc853a58932). Example for the Salar de Atacama Basin.
@@ -19,7 +21,7 @@ permalink: /isce/
 
 [FilterAndCoherence.py](https://github.com/fdelgadodelapuente/isce_utils/blob/main/FilterAndCoherence.py) for applying the layover mask to interferograms generated with the stripmap stack processor.
 
-[Installation instructions for macOS and MATLAB/Python/C shell scripts](https://github.com/fdelgadodelapuente/isce_utils) for loading data, masking, removing ramps and exporting the data to GMT grids. There is a code that takes ascending and descending unwrapped data and decomposes them onto vertical and EW displacements.
+[MATLAB/Python/C shell scripts](https://github.com/fdelgadodelapuente/isce_utils) for loading data, masking, removing ramps and exporting the data to GMT grids. There is a code that takes ascending and descending unwrapped data and decomposes them onto vertical and EW displacements.
 
 [TanDEM-X CoSSC processor](https://github.com/fdelgadodelapuente/tandemx). Clunky code to generate bistatic interferograms. Install the following files in the stripmap stack processor folder: tandemxApp.csh, unpackFrame_TDX.py, rangePix.py, bigeo2rdr.py
 
