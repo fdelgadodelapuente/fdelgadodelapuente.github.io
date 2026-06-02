@@ -8,11 +8,13 @@ permalink: /isce/
 ---
 ## **ISCE tutorials**
 
-[Installation instructions for macOS](https://github.com/fdelgadodelapuente/isce2_install).
+[Installation instructions for macOS](https://github.com/fdelgadodelapuente/isce2_install). 
+
+[X-, C-, and L-band example interferograms to be processed with ISCE](https://github.com/fdelgadodelapuente/isce2_install). 
 
 [ISCE tutorial](https://www.overleaf.com/read/shtkqpdjpghj) that I wrote for teaching students. It's mostly my troubleshooting notes over the years, but adapted into a Latex document. [Compiled PDF May 2026](https://drive.google.com/file/d/1FA_27gILYAF5t1hpepLDLlz37MBaL2bs/view?usp=share_link).
 
-[TOPS Stack Processor and MintPy tutorial](https://www.overleaf.com/project/69fc94aeb1a36bc853a58932). Example for the Salar de Atacama Basin.
+[TOPS Stack Processor and MintPy tutorial](https://github.com/fdelgadodelapuente/isce2_install/blob/main/mintpy_salaratacama.md). Example for the Salar de Atacama Basin.
 
 
 ### Software
