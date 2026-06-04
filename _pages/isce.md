@@ -12,9 +12,9 @@ permalink: /isce/
 
 [X-, C-, and L-band example interferograms to be processed with ISCE](https://github.com/fdelgadodelapuente/isce2_install#interferogram-processing). 
 
-[ISCE tutorial](https://www.overleaf.com/read/shtkqpdjpghj) It's mostly my troubleshooting notes over the years, but compiled in a Latex document. [Compiled PDF May 2026](https://drive.google.com/file/d/1FA_27gILYAF5t1hpepLDLlz37MBaL2bs/view?usp=share_link).
+[ISCE2 Software Manual for Earth Science](https://github.com/fdelgadodelapuente/isce2_install/blob/main/tutorial.md). It's mostly my troubleshooting notes over the years, but compiled in a Github site. 
 
-[TOPS Stack Processor and MintPy tutorial](https://github.com/fdelgadodelapuente/isce2_install/blob/main/mintpy_salaratacama.md). Example for anthropogenic subsidence in the Salar de Atacama Basin.
+[TOPS Stack Processor and MintPy tutorial](https://github.com/fdelgadodelapuente/isce2_install#stack-processor). Example for anthropogenic subsidence in the Salar de Atacama Basin.
 
 
 ### Software
