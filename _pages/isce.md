@@ -14,7 +14,7 @@ permalink: /isce/
 
 [X-, C-, and L-band example interferograms to be processed with ISCE](https://github.com/fdelgadodelapuente/isce2_install#interferogram-processing). 
 
-[TOPS Stack Processor and MintPy tutorial](https://github.com/fdelgadodelapuente/isce2_install#stack-processor). Example for anthropogenic subsidence in the Salar de Atacama Basin.
+[Stack Processors and MintPy tutorial](https://github.com/fdelgadodelapuente/isce2_install#stack-processor). Example for anthropogenic subsidence in the Salar de Atacama Basin.
 
 
 ### Software
