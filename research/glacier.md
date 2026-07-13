@@ -13,7 +13,7 @@ InSAR can be used to measure the displacement above the equilibrium lines of tid
 -->
 
 <img style="float: center;" src="/images/ers12_s1cd_tandem_chn.png" style="width:500px;">
-<p style="font-size:small">ERS-1/2 C-band 1-day and Sentinel-1C/D C-band 1-day interferograms of the Northern Patagonian Icefield spanning 1996 and 2026, respectively The color lines in the bottom panel show the velocity profiles for the two unwrapped interferograms across the San Quintin Glacier, the second largest glacier of the icefield. It shows that the San Quintin glacier has increased its speed over a 30 year interval.</p> 
+<p style="font-size:small">ERS-1/2 C-band 1-day and Sentinel-1C/D C-band 1-day descending interferograms of the Northern Patagonian Icefield spanning 1996 and 2026, respectively. The displacement is measured along the radar line-of-sight, so a negative  displacement implies ice motion downslope away from the radar, as expected for a descending orbit. The color lines in the bottom panel show the velocity profiles for the two unwrapped interferograms across the San Quintin Glacier, the second largest glacier of the icefield. It shows that the San Quintin glacier has increased its speed over a 30 year interval.</p> 
 
 This is the same kind of analysis than the one shown highlighted in the ESA website: [Satellites in tandem reveal 30 years of Antarctic ice flow](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow).
 
