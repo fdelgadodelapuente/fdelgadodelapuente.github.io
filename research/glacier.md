@@ -19,7 +19,7 @@ This is the same kind of analysis than the one shown highlighted in the ESA webs
 
 
 <img style="float: center;" src="/images/s1cd.sh.png" style="width:500px;">
-<p style="font-size:small">Sentinel-1C/D C-band 1-day ascending interferogram of the northern part of the Southern Patagonian Icefield. The displacement is measured along the radar line-of-sight, so a negative  displacement implies ice motion downslope away from the radar, as expected for an ascending orbit. The black dot is the reference pixel in the middle of the icefield. This is the only type of InSAR data that allows to measure glacier velocity with high resolution and high accuracy along the entire icefield, except on the frontal part of the glaciers that move too fast, leading to coherence loss.</p> 
+<p style="font-size:small">Sentinel-1C/D C-band 1-day ascending interferogram of the northern part of the Southern Patagonian Icefield. The displacement is measured along the radar line-of-sight, so a negative  displacement implies ice motion downslope away from the radar, as expected for an ascending orbit. The black dot is the reference pixel in the middle of the icefield. This is the only type of InSAR data that allows to measure glacier velocity with high resolution and high accuracy along the entire icefield, except on the frontal part of the glaciers that move too fast, leading to coherence loss. In certain regions this 1-day pair can even measure the displacement along the high fringe zones of the glacier shear zones. </p> 
 
 
 ### **Relevant publications**
