@@ -17,6 +17,11 @@ InSAR can be used to measure the displacement above the equilibrium lines of tid
 
 This is the same kind of analysis than the one shown highlighted in the ESA website: [Satellites in tandem reveal 30 years of Antarctic ice flow](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_in_tandem_reveal_30_years_of_Antarctic_ice_flow).
 
+
+<img style="float: center;" src="/images/s1cd.sh.png" style="width:500px;">
+<p style="font-size:small">Sentinel-1C/D C-band 1-day ascending interferogram of the northern part of the Southern Patagonian Icefield. The displacement is measured along the radar line-of-sight, so a negative  displacement implies ice motion downslope away from the radar, as expected for a descending orbit. This is the only type of data that allows to measure glacier deformation with a high resolution and high accuracy except on the frontal part of the glaciers that move too fast, leading to coherence loss.</p> 
+
+
 ### **Relevant publications**
 [A global assessment of SAOCOM-1 L-band stripmap data for InSAR characterization of volcanic, tectonic, cryospheric, and anthropogenic deformation.](https://ieeexplore.ieee.org/document/10586971)<br>
 **Delgado, F.**, Shreve, T., Borgstrom, S., León-Ibañez, P., Castillo, J., Poland, M.,**2024** IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2024.3423792.
