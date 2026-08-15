@@ -47,7 +47,7 @@ León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C. Inter
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Journal of Geophysical Research: Solid Earth, under review.
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, major revisions.
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, under review.
 
 [Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025.]()<br> 
 Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Bulletin of Volcanology, minor revisions, resubmitted.
