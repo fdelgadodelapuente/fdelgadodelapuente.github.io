@@ -5,7 +5,7 @@ Human activity can induce deformation in the crust triggered by fluid extraction
 ## **Induced Seismicity**
 <img style="float: center;" src="/images/ers_1999.jpg">
 
-ERS-2 interferogram of the 1999 Matjhabeng earthquake (Mb 5.1) in a gold mine in South Africa. The near vertical radar of beam ERS-2 (look angle of 21º) indicates that most of the deformation was vertical, and was then produced by slip on a normal fault. The large deformation signal is due to a very shallow fault.  
+ERS-2 interferogram of the 1999 Matjhabeng gold mine (South Africa) earthquake (Mb 5.1). The near vertical radar of beam ERS-2 (look angle of 21º) indicates that most of the deformation was vertical, and was then produced by slip on a normal fault . The large deformation signal is due to a very shallow fault.  
 
 ## **Aquifers**
 
