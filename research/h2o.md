@@ -2,7 +2,7 @@
 
 Human activity can induce deformation in the crust triggered by fluid extraction among other factors. These deformation signals can be measured from the space with InSAR, its temporal evolution in response to changes in the pumping rate tracked over time, and its impact over groundwater and geothermal resources and infrastructure mitigated. 
 
-***Aquifers***
+## **Aquifers**
 
 <img style="float: center;" src="/images/alos2_s1_paz.png">
 
@@ -12,7 +12,7 @@ ALOS-2 SM3 (A) and Sentinel-1 TOPS (B) interferograms that show ~2.5 and ~4 cm o
 
 SAOCOM-1 interferogram converted to mean vertical velocity (Uz) that shows 5 cm/yr of subsidence during early 2022 to late 2024 in the city of Colina near Santiago, Chile. The subsidence is most likely due to ground water extraction. This is the fastest anthropogenic subsidence observed so far in Chile. The black line is the limit between the Valparaiso and Metropolitana regions of central Chile.
 
-***Forests***
+## **Forests**
 
 
 <img style="float: center;" src="/images/cossc_valdivia.png">
