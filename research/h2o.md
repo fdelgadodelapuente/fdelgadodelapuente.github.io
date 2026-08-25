@@ -2,6 +2,11 @@
 
 Human activity can induce deformation in the crust triggered by fluid extraction among other factors. These deformation signals can be measured from the space with InSAR, its temporal evolution in response to changes in the pumping rate tracked over time, and its impact over groundwater and geothermal resources and infrastructure mitigated. 
 
+## **Induced Seismicity**
+<img style="float: center;" src="/images/ers_1999.jpg">
+
+ERS-2 interfeorgram of the 1999 Matjhabeng earthquake (Mw 5.1)in a gold mine in South Africa. The near vertical radar of beam ERS-2 (look angle of 21º) indicates that most of the deformation was vertical, and was then produced by slip on a normal fault.  
+
 ## **Aquifers**
 
 <img style="float: center;" src="/images/alos2_s1_paz.png">
