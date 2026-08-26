@@ -54,7 +54,7 @@ Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Mi
 
 
 [35. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025.](https://link.springer.com/journal/445)<br> 
-Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Bulletin of Volcanology, in press.
+Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A. Bulletin of Volcanology, doi:10.1007/s00445-026-02032-1.
 
 [34. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) <br> 
 Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L., Alarcón, A. **2026**. Geophysical Research Letters, 53, e2025GL120184, doi:10.1029/2025GL120184.
