@@ -52,8 +52,8 @@ Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez
 [36. Geophysical characterisation of the structure of VPS.](https://shop.elsevier.com/books/the-encyclopedia-of-volcanoes/bonadonna/978-0-443-29180-7)<br>
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, Chapter 3.1, in press.
 
-[35. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025.](https://rdcu.be/eLJR45Jw4LNa)<br> 
-Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A., **2026**. Bulletin of Volcanology, 88:109, doi:10.1007/s00445-026-02032-1.
+[35. Integrated Geodetic and Seismic Constraints on Deformation at Nevados de Chillán, 2015–2025.](https://link.springer.com/article/10.1007/s00445-026-02032-1)<br> 
+Symmes-Lopetegui, B., **Delgado, F.**, Metzger, S., Ruiz, S., Baez, J.C., Cabrera, L., Li, S., Alarcon, A., **2026**. Bulletin of Volcanology, 88:109, doi:10.1007/s00445-026-02032-1. [Free PDF link](https://rdcu.be/eLJR45Jw4LNa)
 
 [34. Long Unrest (2007-2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184) <br> 
 Navarrete-Reyes, M., **Delgado, F.,**, Ruiz, S., Báez, J.C., Pottin, B., Cabrera, L., Alarcón, A. **2026**. Geophysical Research Letters, 53, e2025GL120184, doi:10.1029/2025GL120184.
