@@ -7,20 +7,26 @@ author_profile: true
 <!-- 
 0. Subsidenchia Chile Central
 
-1. CHS SAocom velo 3D, 2027?
-2. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
-2.2 kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
-3. GIA Patagonia WD1/NISAR 
+1. CHS Sentinel-1 tandem / Saocom velo 3D, 2027
+2. review svz. 2027
+3. Kilauea 2018
+4. Aniakchak FEM
 
-4. Creep Mojopampa (Pablo)
-5. Paretebueno (Pablo)
+5. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
+6. kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
 
-6. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
-7. Hudson FEM L-band/DEM time series viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano.
-8. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
-9. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
-10. Nilahue TS
-11. Caulle triggering Mauro
+7. GIA Patagonia WD1/NISAR 
+
+8. Creep Mojopampa (Pablo)
+9. Paretebueno (Pablo)
+
+10. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
+11. Hudson FEM L-band/DEM time series viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano.
+12. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
+13. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
+14. Nilahue TS (Alida)
+15. Caulle triggering Mauro
+16. micrograv ldm josefa
 
 ALOS-2/NISAR Denali transicion entre intersismico y postsismico
 
