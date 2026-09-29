@@ -41,7 +41,6 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology. To be submitted to Journal of Geophysical Research.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,6 +50,9 @@ León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Poti
 
 [Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9.]()<br>
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Journal of Geophysical Research: Solid Earth, under review.
+
+[Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
+León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Journal of Geophysical Research, Solid Earth, submitted.
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
 Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, resubmitted.
