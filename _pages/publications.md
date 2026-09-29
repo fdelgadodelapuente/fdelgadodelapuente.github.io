@@ -41,7 +41,7 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
-León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR, GNSS and tectonic geomorphology. To be submitted to Journal of Geophysical Research.
+León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology. To be submitted to Journal of Geophysical Research.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
