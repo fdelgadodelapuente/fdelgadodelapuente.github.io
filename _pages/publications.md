@@ -5,28 +5,30 @@ author_profile: true
 ---
 
 <!-- 
-0. Subsidenchia Chile Central
+0. Subsidencia Chile Central
 
 1. CHS Sentinel-1 tandem / Saocom velo 3D, 2027
 2. review svz. 2027
 3. Kilauea 2018
 4. Aniakchak FEM
+5. Review InSAR volc
+6. CHS/CHN
 
-5. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
-6. kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
+7. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
+8. kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
 
-7. GIA Patagonia WD1/NISAR 
+9. GIA Patagonia WD1/NISAR 
 
-8. Creep Mojopampa (Pablo)
-9. Paretebueno (Pablo)
+10. Creep Mojopampa (Pablo)
+11. Paretebueno (Pablo)
 
-10. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
-11. Hudson FEM L-band/DEM time series viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano.
-12. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
-13. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
-14. Nilahue TS (Alida)
-15. Caulle triggering Mauro
-16. micrograv ldm josefa
+12. Caulle FEM with NISAR and GNSS (Matias/Josefa): ALOS-2/4, SAOCOM-1, NISAR, ENVISAT_2ifg/RS2_1ifg fin erupción para fuente Yang (b invertido con FEM) y DEFVOLC, hacer bien ulos2uxuz. Usar ese model para FEM con el gps Uz.
+13. Hudson FEM L-band/DEM time series viscoelastic (Matias). Deglaciation-driven triggering of volcanic unrest — insights from Hudson volcano.
+14. Okmok FEM (Matias).  Modelar exponenciales  OKCE y ts VOL con FEM
+15. Sundhnukkur (Matias). CSK y S1, y SENG/HS02/SKSH Uz
+16. Nilahue TS (Alida)
+17. Caulle triggering Mauro
+18. micrograv ldm josefa
 
 ALOS-2/NISAR Denali transicion entre intersismico y postsismico
 
@@ -49,7 +51,7 @@ Most of these articles are already open source. If you need a copy of the other 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9.]()<br>
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Journal of Geophysical Research: Solid Earth, under review.
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Under review.
 
 [Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
 León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Journal of Geophysical Research, Solid Earth, submitted.
