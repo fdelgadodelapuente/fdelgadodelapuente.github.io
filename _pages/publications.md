@@ -55,10 +55,10 @@ Navarrete-Reyes, M., Ruiz, S, **Delgado, F.**, Gaete, A., Franco-Marín, L. The 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
-León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Journal of Geophysical Research, Solid Earth, submitted.
+León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Journal of Geophysical Research, Solid Earth, under review.
 
 [Contrasting surface deformation in the Salar de Atacama: InSAR and mineralogical insights into brine-extraction subsidence and halite crust growth. ]()<br>
-Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Remote Sensing of Environment, resubmitted.
+Castillo, J., **Delgado, F.**, Maza, S., Morata, D., Pérez-Fodich, A., Álvarez, F., Samsonov, S. Journal of Geophysical Research, Earth Surface, under review.
 
 [36. Geophysical characterisation of the structure of VPS.](https://shop.elsevier.com/books/the-encyclopedia-of-volcanoes/bonadonna/978-0-443-29180-7)<br>
 Roman, D., De Siena, L., de Zeeuw van Dalfsen, E., **Delgado, F.**, Hill, G., Miller, C, Ebmeier, S., Paulatto, M., Rosas-Carbajal, 2026. M. Encyclopedia of Volcanoes, 3rd edition, Chapter 3.1, in press.
