@@ -43,15 +43,16 @@ Most of these articles are already open source. If you need a copy of the other 
 
 **Delgado, F.**, Quinteros, M., Coppola, D., Báez, J.C. Open vent volcanism unravelled with 22 years of data: a case study of the Villarrica lava lake. In prep.
 
+Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep
+
+
+Navarrete-Reyes, M., Ruiz, S, **Delgado, F.**, Gaete, A., Franco-Marín, L. The Life Cycle of a Silicic Eruption: A Decadal Seismo-Geodetic Perspective of the Puyehue-Cordón Caulle Volcanic System. In prep
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9.]()<br>
-Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Under review.
 
 [Interseismic deformation and segmentation of the Magallanes-Fagnano Fault System from InSAR and tectonic geomorphology.](https://agupubs.onlinelibrary.wiley.com/journal/21699356)<br>
 León-Ibáñez, P., **Delgado, F.**, Klinger, Y., Jolivet, R.,  Baez, J.C., Potin, B., Ruiz, S., Ojeda, J. Journal of Geophysical Research, Solid Earth, submitted.
