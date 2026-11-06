@@ -48,6 +48,7 @@ Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Defo
 
 Navarrete-Reyes, M., Ruiz, S, **Delgado, F.**, Gaete, A., Franco-Marín, L. The Life Cycle of a Silicic Eruption: A Decadal Seismo-Geodetic Perspective of the Puyehue-Cordón Caulle Volcanic System. In prep
 
+León-Ibáñez, P., **Delgado, F.** Three decades of large earthquakes at the Colombian Eastern Frontal Fault System (EFFS) (un)constrained by InSAR. In prep.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
