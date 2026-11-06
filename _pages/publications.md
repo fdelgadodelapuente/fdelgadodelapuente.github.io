@@ -46,9 +46,10 @@ Most of these articles are already open source. If you need a copy of the other 
 Herrera, G., **Delgado, F.**, Riquelme, S., Campos, J. Evolution of Crustal Deformation (2007-2011): InSAR, GNSS, and Teleseismic Analysis of the 2010 Pichilemu Earthquakes Mw 7.0 and 6.9. In prep
 
 
-Navarrete-Reyes, M., Ruiz, S, **Delgado, F.**, Gaete, A., Franco-Marín, L. The Life Cycle of a Silicic Eruption: A Decadal Seismo-Geodetic Perspective of the Puyehue-Cordón Caulle Volcanic System. In prep
+Navarrete-Reyes, M., Ruiz, S, **Delgado, F.**, Gaete, A., Franco-Marín, L. The Life Cycle of a Silicic Eruption: A Decadal Seismo-Geodetic Perspective of the Puyehue-Cordón Caulle Volcanic System. In prep.
 
 León-Ibáñez, P., **Delgado, F.** Three decades of large earthquakes at the Colombian Eastern Frontal Fault System (EFFS) (un)constrained by InSAR. In prep.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
