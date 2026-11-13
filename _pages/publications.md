@@ -7,12 +7,11 @@ author_profile: true
 <!-- 
 0. Subsidencia Chile Central
 
-1. CHS Sentinel-1 tandem / Saocom velo 3D, 2027
+1. CHS/CHN Sentinel-1 tandem / Saocom velo 3D, 2027
 2. review svz. 2027
 3. Kilauea 2018
 4. Aniakchak FEM
 5. Review InSAR volc
-6. CHS/CHN
 
 7. Flujo acoplado dike-reservor y oscilador amortiguado (Kilauea, sierra negra, bardarbunga, Segall, Roman)
 8. kilauea 2025, 1983, svartsengi como damped oscillator y relación con el estilo eruptivo
