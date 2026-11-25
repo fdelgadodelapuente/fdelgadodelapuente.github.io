@@ -15,7 +15,7 @@ The compilation shows six different mechanisms of ground deformation. These are:
 
 
 
-<img style="float: center;" src="/images/saocom_aniakchak.jpeg" width="700">
+<img style="float: center;" src="/images/saocom_2022_2026.jpg" width="700">
 
 Episode of unrest at Aniakchak Crater in Alaska during early 2023, with a LOS uplift of ~80 cm in less than one year (A) followed by ground deflation with a rate of -7 cm/yr (B). Panel (E) shows a time series for the pxiel of the same color in (A-B). This is the fastest deformation event I have detected ever with InSAR (Updated from [Delgado et al., 2024.](https://ieeexplore.ieee.org/document/10586971), [Delgado, 2026.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117786) )<br>.
 
